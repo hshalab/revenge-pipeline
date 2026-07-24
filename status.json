@@ -1,15 +1,21 @@
 {
   "story_id": 74,
   "premise": "After nursing my husband through his final illness, I inherited his 1957 Chevy Bel Air appraised at $125,000 and partnered with my sister-in-law to open a classic-car detailing shop, using the car as collateral for a $70,000 SBA loan, but she forged a title transfer, sold the Bel Air for $95,000, and disappeared; I traced the VIN, repossessed the car at an out-of-state auction, and now run ‘Spit Shine & Subpoenas’ mobile detailing—every service invoice includes her outstanding arrest warrant number and a 10% discount for law enforcement.",
-  "stage": "script",
+  "stage": "audio",
   "stages": {
     "script": {
       "label": "Writing script",
       "icon": "pen",
       "status": "done",
       "detail": "5,784 words"
+    },
+    "audio": {
+      "label": "Kokoro narration",
+      "icon": "mic",
+      "status": "running",
+      "detail": "Kokoro af_bella narrating..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-24T23:10:13.135288+00:00"
+  "updated_at": "2026-07-24T23:10:14.615712+00:00"
 }
