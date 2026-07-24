@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Daughter Forged My POA, Stole $340K & Abandoned Me. So I Watched Her License "
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-24T15:15:08.537704+00:00"
+  "updated_at": "2026-07-24T15:17:40.245234+00:00"
 }
