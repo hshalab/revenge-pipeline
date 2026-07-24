@@ -1,7 +1,7 @@
 {
   "story_id": 73,
   "premise": "I invested my entire $90,000 factory pension to co-develop a patented organic composting system with my brother-in-law on a 50/50 handshake, but he forged my relinquishment of rights, filed a sole patent, and landed a $600,000 city contract under a new LLC; I proved the forgery, won half the royalties and the LLC, then rebranded it ‘Composted Lies Inc.’—now I sell the system to the same city and donate a portion of profits to a forgery-detection nonprofit, listing him as ‘Inspirational Fraudster of the Year’ on every check.",
-  "stage": "assembly",
+  "stage": "upload",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -26,8 +26,14 @@
       "icon": "film",
       "status": "done",
       "detail": "33.6 min, 862MB"
+    },
+    "upload": {
+      "label": "Uploading to YouTube",
+      "icon": "upload",
+      "status": "running",
+      "detail": ""
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-24T20:58:01.270537+00:00"
+  "updated_at": "2026-07-24T20:58:02.575702+00:00"
 }
