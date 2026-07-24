@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Sister-In-Law Forged The Title And Sold My Husband's Car. So I Tracked VIN, S"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-24T23:25:12.614865+00:00"
+  "updated_at": "2026-07-24T23:27:38.173068+00:00"
 }
