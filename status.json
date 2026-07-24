@@ -1,40 +1,8 @@
 {
-  "story_id": 73,
-  "premise": "I invested my entire $90,000 factory pension to co-develop a patented organic composting system with my brother-in-law on a 50/50 handshake, but he forged my relinquishment of rights, filed a sole patent, and landed a $600,000 city contract under a new LLC; I proved the forgery, won half the royalties and the LLC, then rebranded it ‘Composted Lies Inc.’—now I sell the system to the same city and donate a portion of profits to a forgery-detection nonprofit, listing him as ‘Inspirational Fraudster of the Year’ on every check.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,902 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Brother-in-Law Stole My $90K Pension and the Compost Patent. So I Own His Com"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "33.6 min, 862MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=XepF0qUk9ss"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-24T20:58:33.855690+00:00",
-  "video_id": "XepF0qUk9ss"
+  "story_id": 74,
+  "premise": "After nursing my husband through his final illness, I inherited his 1957 Chevy Bel Air appraised at $125,000 and partnered with my sister-in-law to open a classic-car detailing shop, using the car as collateral for a $70,000 SBA loan, but she forged a title transfer, sold the Bel Air for $95,000, and disappeared; I traced the VIN, repossessed the car at an out-of-state auction, and now run ‘Spit Shine & Subpoenas’ mobile detailing—every service invoice includes her outstanding arrest warrant number and a 10% discount for law enforcement.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-24T23:03:30.796551+00:00"
 }
