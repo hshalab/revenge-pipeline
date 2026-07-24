@@ -34,6 +34,7 @@
       "detail": "youtube.com/watch?v=XepF0qUk9ss"
     }
   },
-  "run_state": "running",
-  "updated_at": "2026-07-24T20:58:31.965176+00:00"
+  "run_state": "done",
+  "updated_at": "2026-07-24T20:58:33.855690+00:00",
+  "video_id": "XepF0qUk9ss"
 }
