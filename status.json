@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Brother-in-Law Stole My $90K Pension and the Compost Patent. So I Own His Com"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-24T20:40:40.029124+00:00"
+  "updated_at": "2026-07-24T20:41:50.060807+00:00"
 }
