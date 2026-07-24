@@ -1,7 +1,7 @@
 {
   "story_id": 71,
   "premise": "I cleared my daughter’s $105,000 medical-school debt on her sworn promise to be my power of attorney, but she forged a durable POA, drained my $340,000 IRA, and bought a no-seniors condo in another city; I exposed the fraud, won a $410,000 judgment, secured the suspension of her medical license, and now live in that condo renting rooms to nursing students while I teach a course called ‘Financial Defibrillation’ with her mugshot on the syllabus.",
-  "stage": "audio",
+  "stage": "thumb",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -14,8 +14,14 @@
       "icon": "mic",
       "status": "done",
       "detail": ""
+    },
+    "thumb": {
+      "label": "Thumbnail + metadata",
+      "icon": "image",
+      "status": "running",
+      "detail": "Writing title/tags + rendering thumbnail..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-24T15:15:06.350565+00:00"
+  "updated_at": "2026-07-24T15:15:08.537704+00:00"
 }
