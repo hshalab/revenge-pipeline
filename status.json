@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Son Forged A Gift Letter, Sold My Business For $1.6M. So I Watched Him Wear T"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-24T18:04:20.084944+00:00"
+  "updated_at": "2026-07-24T18:07:10.007876+00:00"
 }
