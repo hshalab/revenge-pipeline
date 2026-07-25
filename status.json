@@ -1,8 +1,15 @@
 {
   "story_id": 82,
   "premise": "After my mother died, I inherited her $350,000 farmhouse on 10 acres, but my brother—the executor and the golden child—forged a deed transferring it to himself for $1, claimed I had verbally agreed to sell, and evicted me on my 60th birthday; I hired a title attorney, proved the deed was a fabrication, and the court awarded me the house plus back rent, so now I lease the farmhouse back to him under a triple-net lease that rises each time he complains, while I live in the adjacent cottage running a farm-to-table B&B called ‘The Forged Acre’ with a permanent sign listing his criminal restitution case number.",
-  "stage": null,
-  "stages": {},
+  "stage": "script",
+  "stages": {
+    "script": {
+      "label": "Writing script",
+      "icon": "pen",
+      "status": "running",
+      "detail": "Sonnet 5 writing..."
+    }
+  },
   "run_state": "running",
-  "updated_at": "2026-07-25T22:58:14.735394+00:00"
+  "updated_at": "2026-07-25T22:58:16.841212+00:00"
 }
