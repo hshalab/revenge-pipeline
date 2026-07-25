@@ -1,7 +1,7 @@
 {
   "story_id": 78,
   "premise": "I paid $135,000 out of my late‑husband’s life insurance to put my granddaughter through dental school after she signed a promissory note agreeing to practice in my low‑income town and provide me free care; upon graduating she joined a cosmetic chain in a wealthy suburb, claimed the note was a ‘sentimental gesture,’ and blocked my calls. I sued on the note, won a $195,000 judgment plus statutory interest, and now that she can’t pay, I garnish $1,200 a month from her salary — every check funds a mobile dental clinic I operate in the very neighborhood she abandoned, with a decal listing her name as the ‘Involuntary Founding Sponsor.’",
-  "stage": "assembly",
+  "stage": "upload",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -26,8 +26,14 @@
       "icon": "film",
       "status": "done",
       "detail": "30.5 min, 782MB"
+    },
+    "upload": {
+      "label": "Uploading to YouTube",
+      "icon": "upload",
+      "status": "running",
+      "detail": ""
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-25T11:46:55.207902+00:00"
+  "updated_at": "2026-07-25T11:46:56.358808+00:00"
 }
