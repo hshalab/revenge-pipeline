@@ -1,40 +1,8 @@
 {
-  "story_id": 81,
-  "premise": "I spent $68,000 of my late husband’s life insurance to fund my stepdaughter’s fertility treatments after she signed a contract promising to care for me in my old age; once she had her twins, she moved across the country and ghosted me, claiming I’d meant it as a gift—I sued for breach of contract, won a $95,000 judgment, and now garnish $800 monthly from her salary as a hospital executive to directly support my ‘Second Chance IVF’ support group for low-income women, with every check memo reading ‘Family Betrayal Fee.’",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "8,185 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Stepdaughter Spent $68K On IVF, Vanished With Twins. So I Garnish Her Pay Eac"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "48.1 min, 1236MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=mhuwuVSWdAk"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-25T21:14:01.906220+00:00",
-  "video_id": "mhuwuVSWdAk"
+  "story_id": 82,
+  "premise": "After my mother died, I inherited her $350,000 farmhouse on 10 acres, but my brother—the executor and the golden child—forged a deed transferring it to himself for $1, claimed I had verbally agreed to sell, and evicted me on my 60th birthday; I hired a title attorney, proved the deed was a fabrication, and the court awarded me the house plus back rent, so now I lease the farmhouse back to him under a triple-net lease that rises each time he complains, while I live in the adjacent cottage running a farm-to-table B&B called ‘The Forged Acre’ with a permanent sign listing his criminal restitution case number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-25T22:58:14.735394+00:00"
 }
