@@ -1,15 +1,21 @@
 {
   "story_id": 76,
   "premise": "When my sister was dying, I moved into her $380,000 condo, spent $88,000 of my widow’s savings on her experimental treatments, and was promised the condo in a notarized letter so her son couldn’t contest it; the day after the funeral my nephew produced a trust that left the condo to him and called my payments ‘rent.’ I found a voicemail where my sister told him he’d be cut off if he touched my inheritance, sued for unjust enrichment, and won a $195,000 judgment — when he couldn’t pay, I foreclosed on the condo, now rent it to traveling nurses, and deduct his garnished wages as ‘emotional damages’ on my tax return.",
-  "stage": "script",
+  "stage": "audio",
   "stages": {
     "script": {
       "label": "Writing script",
       "icon": "pen",
       "status": "done",
       "detail": "6,506 words"
+    },
+    "audio": {
+      "label": "Kokoro narration",
+      "icon": "mic",
+      "status": "running",
+      "detail": "Kokoro af_bella narrating..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-25T06:24:46.589076+00:00"
+  "updated_at": "2026-07-25T06:24:48.694271+00:00"
 }
