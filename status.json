@@ -1,40 +1,8 @@
 {
-  "story_id": 74,
-  "premise": "After nursing my husband through his final illness, I inherited his 1957 Chevy Bel Air appraised at $125,000 and partnered with my sister-in-law to open a classic-car detailing shop, using the car as collateral for a $70,000 SBA loan, but she forged a title transfer, sold the Bel Air for $95,000, and disappeared; I traced the VIN, repossessed the car at an out-of-state auction, and now run ‘Spit Shine & Subpoenas’ mobile detailing—every service invoice includes her outstanding arrest warrant number and a 10% discount for law enforcement.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,784 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Sister-In-Law Forged The Title And Sold My Husband's Car. So I Tracked VIN, S"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "31.1 min, 802MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=CTRjKMz7BHk"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-24T23:46:44.477898+00:00",
-  "video_id": "CTRjKMz7BHk"
+  "story_id": 75,
+  "premise": "I drained my $95,000 401(k) to buy a failing Greek diner with my daughter and son‑in‑law, taking a signed partnership agreement for a 40% stake and a salaried manager’s job; six months later they handed me a ‘revised’ contract that stripped my equity and fired me, claiming I’d only been a lender. I tipped off the IRS about their unreported cash catering side‑hustle, collected a $210,000 whistleblower reward, and bought the diner’s assets at the tax auction for $34,000 — now I run ‘Traitor’s Gyros’ in the same spot, and every receipt prints the IRS case number that proved they cooked the books.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-25T04:13:15.417817+00:00"
 }
