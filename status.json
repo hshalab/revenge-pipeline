@@ -1,15 +1,21 @@
 {
   "story_id": 80,
   "premise": "I used my entire $85,000 pension to buy a struggling laundromat with my younger brother, trusting his promise of 50/50 ownership and a monthly income for my golden years; after a year he forged my signature on a bill of sale, claimed the business was his alone, and banned me from the premises—I found the original partnership agreement in my safety deposit box, sued for fraud, was awarded full ownership, and now he works three night shifts a week as my janitor wearing a uniform that says ‘Trust Wash Out’ while a neon sign in the window flashes ‘Sudsy Justice.’",
-  "stage": "script",
+  "stage": "audio",
   "stages": {
     "script": {
       "label": "Writing script",
       "icon": "pen",
       "status": "done",
       "detail": "6,601 words"
+    },
+    "audio": {
+      "label": "Kokoro narration",
+      "icon": "mic",
+      "status": "running",
+      "detail": "Kokoro af_bella narrating..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-25T17:13:49.410347+00:00"
+  "updated_at": "2026-07-25T17:13:51.825232+00:00"
 }
