@@ -1,40 +1,8 @@
 {
-  "story_id": 76,
-  "premise": "When my sister was dying, I moved into her $380,000 condo, spent $88,000 of my widow’s savings on her experimental treatments, and was promised the condo in a notarized letter so her son couldn’t contest it; the day after the funeral my nephew produced a trust that left the condo to him and called my payments ‘rent.’ I found a voicemail where my sister told him he’d be cut off if he touched my inheritance, sued for unjust enrichment, and won a $195,000 judgment — when he couldn’t pay, I foreclosed on the condo, now rent it to traveling nurses, and deduct his garnished wages as ‘emotional damages’ on my tax return.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,506 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Dying Sister Gave Me Her Condo, My Nephew Called It Rent. So I Foreclosed And"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "34.7 min, 910MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=cT3_9ZHUep0"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-25T07:04:14.888944+00:00",
-  "video_id": "cT3_9ZHUep0"
+  "story_id": 77,
+  "premise": "At 57 I raided my $60,000 factory pension to fund my brother’s backyard vertical‑farming startup, shaking hands on a 30% share and a seat on the board; once he landed a $900,000 supermarket contract, he sent me a check for $62,000 and a letter dissolving our arrangement. I proved the verbal contract through years of text messages, sued for promissory estoppel, and was awarded $280,000 in lost equity — I used the settlement to buy a competing hydroponic warehouse, now supply the same supermarket chain with ‘Legacy Greens,’ and a QR code on every package links to the court opinion and his deposition perjury.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-25T09:03:44.818734+00:00"
 }
