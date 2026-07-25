@@ -1,7 +1,7 @@
 {
   "story_id": 77,
   "premise": "At 57 I raided my $60,000 factory pension to fund my brother’s backyard vertical‑farming startup, shaking hands on a 30% share and a seat on the board; once he landed a $900,000 supermarket contract, he sent me a check for $62,000 and a letter dissolving our arrangement. I proved the verbal contract through years of text messages, sued for promissory estoppel, and was awarded $280,000 in lost equity — I used the settlement to buy a competing hydroponic warehouse, now supply the same supermarket chain with ‘Legacy Greens,’ and a QR code on every package links to the court opinion and his deposition perjury.",
-  "stage": "audio",
+  "stage": "thumb",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -14,8 +14,14 @@
       "icon": "mic",
       "status": "done",
       "detail": ""
+    },
+    "thumb": {
+      "label": "Thumbnail + metadata",
+      "icon": "image",
+      "status": "running",
+      "detail": "Writing title/tags + rendering thumbnail..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-25T09:28:51.341869+00:00"
+  "updated_at": "2026-07-25T09:28:52.864508+00:00"
 }
