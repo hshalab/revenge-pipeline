@@ -1,27 +1,8 @@
 {
-  "story_id": 77,
-  "premise": "At 57 I raided my $60,000 factory pension to fund my brother’s backyard vertical‑farming startup, shaking hands on a 30% share and a seat on the board; once he landed a $900,000 supermarket contract, he sent me a check for $62,000 and a letter dissolving our arrangement. I proved the verbal contract through years of text messages, sued for promissory estoppel, and was awarded $280,000 in lost equity — I used the settlement to buy a competing hydroponic warehouse, now supply the same supermarket chain with ‘Legacy Greens,’ and a QR code on every package links to the court opinion and his deposition perjury.",
-  "stage": "thumb",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,505 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "error",
-      "detail": "Expecting ',' delimiter: line 26 column 6 (char 1306)"
-    }
-  },
-  "run_state": "failed",
-  "updated_at": "2026-07-25T09:30:10.851466+00:00"
+  "story_id": 78,
+  "premise": "I paid $135,000 out of my late‑husband’s life insurance to put my granddaughter through dental school after she signed a promissory note agreeing to practice in my low‑income town and provide me free care; upon graduating she joined a cosmetic chain in a wealthy suburb, claimed the note was a ‘sentimental gesture,’ and blocked my calls. I sued on the note, won a $195,000 judgment plus statutory interest, and now that she can’t pay, I garnish $1,200 a month from her salary — every check funds a mobile dental clinic I operate in the very neighborhood she abandoned, with a decal listing her name as the ‘Involuntary Founding Sponsor.’",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-25T11:04:33.884608+00:00"
 }
