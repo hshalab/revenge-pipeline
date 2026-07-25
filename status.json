@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Son and His Wife Took My $110,000 and Evicted Me. So I Bought Their House at "
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-25T14:56:22.370417+00:00"
+  "updated_at": "2026-07-25T14:57:26.481153+00:00"
 }
