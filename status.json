@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Brother Forged A Deed, Stole My $350K Farmhouse, And Evicted Me. So I Became "
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-25T23:14:40.454568+00:00"
+  "updated_at": "2026-07-25T23:15:26.034618+00:00"
 }
