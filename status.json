@@ -1,7 +1,7 @@
 {
   "story_id": 79,
   "premise": "I gave my son and his wife $110,000 from my 403(b) to build an accessible in‑law suite onto their four‑bedroom house, securing a life‑estate agreement in writing; two years later they divorced and the daughter‑in‑law got the house in the settlement, then served me a 30‑day eviction notice saying the agreement didn’t bind her. I sued her and my son for joint unjust enrichment, won a $175,000 lien, and when the house went into foreclosure because they couldn’t refinance, I bought it at auction for the lien value — now I live upstairs and rent the in‑law suite to a widowed nurse, while both of them get a monthly bill for the property tax differential.",
-  "stage": "audio",
+  "stage": "thumb",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -14,8 +14,14 @@
       "icon": "mic",
       "status": "done",
       "detail": ""
+    },
+    "thumb": {
+      "label": "Thumbnail + metadata",
+      "icon": "image",
+      "status": "running",
+      "detail": "Writing title/tags + rendering thumbnail..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-25T14:56:20.244440+00:00"
+  "updated_at": "2026-07-25T14:56:22.370417+00:00"
 }
