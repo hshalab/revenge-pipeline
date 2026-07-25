@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Brother Took My $85K Laundromat And Banned Me. So I Watched Him Mop In 'Trust"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-25T17:27:09.698163+00:00"
+  "updated_at": "2026-07-25T17:28:13.687607+00:00"
 }
