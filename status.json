@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Granddaughter Took $135K, Broke Her Promise, And Vanished. So I Put Her Name "
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-25T11:26:02.327589+00:00"
+  "updated_at": "2026-07-25T11:28:21.861352+00:00"
 }
