@@ -535,6 +535,33 @@
       "status": "done",
       "video_id": "UdtGFzXQ3C0",
       "publish_at": "2026-07-26T01:00:00.000000Z"
+    },
+    {
+      "id": 80,
+      "premise": "I used my entire $85,000 pension to buy a struggling laundromat with my younger brother, trusting his promise of 50/50 ownership and a monthly income for my golden years; after a year he forged my signature on a bill of sale, claimed the business was his alone, and banned me from the premises—I found the original partnership agreement in my safety deposit box, sued for fraud, was awarded full ownership, and now he works three night shifts a week as my janitor wearing a uniform that says ‘Trust Wash Out’ while a neon sign in the window flashes ‘Sudsy Justice.’",
+      "status": "done",
+      "video_id": "QMMv5x5GiA8",
+      "publish_at": "2026-07-26T04:00:00.000000Z"
+    },
+    {
+      "id": 81,
+      "premise": "I spent $68,000 of my late husband’s life insurance to fund my stepdaughter’s fertility treatments after she signed a contract promising to care for me in my old age; once she had her twins, she moved across the country and ghosted me, claiming I’d meant it as a gift—I sued for breach of contract, won a $95,000 judgment, and now garnish $800 monthly from her salary as a hospital executive to directly support my ‘Second Chance IVF’ support group for low-income women, with every check memo reading ‘Family Betrayal Fee.’",
+      "status": "pending"
+    },
+    {
+      "id": 82,
+      "premise": "After my mother died, I inherited her $350,000 farmhouse on 10 acres, but my brother—the executor and the golden child—forged a deed transferring it to himself for $1, claimed I had verbally agreed to sell, and evicted me on my 60th birthday; I hired a title attorney, proved the deed was a fabrication, and the court awarded me the house plus back rent, so now I lease the farmhouse back to him under a triple-net lease that rises each time he complains, while I live in the adjacent cottage running a farm-to-table B&B called ‘The Forged Acre’ with a permanent sign listing his criminal restitution case number.",
+      "status": "pending"
+    },
+    {
+      "id": 83,
+      "premise": "I invested $92,000 from my deceased husband’s pension into my niece’s vintage fashion boutique with a signed operating agreement granting me a 40% ownership stake; when a competitor offered $750,000 to buy it, my niece forged a dissolution document, paid me back exactly $92,000 claiming it was always a loan, and pocketed the sale—I proved the forgery, won the company’s intellectual property, rebranded it as ‘Second-Hand Vows,’ now run a thriving online resale shop, and she was court-ordered to work as my inventory sorter for 18 months wearing a lanyard that reads ‘Original Forger.’",
+      "status": "pending"
+    },
+    {
+      "id": 84,
+      "premise": "When my brother died, his will split his $290,000 remote fishing camp equally between me and his widow, but my sister-in-law forged a quitclaim deed transferring my half to her for $1, then sold the entire property to a developer for $310,000; I tracked down the original survey and signature samples, proved the forgery, and the court voided the sale—now I own the camp outright, run it as a women’s angler retreat called ‘Reel Justice Lodge,’ and every quarter I mail my sister-in-law a profit statement with a handwritten note: ‘Thanks for the donation.’",
+      "status": "pending"
     }
   ]
 }
