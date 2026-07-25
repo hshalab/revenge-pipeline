@@ -1,15 +1,21 @@
 {
   "story_id": 81,
   "premise": "I spent $68,000 of my late husband’s life insurance to fund my stepdaughter’s fertility treatments after she signed a contract promising to care for me in my old age; once she had her twins, she moved across the country and ghosted me, claiming I’d meant it as a gift—I sued for breach of contract, won a $95,000 judgment, and now garnish $800 monthly from her salary as a hospital executive to directly support my ‘Second Chance IVF’ support group for low-income women, with every check memo reading ‘Family Betrayal Fee.’",
-  "stage": "script",
+  "stage": "audio",
   "stages": {
     "script": {
       "label": "Writing script",
       "icon": "pen",
       "status": "done",
       "detail": "8,185 words"
+    },
+    "audio": {
+      "label": "Kokoro narration",
+      "icon": "mic",
+      "status": "running",
+      "detail": "Kokoro af_bella narrating..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-25T20:20:14.416711+00:00"
+  "updated_at": "2026-07-25T20:20:16.506892+00:00"
 }
