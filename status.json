@@ -1,15 +1,21 @@
 {
   "story_id": 75,
   "premise": "I drained my $95,000 401(k) to buy a failing Greek diner with my daughter and son‑in‑law, taking a signed partnership agreement for a 40% stake and a salaried manager’s job; six months later they handed me a ‘revised’ contract that stripped my equity and fired me, claiming I’d only been a lender. I tipped off the IRS about their unreported cash catering side‑hustle, collected a $210,000 whistleblower reward, and bought the diner’s assets at the tax auction for $34,000 — now I run ‘Traitor’s Gyros’ in the same spot, and every receipt prints the IRS case number that proved they cooked the books.",
-  "stage": "script",
+  "stage": "audio",
   "stages": {
     "script": {
       "label": "Writing script",
       "icon": "pen",
       "status": "done",
       "detail": "6,234 words"
+    },
+    "audio": {
+      "label": "Kokoro narration",
+      "icon": "mic",
+      "status": "running",
+      "detail": "Kokoro af_bella narrating..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-25T04:18:06.269157+00:00"
+  "updated_at": "2026-07-25T04:18:08.248508+00:00"
 }
