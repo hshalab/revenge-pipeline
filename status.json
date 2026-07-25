@@ -1,40 +1,8 @@
 {
-  "story_id": 78,
-  "premise": "I paid $135,000 out of my late‑husband’s life insurance to put my granddaughter through dental school after she signed a promissory note agreeing to practice in my low‑income town and provide me free care; upon graduating she joined a cosmetic chain in a wealthy suburb, claimed the note was a ‘sentimental gesture,’ and blocked my calls. I sued on the note, won a $195,000 judgment plus statutory interest, and now that she can’t pay, I garnish $1,200 a month from her salary — every check funds a mobile dental clinic I operate in the very neighborhood she abandoned, with a decal listing her name as the ‘Involuntary Founding Sponsor.’",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,941 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Granddaughter Took $135K, Broke Her Promise, And Vanished. So I Put Her Name "
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "30.5 min, 782MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=uI85LB-frLI"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-25T11:47:22.795007+00:00",
-  "video_id": "uI85LB-frLI"
+  "story_id": 79,
+  "premise": "I gave my son and his wife $110,000 from my 403(b) to build an accessible in‑law suite onto their four‑bedroom house, securing a life‑estate agreement in writing; two years later they divorced and the daughter‑in‑law got the house in the settlement, then served me a 30‑day eviction notice saying the agreement didn’t bind her. I sued her and my son for joint unjust enrichment, won a $175,000 lien, and when the house went into foreclosure because they couldn’t refinance, I bought it at auction for the lien value — now I live upstairs and rent the in‑law suite to a widowed nurse, while both of them get a monthly bill for the property tax differential.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-25T14:29:55.950930+00:00"
 }
