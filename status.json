@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Dying Sister Gave Me Her Condo, My Nephew Called It Rent. So I Foreclosed And"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-25T06:41:23.916357+00:00"
+  "updated_at": "2026-07-25T06:42:42.026779+00:00"
 }
