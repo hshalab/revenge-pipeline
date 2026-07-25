@@ -1,40 +1,8 @@
 {
-  "story_id": 75,
-  "premise": "I drained my $95,000 401(k) to buy a failing Greek diner with my daughter and son‑in‑law, taking a signed partnership agreement for a 40% stake and a salaried manager’s job; six months later they handed me a ‘revised’ contract that stripped my equity and fired me, claiming I’d only been a lender. I tipped off the IRS about their unreported cash catering side‑hustle, collected a $210,000 whistleblower reward, and bought the diner’s assets at the tax auction for $34,000 — now I run ‘Traitor’s Gyros’ in the same spot, and every receipt prints the IRS case number that proved they cooked the books.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,234 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Daughter And Son-In-Law Stole My $95K And Fired Me. So I Tipped Off The IRS A"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "35.7 min, 946MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=DqVgfUAVWSQ"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-25T04:58:18.493751+00:00",
-  "video_id": "DqVgfUAVWSQ"
+  "story_id": 76,
+  "premise": "When my sister was dying, I moved into her $380,000 condo, spent $88,000 of my widow’s savings on her experimental treatments, and was promised the condo in a notarized letter so her son couldn’t contest it; the day after the funeral my nephew produced a trust that left the condo to him and called my payments ‘rent.’ I found a voicemail where my sister told him he’d be cut off if he touched my inheritance, sued for unjust enrichment, and won a $195,000 judgment — when he couldn’t pay, I foreclosed on the condo, now rent it to traveling nurses, and deduct his garnished wages as ‘emotional damages’ on my tax return.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-25T06:17:20.265737+00:00"
 }
