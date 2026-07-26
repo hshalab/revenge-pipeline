@@ -1,15 +1,21 @@
 {
   "story_id": 85,
   "premise": "After my father’s sudden death, his will left my twin brother and me his $245,000 collection of vintage neon signs, but he forged a bill of sale and sold the entire collection to a roadside museum for $90,000, claiming I’d agreed to split the cash; years later I found the museum’s display with a plaque crediting my father’s name, exposed the forgery, sued my brother for conversion and won the museum’s acquisition contract void — I now run a ‘Broken Trust’ beer garden where every neon sign in the collection hangs behind the bar, and my brother is obligated to polish them every weekend under a court order.",
-  "stage": "script",
+  "stage": "audio",
   "stages": {
     "script": {
       "label": "Writing script",
       "icon": "pen",
       "status": "done",
       "detail": "6,085 words"
+    },
+    "audio": {
+      "label": "Kokoro narration",
+      "icon": "mic",
+      "status": "running",
+      "detail": "Kokoro af_bella narrating..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-26T09:19:57.347847+00:00"
+  "updated_at": "2026-07-26T09:19:59.066227+00:00"
 }
