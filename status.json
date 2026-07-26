@@ -1,40 +1,8 @@
 {
-  "story_id": 82,
-  "premise": "After my mother died, I inherited her $350,000 farmhouse on 10 acres, but my brother—the executor and the golden child—forged a deed transferring it to himself for $1, claimed I had verbally agreed to sell, and evicted me on my 60th birthday; I hired a title attorney, proved the deed was a fabrication, and the court awarded me the house plus back rent, so now I lease the farmhouse back to him under a triple-net lease that rises each time he complains, while I live in the adjacent cottage running a farm-to-table B&B called ‘The Forged Acre’ with a permanent sign listing his criminal restitution case number.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,489 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Brother Forged A Deed, Stole My $350K Farmhouse, And Evicted Me. So I Became "
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "32.8 min, 846MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=hk_YTMJbhWs"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-25T23:35:26.763178+00:00",
-  "video_id": "hk_YTMJbhWs"
+  "story_id": 83,
+  "premise": "I invested $92,000 from my deceased husband’s pension into my niece’s vintage fashion boutique with a signed operating agreement granting me a 40% ownership stake; when a competitor offered $750,000 to buy it, my niece forged a dissolution document, paid me back exactly $92,000 claiming it was always a loan, and pocketed the sale—I proved the forgery, won the company’s intellectual property, rebranded it as ‘Second-Hand Vows,’ now run a thriving online resale shop, and she was court-ordered to work as my inventory sorter for 18 months wearing a lanyard that reads ‘Original Forger.’",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-26T04:27:16.402177+00:00"
 }
