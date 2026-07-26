@@ -1,7 +1,7 @@
 {
   "story_id": 86,
   "premise": "I spent my entire $110,000 divorce settlement to buy into my son’s organic mushroom farm, securing a signed partnership agreement for 49% of the business; once he landed a $1.3 million contract with a national grocery chain, he filed an amendment I’d supposedly signed giving me only a flat $10,000 buyout and barred me from the farm. I proved the amendment was a forgery, and the court voided it, awarding me full ownership because he’d diverted partnership funds to personal accounts — now I run ‘Morel of the Story Mushrooms,’ I supply the same chain with co-branded products, and my son works as my field hand wearing a shirt that says ‘My Spores Are Real.’",
-  "stage": "audio",
+  "stage": "thumb",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -14,8 +14,14 @@
       "icon": "mic",
       "status": "done",
       "detail": ""
+    },
+    "thumb": {
+      "label": "Thumbnail + metadata",
+      "icon": "image",
+      "status": "running",
+      "detail": "Writing title/tags + rendering thumbnail..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-26T11:36:08.497910+00:00"
+  "updated_at": "2026-07-26T11:36:10.165978+00:00"
 }
