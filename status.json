@@ -1,40 +1,8 @@
 {
-  "story_id": 89,
-  "premise": "I gave my stepdaughter $88,000 from my late husband’s pension to complete her cosmetology school and open her own salon with a contract stating I’d receive 30% of profits until my death; she opened a high-end salon, sold it for $950,000 two years later, forged a release of my interest, and paid me $10,000 as a ‘thank you.’ I uncovered the forgery, sued for breach of contract and fraud, and was awarded $260,000 — when she couldn’t pay, I obtained a garnishment order against her new yoga studio, which I then purchased at a sheriff’s sale; now I operate ‘Yoga & Lipstick’ with a wall of shame displaying her forged document, and she’s forced to teach a free weekly class called ‘Flexing the Truth.’",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,845 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Stepdaughter Forged My Signature, Stole $260K, Gave Me $10K. So I Bought Her "
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "31.1 min, 799MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=NT37mmnsN7U"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-26T20:58:16.209290+00:00",
-  "video_id": "NT37mmnsN7U"
+  "story_id": 90,
+  "premise": "At 54 I drained my late husband’s $210,000 life insurance to buy a shuttered 1930s movie palace with my son, who signed a partnership giving me 49% equity; once he lined up a $1.5‑million development deal he forged a gift deed, bulldozed the theater, and handed me a $2,000 ‘relocation’ check. I found our original contract in a safe‑deposit box, proved the forgery, and won a $680,000 fraud judgment plus the vacant lot—I built an outdoor revenge drive‑in called ‘Projectionist’s Revenge,’ and my son is court‑ordered to run the snack bar in a vintage usher uniform while a short documentary about his perjury plays before every movie.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-26T23:01:53.051936+00:00"
 }
