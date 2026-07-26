@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Sister-In-Law Sold The B&B I Funded, Claimed It Was A Gift. So I Got Her Lake"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-26T14:52:53.188239+00:00"
+  "updated_at": "2026-07-26T14:53:59.803551+00:00"
 }
