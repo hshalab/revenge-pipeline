@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Niece Forged Documents, Took $750K, And Repaid My $92K. So I Let Her Sort Han"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-26T04:47:17.711482+00:00"
+  "updated_at": "2026-07-26T04:49:37.188386+00:00"
 }
