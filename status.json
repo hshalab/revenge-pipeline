@@ -1,7 +1,7 @@
 {
   "story_id": 84,
   "premise": "When my brother died, his will split his $290,000 remote fishing camp equally between me and his widow, but my sister-in-law forged a quitclaim deed transferring my half to her for $1, then sold the entire property to a developer for $310,000; I tracked down the original survey and signature samples, proved the forgery, and the court voided the sale—now I own the camp outright, run it as a women’s angler retreat called ‘Reel Justice Lodge,’ and every quarter I mail my sister-in-law a profit statement with a handwritten note: ‘Thanks for the donation.’",
-  "stage": "assembly",
+  "stage": "upload",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -26,8 +26,14 @@
       "icon": "film",
       "status": "done",
       "detail": "30.4 min, 797MB"
+    },
+    "upload": {
+      "label": "Uploading to YouTube",
+      "icon": "upload",
+      "status": "running",
+      "detail": ""
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-26T07:18:20.026637+00:00"
+  "updated_at": "2026-07-26T07:18:21.059969+00:00"
 }
