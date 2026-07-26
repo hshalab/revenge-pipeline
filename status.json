@@ -1,15 +1,21 @@
 {
   "story_id": 89,
   "premise": "I gave my stepdaughter $88,000 from my late husband’s pension to complete her cosmetology school and open her own salon with a contract stating I’d receive 30% of profits until my death; she opened a high-end salon, sold it for $950,000 two years later, forged a release of my interest, and paid me $10,000 as a ‘thank you.’ I uncovered the forgery, sued for breach of contract and fraud, and was awarded $260,000 — when she couldn’t pay, I obtained a garnishment order against her new yoga studio, which I then purchased at a sheriff’s sale; now I operate ‘Yoga & Lipstick’ with a wall of shame displaying her forged document, and she’s forced to teach a free weekly class called ‘Flexing the Truth.’",
-  "stage": "script",
+  "stage": "audio",
   "stages": {
     "script": {
       "label": "Writing script",
       "icon": "pen",
       "status": "done",
       "detail": "5,845 words"
+    },
+    "audio": {
+      "label": "Kokoro narration",
+      "icon": "mic",
+      "status": "running",
+      "detail": "Kokoro af_bella narrating..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-26T20:22:27.520464+00:00"
+  "updated_at": "2026-07-26T20:22:29.145856+00:00"
 }
