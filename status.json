@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Son Forged My Signature On A Buyout And Kicked Me Off Our Mushroom Farm. So I"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-26T11:36:10.165978+00:00"
+  "updated_at": "2026-07-26T11:37:13.334336+00:00"
 }
