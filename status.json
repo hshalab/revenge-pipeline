@@ -1,40 +1,8 @@
 {
-  "story_id": 84,
-  "premise": "When my brother died, his will split his $290,000 remote fishing camp equally between me and his widow, but my sister-in-law forged a quitclaim deed transferring my half to her for $1, then sold the entire property to a developer for $310,000; I tracked down the original survey and signature samples, proved the forgery, and the court voided the sale—now I own the camp outright, run it as a women’s angler retreat called ‘Reel Justice Lodge,’ and every quarter I mail my sister-in-law a profit statement with a handwritten note: ‘Thanks for the donation.’",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,802 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Sister-In-Law Forged A Deed To Steal My Camp. So I Sent Profit Statements To "
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "30.4 min, 797MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=-0atdN1ZC0Y"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-26T07:18:44.259338+00:00",
-  "video_id": "-0atdN1ZC0Y"
+  "story_id": 85,
+  "premise": "After my father’s sudden death, his will left my twin brother and me his $245,000 collection of vintage neon signs, but he forged a bill of sale and sold the entire collection to a roadside museum for $90,000, claiming I’d agreed to split the cash; years later I found the museum’s display with a plaque crediting my father’s name, exposed the forgery, sued my brother for conversion and won the museum’s acquisition contract void — I now run a ‘Broken Trust’ beer garden where every neon sign in the collection hangs behind the bar, and my brother is obligated to polish them every weekend under a court order.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-26T09:14:23.100365+00:00"
 }
