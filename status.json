@@ -1,15 +1,21 @@
 {
   "story_id": 88,
   "premise": "When my mother died, her will bequeathed me a $190,000 collection of rare first-edition children’s books, but my older brother, the executor, forged a codicil that left the collection to his daughter and told me my mother had disinherited me; later I found an email where he offered to sell a signed ‘Wizard of Oz’ to a dealer. I hired a probate attorney, proved the codicil was fake, and recovered the collection — I now operate a children’s literacy nonprofit called ‘Turned Pages,’ where children earn books from the collection by reading, and I’ve trademarked a logo featuring my brother’s name crossed out with ‘Dishonest Executor’ underneath.",
-  "stage": "script",
+  "stage": "audio",
   "stages": {
     "script": {
       "label": "Writing script",
       "icon": "pen",
       "status": "done",
       "detail": "6,413 words"
+    },
+    "audio": {
+      "label": "Kokoro narration",
+      "icon": "mic",
+      "status": "running",
+      "detail": "Kokoro af_bella narrating..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-26T17:13:39.511634+00:00"
+  "updated_at": "2026-07-26T17:13:41.159556+00:00"
 }
