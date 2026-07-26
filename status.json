@@ -1,40 +1,8 @@
 {
-  "story_id": 83,
-  "premise": "I invested $92,000 from my deceased husband’s pension into my niece’s vintage fashion boutique with a signed operating agreement granting me a 40% ownership stake; when a competitor offered $750,000 to buy it, my niece forged a dissolution document, paid me back exactly $92,000 claiming it was always a loan, and pocketed the sale—I proved the forgery, won the company’s intellectual property, rebranded it as ‘Second-Hand Vows,’ now run a thriving online resale shop, and she was court-ordered to work as my inventory sorter for 18 months wearing a lanyard that reads ‘Original Forger.’",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,947 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Niece Forged Documents, Took $750K, And Repaid My $92K. So I Let Her Sort Han"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "33.1 min, 878MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=1Omzv9g12ik"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-26T05:07:06.296312+00:00",
-  "video_id": "1Omzv9g12ik"
+  "story_id": 84,
+  "premise": "When my brother died, his will split his $290,000 remote fishing camp equally between me and his widow, but my sister-in-law forged a quitclaim deed transferring my half to her for $1, then sold the entire property to a developer for $310,000; I tracked down the original survey and signature samples, proved the forgery, and the court voided the sale—now I own the camp outright, run it as a women’s angler retreat called ‘Reel Justice Lodge,’ and every quarter I mail my sister-in-law a profit statement with a handwritten note: ‘Thanks for the donation.’",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-26T06:35:14.209474+00:00"
 }
