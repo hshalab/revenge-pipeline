@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Twin Brother Sold Our Dad's $245K Neon Collection For $90K. So I Watched Him "
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-26T09:37:28.866742+00:00"
+  "updated_at": "2026-07-26T09:38:23.646352+00:00"
 }
