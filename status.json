@@ -1,15 +1,21 @@
 {
   "story_id": 90,
   "premise": "At 54 I drained my late husband’s $210,000 life insurance to buy a shuttered 1930s movie palace with my son, who signed a partnership giving me 49% equity; once he lined up a $1.5‑million development deal he forged a gift deed, bulldozed the theater, and handed me a $2,000 ‘relocation’ check. I found our original contract in a safe‑deposit box, proved the forgery, and won a $680,000 fraud judgment plus the vacant lot—I built an outdoor revenge drive‑in called ‘Projectionist’s Revenge,’ and my son is court‑ordered to run the snack bar in a vintage usher uniform while a short documentary about his perjury plays before every movie.",
-  "stage": "script",
+  "stage": "audio",
   "stages": {
     "script": {
       "label": "Writing script",
       "icon": "pen",
       "status": "done",
       "detail": "5,982 words"
+    },
+    "audio": {
+      "label": "Kokoro narration",
+      "icon": "mic",
+      "status": "running",
+      "detail": "Kokoro af_bella narrating..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-26T23:08:45.299942+00:00"
+  "updated_at": "2026-07-26T23:08:47.346971+00:00"
 }
