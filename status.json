@@ -1,40 +1,8 @@
 {
-  "story_id": 88,
-  "premise": "When my mother died, her will bequeathed me a $190,000 collection of rare first-edition children’s books, but my older brother, the executor, forged a codicil that left the collection to his daughter and told me my mother had disinherited me; later I found an email where he offered to sell a signed ‘Wizard of Oz’ to a dealer. I hired a probate attorney, proved the codicil was fake, and recovered the collection — I now operate a children’s literacy nonprofit called ‘Turned Pages,’ where children earn books from the collection by reading, and I’ve trademarked a logo featuring my brother’s name crossed out with ‘Dishonest Executor’ underneath.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,413 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Brother Forged Mom’s Will, Took Her $190K Book Collection. So I Let Him Incri"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "32.8 min, 810MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=un8RZTIAqEs"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-26T17:51:14.464093+00:00",
-  "video_id": "un8RZTIAqEs"
+  "story_id": 89,
+  "premise": "I gave my stepdaughter $88,000 from my late husband’s pension to complete her cosmetology school and open her own salon with a contract stating I’d receive 30% of profits until my death; she opened a high-end salon, sold it for $950,000 two years later, forged a release of my interest, and paid me $10,000 as a ‘thank you.’ I uncovered the forgery, sued for breach of contract and fraud, and was awarded $260,000 — when she couldn’t pay, I obtained a garnishment order against her new yoga studio, which I then purchased at a sheriff’s sale; now I operate ‘Yoga & Lipstick’ with a wall of shame displaying her forged document, and she’s forced to teach a free weekly class called ‘Flexing the Truth.’",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-26T20:15:07.488708+00:00"
 }
