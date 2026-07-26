@@ -1,15 +1,21 @@
 {
   "story_id": 87,
   "premise": "After my husband died, I emptied my $75,000 401(k) to help my sister-in-law purchase a historic bed-and-breakfast, signing a promissory note for repayment plus 20% equity in the B&B; she then sold the B&B to a hotel chain for $1.4 million, forged a document stating the note was a gift, and left me with nothing. I traced the sale, proved the forgery through handwriting analysis, and the court ordered her to pay me $310,000 in restitution — she couldn’t, so I placed a lien on her inherited lake home and eventually took possession; now I run that home as a vacation rental called ‘Promissory Lakehouse,’ with every booking confirmation email detailing the fraud case and her name listed as the ‘Involuntary Patron.’",
-  "stage": "script",
+  "stage": "audio",
   "stages": {
     "script": {
       "label": "Writing script",
       "icon": "pen",
       "status": "done",
       "detail": "6,092 words"
+    },
+    "audio": {
+      "label": "Kokoro narration",
+      "icon": "mic",
+      "status": "running",
+      "detail": "Kokoro af_bella narrating..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-26T14:35:51.761786+00:00"
+  "updated_at": "2026-07-26T14:35:53.774338+00:00"
 }
