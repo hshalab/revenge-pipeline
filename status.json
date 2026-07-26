@@ -1,40 +1,8 @@
 {
-  "story_id": 87,
-  "premise": "After my husband died, I emptied my $75,000 401(k) to help my sister-in-law purchase a historic bed-and-breakfast, signing a promissory note for repayment plus 20% equity in the B&B; she then sold the B&B to a hotel chain for $1.4 million, forged a document stating the note was a gift, and left me with nothing. I traced the sale, proved the forgery through handwriting analysis, and the court ordered her to pay me $310,000 in restitution — she couldn’t, so I placed a lien on her inherited lake home and eventually took possession; now I run that home as a vacation rental called ‘Promissory Lakehouse,’ with every booking confirmation email detailing the fraud case and her name listed as the ‘Involuntary Patron.’",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,092 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Sister-In-Law Sold The B&B I Funded, Claimed It Was A Gift. So I Got Her Lake"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "35.3 min, 875MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=w02_F8oWIR8"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-26T15:15:42.099367+00:00",
-  "video_id": "w02_F8oWIR8"
+  "story_id": 88,
+  "premise": "When my mother died, her will bequeathed me a $190,000 collection of rare first-edition children’s books, but my older brother, the executor, forged a codicil that left the collection to his daughter and told me my mother had disinherited me; later I found an email where he offered to sell a signed ‘Wizard of Oz’ to a dealer. I hired a probate attorney, proved the codicil was fake, and recovered the collection — I now operate a children’s literacy nonprofit called ‘Turned Pages,’ where children earn books from the collection by reading, and I’ve trademarked a logo featuring my brother’s name crossed out with ‘Dishonest Executor’ underneath.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-26T17:08:37.303100+00:00"
 }
