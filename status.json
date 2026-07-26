@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Son Forged A Deed, Bulldozed Our Theater, Gave Me $2K. So I Built A Drive-In "
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-26T23:24:43.290755+00:00"
+  "updated_at": "2026-07-26T23:26:59.775198+00:00"
 }
