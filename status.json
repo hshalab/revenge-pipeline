@@ -1,7 +1,7 @@
 {
   "story_id": 83,
   "premise": "I invested $92,000 from my deceased husband’s pension into my niece’s vintage fashion boutique with a signed operating agreement granting me a 40% ownership stake; when a competitor offered $750,000 to buy it, my niece forged a dissolution document, paid me back exactly $92,000 claiming it was always a loan, and pocketed the sale—I proved the forgery, won the company’s intellectual property, rebranded it as ‘Second-Hand Vows,’ now run a thriving online resale shop, and she was court-ordered to work as my inventory sorter for 18 months wearing a lanyard that reads ‘Original Forger.’",
-  "stage": "assembly",
+  "stage": "upload",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -26,8 +26,14 @@
       "icon": "film",
       "status": "done",
       "detail": "33.1 min, 878MB"
+    },
+    "upload": {
+      "label": "Uploading to YouTube",
+      "icon": "upload",
+      "status": "running",
+      "detail": ""
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-26T05:05:45.516734+00:00"
+  "updated_at": "2026-07-26T05:05:46.854759+00:00"
 }
