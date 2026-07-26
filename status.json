@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Sister-In-Law Forged A Deed To Steal My Camp. So I Sent Profit Statements To "
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-26T06:56:55.492547+00:00"
+  "updated_at": "2026-07-26T06:59:17.759959+00:00"
 }
