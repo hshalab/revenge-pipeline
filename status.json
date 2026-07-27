@@ -1,40 +1,8 @@
 {
-  "story_id": 90,
-  "premise": "At 54 I drained my late husband’s $210,000 life insurance to buy a shuttered 1930s movie palace with my son, who signed a partnership giving me 49% equity; once he lined up a $1.5‑million development deal he forged a gift deed, bulldozed the theater, and handed me a $2,000 ‘relocation’ check. I found our original contract in a safe‑deposit box, proved the forgery, and won a $680,000 fraud judgment plus the vacant lot—I built an outdoor revenge drive‑in called ‘Projectionist’s Revenge,’ and my son is court‑ordered to run the snack bar in a vintage usher uniform while a short documentary about his perjury plays before every movie.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,982 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Son Forged A Deed, Bulldozed Our Theater, Gave Me $2K. So I Built A Drive-In "
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "32.8 min, 847MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=fQ3e9dfBXCM"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-26T23:47:27.690383+00:00",
-  "video_id": "fQ3e9dfBXCM"
+  "story_id": 91,
+  "premise": "I spent my $95,000 nursing pension to co‑found a heirloom‑seed library with my sister‑in‑law, who forged a dissolution document, then sold the entire collection to a bio‑agriculture giant for $480,000, claiming my contribution was a charitable gift. I proved the forgery with text messages and bank records, won the intellectual‑property rights, and now operate ‘Germinated Lies Seed Co.,’ shipping rare seed packets across the country—my sister‑in‑law works as my seed packer under a garnishment order, and every envelope is stamped ‘Sown from Fraud.’",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-27T04:37:56.738959+00:00"
 }
