@@ -1,40 +1,8 @@
 {
-  "story_id": 92,
-  "premise": "After my husband’s death, I used his $85,000 rare‑coin collection as seed capital to open a dealership with my stepson on a signed 49% partnership; when he sold a 1913 Liberty Head nickel for $700,000, he forged my release, kept the cash, and locked me out. I dug up an authenticated photo of my late husband with the coin’s receipt, sued my stepson for conversion, and was awarded $350,000 plus the shop’s inventory—I rebranded as ‘Proof of Betrayal Numismatics,’ and he now works as a coin polisher while a looped video of his deposition plays on the sales counter and his hourly wage is garnished.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,670 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Stepson Forged My Release, Locked Me Out, And Stole $700K. So I Garnished His"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "30.7 min, 804MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=2CzrwmAaxQQ"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-27T08:13:20.218107+00:00",
-  "video_id": "2CzrwmAaxQQ"
+  "story_id": 93,
+  "premise": "I poured my $74,000 widow’s inheritance into a custom‑blend tea lounge with my daughter, securing a notarized operating agreement for half the business; six months later she forged an amendment removing my name and sold the brand to a chain for $980,000, mailing me a $5,000 ‘consulting fee.’ I obtained the original agreement from my lawyer’s file, sued for fraud, and won the trademark rights—now I run ‘Steeped in Lies Tea Co.,’ supplying a competing chain and printing a QR code on every tin that links to the court docket, while my daughter is court‑ordered to hand‑sort tea leaves in a back room wearing a badge that reads ‘Brewed Betrayal.’",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-27T10:43:37.655860+00:00"
 }
