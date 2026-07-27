@@ -6,10 +6,10 @@
     "script": {
       "label": "Writing script",
       "icon": "pen",
-      "status": "running",
-      "detail": "Sonnet 5 writing..."
+      "status": "done",
+      "detail": "6,447 words"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-27T20:27:27.033081+00:00"
+  "updated_at": "2026-07-27T20:33:10.363306+00:00"
 }
