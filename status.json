@@ -1,7 +1,7 @@
 {
   "story_id": 97,
   "premise": "At 58 I paid off my brother-in-law’s $95,000 second mortgage on his farm after he signed a notarized contract giving me a life estate in the east wing and inheritance of the entire property; he refinanced, pulled $200,000 in equity, sold the farm to a developer, and handed me a $10,000 check with a 30‑day eviction notice—I sued with a recorded video of his promise, the court voided the sale, and I now own the farm, lease the back acres to a pumpkin patch called 'Gourd of Deceit,' and require him to work the register in a scarecrow outfit with a badge that reads 'Financially Plowed.'",
-  "stage": "thumb",
+  "stage": "assembly",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -20,8 +20,14 @@
       "icon": "image",
       "status": "done",
       "detail": "My Brother-In-Law Begged Me To Pay His $95K Mortgage, Then Evicted Me. So I Now "
+    },
+    "assembly": {
+      "label": "Assembling video",
+      "icon": "film",
+      "status": "running",
+      "detail": "ffmpeg: character + drone + captions + waveform..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-27T20:52:40.914212+00:00"
+  "updated_at": "2026-07-27T20:52:41.927696+00:00"
 }
