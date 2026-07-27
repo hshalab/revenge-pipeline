@@ -1,15 +1,21 @@
 {
   "story_id": 93,
   "premise": "I poured my $74,000 widow’s inheritance into a custom‑blend tea lounge with my daughter, securing a notarized operating agreement for half the business; six months later she forged an amendment removing my name and sold the brand to a chain for $980,000, mailing me a $5,000 ‘consulting fee.’ I obtained the original agreement from my lawyer’s file, sued for fraud, and won the trademark rights—now I run ‘Steeped in Lies Tea Co.,’ supplying a competing chain and printing a QR code on every tin that links to the court docket, while my daughter is court‑ordered to hand‑sort tea leaves in a back room wearing a badge that reads ‘Brewed Betrayal.’",
-  "stage": "script",
+  "stage": "audio",
   "stages": {
     "script": {
       "label": "Writing script",
       "icon": "pen",
       "status": "done",
       "detail": "6,546 words"
+    },
+    "audio": {
+      "label": "Kokoro narration",
+      "icon": "mic",
+      "status": "running",
+      "detail": "Kokoro af_bella narrating..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-27T10:55:10.824697+00:00"
+  "updated_at": "2026-07-27T10:55:12.821680+00:00"
 }
