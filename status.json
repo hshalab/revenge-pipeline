@@ -1,40 +1,8 @@
 {
-  "story_id": 97,
-  "premise": "At 58 I paid off my brother-in-law’s $95,000 second mortgage on his farm after he signed a notarized contract giving me a life estate in the east wing and inheritance of the entire property; he refinanced, pulled $200,000 in equity, sold the farm to a developer, and handed me a $10,000 check with a 30‑day eviction notice—I sued with a recorded video of his promise, the court voided the sale, and I now own the farm, lease the back acres to a pumpkin patch called 'Gourd of Deceit,' and require him to work the register in a scarecrow outfit with a badge that reads 'Financially Plowed.'",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,447 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Brother-In-Law Begged Me To Pay His $95K Mortgage, Then Evicted Me. So I Now "
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "35.9 min, 921MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=8k0xg4I0kkg"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-27T21:14:46.269915+00:00",
-  "video_id": "8k0xg4I0kkg"
+  "story_id": 98,
+  "premise": "I used my late husband’s $200,000 life insurance to pay for my stepdaughter’s life‑saving $175,000 experimental cancer treatment after she pledged in writing to deed me her late mother’s $280,000 beach cottage in return; once she recovered she ignored the agreement, sold the cottage for $310,000, and blocked me—I unearthed the signed deed from my husband’s files, won $350,000 in a promissory‑estoppel judgment, foreclosed on the cottage when she couldn’t pay, and now run 'Gratitude Wave' vacation rental where the guest book tells the betrayal story beside her signature.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-27T23:04:32.987055+00:00"
 }
