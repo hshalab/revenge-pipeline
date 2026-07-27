@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Stepson Forged My Release, Locked Me Out, And Stole $700K. So I Garnished His"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-27T07:53:11.633815+00:00"
+  "updated_at": "2026-07-27T07:54:32.257832+00:00"
 }
