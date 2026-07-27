@@ -1,7 +1,7 @@
 {
   "story_id": 96,
   "premise": "I liquidated my entire $110,000 IRA to co‑found a landscaping business with my son, signing a 40% partnership agreement and a promise to manage the books, but he secretly incorporated alone, sold the business for $480,000, and tried to fob me off with a $12,000 “gratitude” check; I found our original agreement in my old Bible, sued him for breach of contract and fraud, won a $390,000 judgment and the trade name, and now operate 'Root of Betrayal Landscapers' while he’s court-ordered to mow lawns wearing a hat that says 'Cut Down to Size.'",
-  "stage": "assembly",
+  "stage": "upload",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -26,8 +26,14 @@
       "icon": "film",
       "status": "done",
       "detail": "33.1 min, 817MB"
+    },
+    "upload": {
+      "label": "Uploading to YouTube",
+      "icon": "upload",
+      "status": "running",
+      "detail": ""
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-27T18:36:55.005632+00:00"
+  "updated_at": "2026-07-27T18:36:56.123213+00:00"
 }
