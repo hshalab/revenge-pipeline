@@ -1,40 +1,8 @@
 {
-  "story_id": 95,
-  "premise": "After our mother’s death my sister convinced me to let her “appraise” her $185,000 collection of heirloom diamond jewelry, then claimed it was stolen and pocketed a $150,000 insurance check that she used to buy a vacation home; I traced the pieces to her safe-deposit box, proved the theft was staged, and won restitution plus punitive damages, so now I run 'Gem of a Rat' Vintage Jewelry, display the heirloom pieces with a plaque detailing her fraud, and lease the vacation home to fund scholarships for appraisers.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "7,038 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Sister Faked A Jewel Heist, Stole $150K, Bought A Beach House. So I Opened A "
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "39.5 min, 982MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=y_4jSgwk1fU"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-27T16:32:07.382763+00:00",
-  "video_id": "y_4jSgwk1fU"
+  "story_id": 96,
+  "premise": "I liquidated my entire $110,000 IRA to co‑found a landscaping business with my son, signing a 40% partnership agreement and a promise to manage the books, but he secretly incorporated alone, sold the business for $480,000, and tried to fob me off with a $12,000 “gratitude” check; I found our original agreement in my old Bible, sued him for breach of contract and fraud, won a $390,000 judgment and the trade name, and now operate 'Root of Betrayal Landscapers' while he’s court-ordered to mow lawns wearing a hat that says 'Cut Down to Size.'",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-27T17:47:21.601498+00:00"
 }
