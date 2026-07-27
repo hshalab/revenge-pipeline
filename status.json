@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Son Betrayed Me And Stole My Business. So I Watched Him Get A 'Cut Down To Si"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-27T18:13:34.799955+00:00"
+  "updated_at": "2026-07-27T18:16:40.354681+00:00"
 }
