@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My SIL Forged My Name, Stole My Seeds, Sold Them For $480K. So I Made Her Pack E"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-27T04:57:57.458852+00:00"
+  "updated_at": "2026-07-27T04:59:09.826015+00:00"
 }
