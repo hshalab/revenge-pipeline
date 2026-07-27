@@ -1,7 +1,7 @@
 {
   "story_id": 98,
   "premise": "I used my late husband’s $200,000 life insurance to pay for my stepdaughter’s life‑saving $175,000 experimental cancer treatment after she pledged in writing to deed me her late mother’s $280,000 beach cottage in return; once she recovered she ignored the agreement, sold the cottage for $310,000, and blocked me—I unearthed the signed deed from my husband’s files, won $350,000 in a promissory‑estoppel judgment, foreclosed on the cottage when she couldn’t pay, and now run 'Gratitude Wave' vacation rental where the guest book tells the betrayal story beside her signature.",
-  "stage": "audio",
+  "stage": "thumb",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -14,8 +14,14 @@
       "icon": "mic",
       "status": "done",
       "detail": ""
+    },
+    "thumb": {
+      "label": "Thumbnail + metadata",
+      "icon": "image",
+      "status": "running",
+      "detail": "Writing title/tags + rendering thumbnail..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-27T23:22:32.303245+00:00"
+  "updated_at": "2026-07-27T23:22:34.423827+00:00"
 }
