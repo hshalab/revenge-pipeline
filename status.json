@@ -1,8 +1,15 @@
 {
   "story_id": 95,
   "premise": "After our mother’s death my sister convinced me to let her “appraise” her $185,000 collection of heirloom diamond jewelry, then claimed it was stolen and pocketed a $150,000 insurance check that she used to buy a vacation home; I traced the pieces to her safe-deposit box, proved the theft was staged, and won restitution plus punitive damages, so now I run 'Gem of a Rat' Vintage Jewelry, display the heirloom pieces with a plaque detailing her fraud, and lease the vacation home to fund scholarships for appraisers.",
-  "stage": null,
-  "stages": {},
+  "stage": "script",
+  "stages": {
+    "script": {
+      "label": "Writing script",
+      "icon": "pen",
+      "status": "running",
+      "detail": "Sonnet 5 writing..."
+    }
+  },
   "run_state": "running",
-  "updated_at": "2026-07-27T15:41:18.888426+00:00"
+  "updated_at": "2026-07-27T15:41:20.679395+00:00"
 }
