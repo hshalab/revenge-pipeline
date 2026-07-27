@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Brother-In-Law Begged Me To Pay His $95K Mortgage, Then Evicted Me. So I Now "
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-27T20:51:20.984808+00:00"
+  "updated_at": "2026-07-27T20:52:40.914212+00:00"
 }
