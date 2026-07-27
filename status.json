@@ -1,40 +1,8 @@
 {
-  "story_id": 93,
-  "premise": "I poured my $74,000 widow’s inheritance into a custom‑blend tea lounge with my daughter, securing a notarized operating agreement for half the business; six months later she forged an amendment removing my name and sold the brand to a chain for $980,000, mailing me a $5,000 ‘consulting fee.’ I obtained the original agreement from my lawyer’s file, sued for fraud, and won the trademark rights—now I run ‘Steeped in Lies Tea Co.,’ supplying a competing chain and printing a QR code on every tin that links to the court docket, while my daughter is court‑ordered to hand‑sort tea leaves in a back room wearing a badge that reads ‘Brewed Betrayal.’",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,546 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "Daughter Erased My Name From The Tea Lounge And Sold It For $980K. So I Sued And"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "36.3 min, 922MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=NXrMQuUOD7M"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-27T11:30:47.050620+00:00",
-  "video_id": "NXrMQuUOD7M"
+  "story_id": 94,
+  "premise": "At 57 I raided my $112,000 retirement lump sum to buy and restore a century‑old antique carousel with my brother, who promised me 40% of the ride’s earnings in a notarized memo; once the carousel appraised at $1.3 million, he forged a sole‑ownership title, sold it to a theme park, and tried to buy me off with a $4,000 ‘finder’s fee.’ I found the original memo in our late mother’s papers, proved the fraudulent transfer, and the court awarded me the entire sale proceeds—I now lease the carousel to festivals as ‘Painted Ponies & Perjury,’ and my brother must dress as the ticket‑taker clown, his earnings garnished, while a banner reads ‘The Merry‑Go‑Round of Justice.’",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-27T12:52:59.755163+00:00"
 }
