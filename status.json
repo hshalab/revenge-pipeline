@@ -1,7 +1,7 @@
 {
   "story_id": 92,
   "premise": "After my husband’s death, I used his $85,000 rare‑coin collection as seed capital to open a dealership with my stepson on a signed 49% partnership; when he sold a 1913 Liberty Head nickel for $700,000, he forged my release, kept the cash, and locked me out. I dug up an authenticated photo of my late husband with the coin’s receipt, sued my stepson for conversion, and was awarded $350,000 plus the shop’s inventory—I rebranded as ‘Proof of Betrayal Numismatics,’ and he now works as a coin polisher while a looped video of his deposition plays on the sales counter and his hourly wage is garnished.",
-  "stage": "thumb",
+  "stage": "assembly",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -20,8 +20,14 @@
       "icon": "image",
       "status": "done",
       "detail": "My Stepson Forged My Release, Locked Me Out, And Stole $700K. So I Garnished His"
+    },
+    "assembly": {
+      "label": "Assembling video",
+      "icon": "film",
+      "status": "running",
+      "detail": "ffmpeg: character + drone + captions + waveform..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-27T07:54:32.257832+00:00"
+  "updated_at": "2026-07-27T07:54:33.257862+00:00"
 }
