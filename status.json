@@ -1,7 +1,7 @@
 {
   "story_id": 91,
   "premise": "I spent my $95,000 nursing pension to co‑found a heirloom‑seed library with my sister‑in‑law, who forged a dissolution document, then sold the entire collection to a bio‑agriculture giant for $480,000, claiming my contribution was a charitable gift. I proved the forgery with text messages and bank records, won the intellectual‑property rights, and now operate ‘Germinated Lies Seed Co.,’ shipping rare seed packets across the country—my sister‑in‑law works as my seed packer under a garnishment order, and every envelope is stamped ‘Sown from Fraud.’",
-  "stage": "thumb",
+  "stage": "assembly",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -20,8 +20,14 @@
       "icon": "image",
       "status": "done",
       "detail": "My SIL Forged My Name, Stole My Seeds, Sold Them For $480K. So I Made Her Pack E"
+    },
+    "assembly": {
+      "label": "Assembling video",
+      "icon": "film",
+      "status": "running",
+      "detail": "ffmpeg: character + drone + captions + waveform..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-27T04:59:09.826015+00:00"
+  "updated_at": "2026-07-27T04:59:10.937520+00:00"
 }
