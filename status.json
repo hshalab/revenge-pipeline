@@ -1,40 +1,8 @@
 {
-  "story_id": 104,
-  "premise": "I drained my $88,000 403(b) to co-sign a lease on a six-seat Cessna and start a scenic flight business with my brother, who promised me half the bookings and a life-estate hangar office, but he forged a document making me only a guarantor, sold the FAA flight certificate and the aircraft for $400,000, and stuck me with the lease debt; I found the original handshake contract video-recorded at our mother's 90th birthday, sued for conversion, won a $320,000 judgment plus the repossessed plane, and now operate 'Sky Justice Air Tours' – my brother must scrub the lavatory and wear a cap that says 'Flight Risk' while every boarding pass prints his fraud case number.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,576 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Brother Forged Docs, Sold My Plane, Left Me $88K In Debt. So I Made Him The L"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "30.7 min, 757MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=nDkdaLh0P-s"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-28T18:15:04.114867+00:00",
-  "video_id": "nDkdaLh0P-s"
+  "story_id": 105,
+  "premise": "I sank my $120,000 widow’s inheritance into a vintage Airstream rental fleet with my daughter, securing a 40% stake and a lifetime spot for my own trailer; she forged an asset sale, sold the fleet for $720,000, and mailed me a $3,000 “gratitude” check, so I proved the forgery with a time‑stamped video, won a $350,000 judgment, foreclosed on her house, and now operate ‘Road to Redress RV Rentals’ from my reclaimed Airstream where every rental contract prints her fraud case number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-28T20:23:22.868586+00:00"
 }
