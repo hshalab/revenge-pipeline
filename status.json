@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Brother Forged Docs, Sold My Plane, Left Me $88K In Debt. So I Made Him The L"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-28T17:57:26.687966+00:00"
+  "updated_at": "2026-07-28T17:58:34.107179+00:00"
 }
