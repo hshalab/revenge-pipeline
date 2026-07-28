@@ -1,7 +1,7 @@
 {
   "story_id": 100,
   "premise": "I poured my $130,000 nursing pension into a historic patisserie with my sister-in-law, signing a notarized 50/50 partnership that promised me a golden-years income, but she forged a dissolution document, sold the trademark and recipes to a national chain for $620,000, and mailed me a $3,000 'severance' scone; I proved the forgery with our original bakery ledger, won the intellectual property, and now run 'Flour Power Revenge Bakery' – she's court-ordered to wash dishes in an apron that reads 'Icing on the Fraud,' and every dollar of her garnished wages buys pastries for a women's legal-aid fundraiser.",
-  "stage": "thumb",
+  "stage": "assembly",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -20,8 +20,14 @@
       "icon": "image",
       "status": "done",
       "detail": "My SIL Sold Our Patisserie For $620K And Gave Me $3K Scone. So I Watched Her Scr"
+    },
+    "assembly": {
+      "label": "Assembling video",
+      "icon": "film",
+      "status": "running",
+      "detail": "ffmpeg: character + drone + captions + waveform..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-28T06:56:46.975732+00:00"
+  "updated_at": "2026-07-28T06:56:48.190645+00:00"
 }
