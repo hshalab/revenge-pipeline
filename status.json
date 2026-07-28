@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Son Stole My $130K Reverse Mortgage, Then Locked Me Out. So I Foreclosed On T"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-28T04:33:29.682142+00:00"
+  "updated_at": "2026-07-28T04:34:29.325272+00:00"
 }
