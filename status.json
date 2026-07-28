@@ -1,7 +1,7 @@
 {
   "story_id": 105,
   "premise": "I sank my $120,000 widow’s inheritance into a vintage Airstream rental fleet with my daughter, securing a 40% stake and a lifetime spot for my own trailer; she forged an asset sale, sold the fleet for $720,000, and mailed me a $3,000 “gratitude” check, so I proved the forgery with a time‑stamped video, won a $350,000 judgment, foreclosed on her house, and now operate ‘Road to Redress RV Rentals’ from my reclaimed Airstream where every rental contract prints her fraud case number.",
-  "stage": "thumb",
+  "stage": "assembly",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -20,8 +20,14 @@
       "icon": "image",
       "status": "done",
       "detail": "My Daughter Forged A Sale, Sold My Business, Sent Me A $3K Check. So I Foreclose"
+    },
+    "assembly": {
+      "label": "Assembling video",
+      "icon": "film",
+      "status": "running",
+      "detail": "ffmpeg: character + drone + captions + waveform..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-28T20:49:16.040413+00:00"
+  "updated_at": "2026-07-28T20:49:17.453372+00:00"
 }
