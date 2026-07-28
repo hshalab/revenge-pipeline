@@ -1,7 +1,7 @@
 {
   "story_id": 102,
   "premise": "I emptied my $95,000 401(k) to co-found a classic-car restoration shop with my niece after she swore I'd own half, and we signed a partnership agreement on the hood of a '67 Mustang, but she forged a buyout document that gave me a flat $5,000 and sold the shop's brand and that restored Mustang for $560,000; I found the original agreement in my late sister's Bible, sued for fraud, and the court awarded me the shop and the Mustang – now I run 'Piston Forgery Garage' and my niece is ordered to detail every vehicle in a jumpsuit that says 'VIN-dictive' while a dashboard plaque in each car explains how she tried to steal my retirement.",
-  "stage": "audio",
+  "stage": "thumb",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -14,8 +14,14 @@
       "icon": "mic",
       "status": "done",
       "detail": ""
+    },
+    "thumb": {
+      "label": "Thumbnail + metadata",
+      "icon": "image",
+      "status": "running",
+      "detail": "Writing title/tags + rendering thumbnail..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-28T12:15:57.851038+00:00"
+  "updated_at": "2026-07-28T12:16:00.075244+00:00"
 }
