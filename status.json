@@ -1,40 +1,8 @@
 {
-  "story_id": 98,
-  "premise": "I used my late husband’s $200,000 life insurance to pay for my stepdaughter’s life‑saving $175,000 experimental cancer treatment after she pledged in writing to deed me her late mother’s $280,000 beach cottage in return; once she recovered she ignored the agreement, sold the cottage for $310,000, and blocked me—I unearthed the signed deed from my husband’s files, won $350,000 in a promissory‑estoppel judgment, foreclosed on the cottage when she couldn’t pay, and now run 'Gratitude Wave' vacation rental where the guest book tells the betrayal story beside her signature.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,379 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Stepdaughter Promised Her Cottage For Treatment, Then Sold It And Blocked Me."
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "33.1 min, 854MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=7oHZi6gwfWE"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-27T23:45:30.753906+00:00",
-  "video_id": "7oHZi6gwfWE"
+  "story_id": 99,
+  "premise": "I took a $130,000 reverse mortgage on my free‑and‑clear home to pay my grandson’s private‑university tuition after my son and daughter‑in‑law signed a note promising to repay me with 5% interest and provide a suite in the new house they’d build; they used my cash to construct the house, then refused me entry and said it was a gift—I sued on the note, won a $220,000 judgment, foreclosed on the house when they couldn’t satisfy the lien, and now rent rooms to college students while living in the owner’s suite, mailing them a monthly statement that grows with interest marked 'Education Costs.'",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-28T04:11:12.811028+00:00"
 }
