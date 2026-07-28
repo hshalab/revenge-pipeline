@@ -1,40 +1,8 @@
 {
-  "story_id": 101,
-  "premise": "At 54 I co-signed a $180,000 business loan for my son's recording studio, pledging my paid-off condo as collateral in exchange for a signed 25% ownership stake, but he forged a release removing my collateral and sold the studio’s name, client list, and equipment to a music-tech company for $750,000, leaving me facing foreclosure; I uncovered the forgery, won a $340,000 judgment plus the reclamation of the recording gear, and now operate 'Treble Betrayal Studio' where my son has to scrub mixing boards as a janitor wearing a shirt that says 'Off-Key Liar' while his hourly wage is garnished to pay the judgment.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,227 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Son Forged My Signature, Sold His Studio, Left Me Facing Foreclosure. So I To"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "35.7 min, 906MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=CVH5QhBaso8"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-28T10:25:39.007389+00:00",
-  "video_id": "CVH5QhBaso8"
+  "story_id": 102,
+  "premise": "I emptied my $95,000 401(k) to co-found a classic-car restoration shop with my niece after she swore I'd own half, and we signed a partnership agreement on the hood of a '67 Mustang, but she forged a buyout document that gave me a flat $5,000 and sold the shop's brand and that restored Mustang for $560,000; I found the original agreement in my late sister's Bible, sued for fraud, and the court awarded me the shop and the Mustang – now I run 'Piston Forgery Garage' and my niece is ordered to detail every vehicle in a jumpsuit that says 'VIN-dictive' while a dashboard plaque in each car explains how she tried to steal my retirement.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-28T11:53:10.588005+00:00"
 }
