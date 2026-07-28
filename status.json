@@ -1,27 +1,8 @@
 {
-  "story_id": 102,
-  "premise": "I emptied my $95,000 401(k) to co-found a classic-car restoration shop with my niece after she swore I'd own half, and we signed a partnership agreement on the hood of a '67 Mustang, but she forged a buyout document that gave me a flat $5,000 and sold the shop's brand and that restored Mustang for $560,000; I found the original agreement in my late sister's Bible, sued for fraud, and the court awarded me the shop and the Mustang – now I run 'Piston Forgery Garage' and my niece is ordered to detail every vehicle in a jumpsuit that says 'VIN-dictive' while a dashboard plaque in each car explains how she tried to steal my retirement.",
-  "stage": "thumb",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,264 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "error",
-      "detail": "Expecting ',' delimiter: line 32 column 6 (char 1438)"
-    }
-  },
-  "run_state": "failed",
-  "updated_at": "2026-07-28T12:17:23.503345+00:00"
+  "story_id": 103,
+  "premise": "I used my late husband's $210,000 life insurance to buy a struggling vineyard with my stepson, signing a notarized partnership that gave me 40% ownership, but he secretly formed a new LLC, forged my signature on a rights-release, and sold the vineyard and its award-winning zinfandel label to a corporate winery for $1.2 million, handing me a $15,000 'thank you' check; the original notarized document surfaced in my husband's estate, I proved the forgery, and the court voided the sale, awarding me the vineyard after the stepson couldn't pay the $480,000 judgment – now I run 'Grapes of Wrath Vineyard' and he's forced to prune vines in a shirt that says 'Crushed by Justice,' with a portion of every bottle's sale funding a forgery-watchdog nonprofit.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-28T15:16:26.652477+00:00"
 }
