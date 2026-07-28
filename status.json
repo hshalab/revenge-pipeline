@@ -1,7 +1,7 @@
 {
   "story_id": 101,
   "premise": "At 54 I co-signed a $180,000 business loan for my son's recording studio, pledging my paid-off condo as collateral in exchange for a signed 25% ownership stake, but he forged a release removing my collateral and sold the studio’s name, client list, and equipment to a music-tech company for $750,000, leaving me facing foreclosure; I uncovered the forgery, won a $340,000 judgment plus the reclamation of the recording gear, and now operate 'Treble Betrayal Studio' where my son has to scrub mixing boards as a janitor wearing a shirt that says 'Off-Key Liar' while his hourly wage is garnished to pay the judgment.",
-  "stage": "audio",
+  "stage": "thumb",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -14,8 +14,14 @@
       "icon": "mic",
       "status": "done",
       "detail": ""
+    },
+    "thumb": {
+      "label": "Thumbnail + metadata",
+      "icon": "image",
+      "status": "running",
+      "detail": "Writing title/tags + rendering thumbnail..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-28T10:02:03.160178+00:00"
+  "updated_at": "2026-07-28T10:02:05.833097+00:00"
 }
