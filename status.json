@@ -1,7 +1,7 @@
 {
   "story_id": 99,
   "premise": "I took a $130,000 reverse mortgage on my free‑and‑clear home to pay my grandson’s private‑university tuition after my son and daughter‑in‑law signed a note promising to repay me with 5% interest and provide a suite in the new house they’d build; they used my cash to construct the house, then refused me entry and said it was a gift—I sued on the note, won a $220,000 judgment, foreclosed on the house when they couldn’t satisfy the lien, and now rent rooms to college students while living in the owner’s suite, mailing them a monthly statement that grows with interest marked 'Education Costs.'",
-  "stage": "audio",
+  "stage": "thumb",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -14,8 +14,14 @@
       "icon": "mic",
       "status": "done",
       "detail": ""
+    },
+    "thumb": {
+      "label": "Thumbnail + metadata",
+      "icon": "image",
+      "status": "running",
+      "detail": "Writing title/tags + rendering thumbnail..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-28T04:33:27.965765+00:00"
+  "updated_at": "2026-07-28T04:33:29.682142+00:00"
 }
