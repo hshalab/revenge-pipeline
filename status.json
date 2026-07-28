@@ -1,7 +1,7 @@
 {
   "story_id": 104,
   "premise": "I drained my $88,000 403(b) to co-sign a lease on a six-seat Cessna and start a scenic flight business with my brother, who promised me half the bookings and a life-estate hangar office, but he forged a document making me only a guarantor, sold the FAA flight certificate and the aircraft for $400,000, and stuck me with the lease debt; I found the original handshake contract video-recorded at our mother's 90th birthday, sued for conversion, won a $320,000 judgment plus the repossessed plane, and now operate 'Sky Justice Air Tours' – my brother must scrub the lavatory and wear a cap that says 'Flight Risk' while every boarding pass prints his fraud case number.",
-  "stage": "thumb",
+  "stage": "assembly",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -20,8 +20,14 @@
       "icon": "image",
       "status": "done",
       "detail": "My Brother Forged Docs, Sold My Plane, Left Me $88K In Debt. So I Made Him The L"
+    },
+    "assembly": {
+      "label": "Assembling video",
+      "icon": "film",
+      "status": "running",
+      "detail": "ffmpeg: character + drone + captions + waveform..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-28T17:58:34.107179+00:00"
+  "updated_at": "2026-07-28T17:58:35.491197+00:00"
 }
