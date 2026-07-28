@@ -1,40 +1,8 @@
 {
-  "story_id": 103,
-  "premise": "I used my late husband's $210,000 life insurance to buy a struggling vineyard with my stepson, signing a notarized partnership that gave me 40% ownership, but he secretly formed a new LLC, forged my signature on a rights-release, and sold the vineyard and its award-winning zinfandel label to a corporate winery for $1.2 million, handing me a $15,000 'thank you' check; the original notarized document surfaced in my husband's estate, I proved the forgery, and the court voided the sale, awarding me the vineyard after the stepson couldn't pay the $480,000 judgment – now I run 'Grapes of Wrath Vineyard' and he's forced to prune vines in a shirt that says 'Crushed by Justice,' with a portion of every bottle's sale funding a forgery-watchdog nonprofit.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,607 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Stepson Forged My Name, Sold Our Vineyard, And Gave Me $15K. So I Watched The"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "33.4 min, 828MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=wffgZvzDJNM"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-28T16:03:00.803629+00:00",
-  "video_id": "wffgZvzDJNM"
+  "story_id": 104,
+  "premise": "I drained my $88,000 403(b) to co-sign a lease on a six-seat Cessna and start a scenic flight business with my brother, who promised me half the bookings and a life-estate hangar office, but he forged a document making me only a guarantor, sold the FAA flight certificate and the aircraft for $400,000, and stuck me with the lease debt; I found the original handshake contract video-recorded at our mother's 90th birthday, sued for conversion, won a $320,000 judgment plus the repossessed plane, and now operate 'Sky Justice Air Tours' – my brother must scrub the lavatory and wear a cap that says 'Flight Risk' while every boarding pass prints his fraud case number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-28T17:40:42.174172+00:00"
 }
