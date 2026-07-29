@@ -1,40 +1,8 @@
 {
-  "story_id": 110,
-  "premise": "I drained my $123,000 401(k) to co‑found a vintage diner‑car with my stepson, signing a notarized 50/50 partnership, but after a $1.4 million buyout offer he forged my name on a dissolution, sold the diner, and mailed me a $4,500 ‘gratitude’ check; I found our original contract hidden inside a menu, proved the forgery, voided the sale, and now run ‘Griddle of Guilt’ where he scrubs the grill in a shirt that reads ‘Flipped on Family’ and every receipt prints his fraud case number.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,525 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Stepson Forged My Name, Sold Our $1.4M Diner, And Mailed Me A $4,500 Check. S"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "32.8 min, 843MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=d1OwcKVnEY4"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-29T12:42:41.846442+00:00",
-  "video_id": "d1OwcKVnEY4"
+  "story_id": 111,
+  "premise": "When my father died, his will left me a $265,000 collection of Depression‑era glass, but my sister—the executor—forged a $1 sale note and sold it to a museum for $300,000; I forced open the museum’s provenance records, proved the forgery, recovered the entire collection, and opened ‘Shattered Trust Glass Studio’ where she is court‑ordered to polish each piece wearing white gloves printed with ‘Fraud Fragile’ while visitors receive a postcard with her perjury conviction.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-29T15:07:25.634421+00:00"
 }
