@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Son-In-Law Forged My Truck Title, Took $450K, And Left Me $4K. So I Let The C"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-29T10:04:59.784425+00:00"
+  "updated_at": "2026-07-29T10:07:52.870330+00:00"
 }
