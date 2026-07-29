@@ -1,40 +1,8 @@
 {
-  "story_id": 113,
-  "premise": "I poured my $88,000 nursing pension into a upscale dog‑grooming salon with my sister‑in‑law, signing for 40% ownership and a lifetime of free grooming for my three rescue dogs, but after the salon went viral she forged a buy‑sell, took a $580,000 franchise deal, and sent me a $2,000 ‘thank‑you’ gift basket; I exposed the forgery using a pet‑camera video of her bragging, won the salon’s name and assets, and now run ‘Clip of Betrayal Grooming’ where she bathes dogs in an apron that flashes ‘I Stole from My Sister‑in‑Law’ and every collar tag reads ‘Styled by a Con.’",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "7,080 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Sister-in-Law Forged My Signature, Stole My Salon. So I Used A Pet Cam And To"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "40.0 min, 1027MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=9AFpLywPoQA"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-29T21:03:58.992368+00:00",
-  "video_id": "9AFpLywPoQA"
+  "story_id": 114,
+  "premise": "At 59 I cashed out my $105,000 CD to buy and renovate a derelict miniature‑golf course with my son, who gave me a notarized 50% share and promised a cottage on the property, but after it appraised at $750,000 he forged a deed, bulldozed the cottage, sold to a developer for $800,000, and sent me a $5,000 check; I found our original agreement in my late husband’s toolbox, proved the forgery, and the court vested the entire property to me, so now every hole on ‘Putt It Right Mini Golf’ features a mechanical figure of him clutching a forged deed, and he spends weekends collecting golf balls while costumed as ‘The Forgettful Felon.’",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-29T23:00:53.483281+00:00"
 }
