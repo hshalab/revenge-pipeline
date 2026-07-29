@@ -1,7 +1,7 @@
 {
   "story_id": 109,
   "premise": "I emptied my $75,000 401(k) to buy and convert a school bus into a pierogi food truck with my son‑in‑law, signing a 50/50 partnership built on my late mother’s recipes, but after a TV appearance he forged a sole‑ownership title, took a $450,000 buyout, and gave me a $4,000 “thank‑you”; I retrieved the original partnership from my safety‑deposit box, proved the forgery with a handwriting expert, won back the truck and recipes, and now operate ‘Pierogi Retribution’ where my son‑in‑law is forced to serve wearing a hat that says ‘Dough Me Wrong’ while the menu lists ‘Fraud Pierogi’ with a QR code to his perjury conviction.",
-  "stage": "assembly",
+  "stage": "upload",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -26,8 +26,14 @@
       "icon": "film",
       "status": "done",
       "detail": "42.4 min, 1075MB"
+    },
+    "upload": {
+      "label": "Uploading to YouTube",
+      "icon": "upload",
+      "status": "running",
+      "detail": ""
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-29T10:35:17.839427+00:00"
+  "updated_at": "2026-07-29T10:35:19.319326+00:00"
 }
