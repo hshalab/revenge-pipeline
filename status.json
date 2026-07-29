@@ -1,7 +1,7 @@
 {
   "story_id": 108,
   "premise": "After my husband died, I used his $85,000 life insurance to pay off my sister‑in‑law’s $82,000 tax lien on her family apple orchard, signing for 20% of cider sales and a life estate in the farmhouse, but she transferred the orchard to her daughter, forged a release, and evicted me; I found a voicemail where she admitted the debt, sued for fraud, and when she couldn’t pay the $225,000 judgment I foreclosed on the orchard and now run ‘Orchard of Omission’ cider, with every bottle of ‘Lien-Apple Cider’ stamped with the case number and a portrait of her labeled ‘Original Forger.’",
-  "stage": "audio",
+  "stage": "thumb",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -14,8 +14,14 @@
       "icon": "mic",
       "status": "done",
       "detail": ""
+    },
+    "thumb": {
+      "label": "Thumbnail + metadata",
+      "icon": "image",
+      "status": "running",
+      "detail": "Writing title/tags + rendering thumbnail..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-29T06:51:41.483550+00:00"
+  "updated_at": "2026-07-29T06:51:42.970845+00:00"
 }
