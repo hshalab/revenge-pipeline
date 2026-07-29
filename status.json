@@ -1,7 +1,7 @@
 {
   "story_id": 113,
   "premise": "I poured my $88,000 nursing pension into a upscale dog‑grooming salon with my sister‑in‑law, signing for 40% ownership and a lifetime of free grooming for my three rescue dogs, but after the salon went viral she forged a buy‑sell, took a $580,000 franchise deal, and sent me a $2,000 ‘thank‑you’ gift basket; I exposed the forgery using a pet‑camera video of her bragging, won the salon’s name and assets, and now run ‘Clip of Betrayal Grooming’ where she bathes dogs in an apron that flashes ‘I Stole from My Sister‑in‑Law’ and every collar tag reads ‘Styled by a Con.’",
-  "stage": "assembly",
+  "stage": "upload",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -26,8 +26,14 @@
       "icon": "film",
       "status": "done",
       "detail": "40.0 min, 1027MB"
+    },
+    "upload": {
+      "label": "Uploading to YouTube",
+      "icon": "upload",
+      "status": "running",
+      "detail": ""
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-29T21:02:26.437386+00:00"
+  "updated_at": "2026-07-29T21:02:28.015888+00:00"
 }
