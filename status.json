@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Stepson Forged My Name, Sold Our $1.4M Diner, And Mailed Me A $4,500 Check. S"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-29T12:20:14.564659+00:00"
+  "updated_at": "2026-07-29T12:21:33.714668+00:00"
 }
