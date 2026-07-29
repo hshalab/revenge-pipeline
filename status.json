@@ -1,8 +1,15 @@
 {
   "story_id": 110,
   "premise": "I drained my $123,000 401(k) to co‑found a vintage diner‑car with my stepson, signing a notarized 50/50 partnership, but after a $1.4 million buyout offer he forged my name on a dissolution, sold the diner, and mailed me a $4,500 ‘gratitude’ check; I found our original contract hidden inside a menu, proved the forgery, voided the sale, and now run ‘Griddle of Guilt’ where he scrubs the grill in a shirt that reads ‘Flipped on Family’ and every receipt prints his fraud case number.",
-  "stage": null,
-  "stages": {},
+  "stage": "script",
+  "stages": {
+    "script": {
+      "label": "Writing script",
+      "icon": "pen",
+      "status": "running",
+      "detail": "Sonnet 5 writing..."
+    }
+  },
   "run_state": "running",
-  "updated_at": "2026-07-29T11:58:24.777862+00:00"
+  "updated_at": "2026-07-29T11:58:26.908225+00:00"
 }
