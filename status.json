@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Sister-in-Law Forged My Signature, Stole My Salon. So I Used A Pet Cam And To"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-29T20:38:25.625282+00:00"
+  "updated_at": "2026-07-29T20:39:30.163556+00:00"
 }
