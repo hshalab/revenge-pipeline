@@ -1,40 +1,8 @@
 {
-  "story_id": 108,
-  "premise": "After my husband died, I used his $85,000 life insurance to pay off my sister‑in‑law’s $82,000 tax lien on her family apple orchard, signing for 20% of cider sales and a life estate in the farmhouse, but she transferred the orchard to her daughter, forged a release, and evicted me; I found a voicemail where she admitted the debt, sued for fraud, and when she couldn’t pay the $225,000 judgment I foreclosed on the orchard and now run ‘Orchard of Omission’ cider, with every bottle of ‘Lien-Apple Cider’ stamped with the case number and a portrait of her labeled ‘Original Forger.’",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,847 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "She Used My Dead Husband's Insurance to Pay Her Orchard Debt, Then Evicted Me. S"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "29.5 min, 776MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=VRwFqGi37lk"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-29T07:11:22.250163+00:00",
-  "video_id": "VRwFqGi37lk"
+  "story_id": 109,
+  "premise": "I emptied my $75,000 401(k) to buy and convert a school bus into a pierogi food truck with my son‑in‑law, signing a 50/50 partnership built on my late mother’s recipes, but after a TV appearance he forged a sole‑ownership title, took a $450,000 buyout, and gave me a $4,000 “thank‑you”; I retrieved the original partnership from my safety‑deposit box, proved the forgery with a handwriting expert, won back the truck and recipes, and now operate ‘Pierogi Retribution’ where my son‑in‑law is forced to serve wearing a hat that says ‘Dough Me Wrong’ while the menu lists ‘Fraud Pierogi’ with a QR code to his perjury conviction.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-29T09:38:13.368468+00:00"
 }
