@@ -1,7 +1,7 @@
 {
   "story_id": 107,
   "premise": "I drained my $110,000 IRA to back my brother’s high‑end dog‑training kennel, notarizing a 45% ownership share and a promise to board my aging lab free, but he forged a deed, sold the kennel to a vet chain for $680,000, and sent me a $12,000 check; I dug up our original agreement from our mother’s attic, proved the forgery via ink analysis, and voided the sale, so now I own ‘Karma Kennels’ and my brother is court‑ordered to clean runs wearing a vest that reads ‘I Stole My Sister’s Retirement’ while every adoption brochure shows his mugshot.",
-  "stage": "thumb",
+  "stage": "assembly",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -20,8 +20,14 @@
       "icon": "image",
       "status": "done",
       "detail": "My Brother Forged My Name And Sold Our Kennel, Sent Me A $12K Check. So I Voided"
+    },
+    "assembly": {
+      "label": "Assembling video",
+      "icon": "film",
+      "status": "running",
+      "detail": "ffmpeg: character + drone + captions + waveform..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-29T04:40:48.944754+00:00"
+  "updated_at": "2026-07-29T04:40:50.012659+00:00"
 }
