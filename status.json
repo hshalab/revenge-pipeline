@@ -1,7 +1,7 @@
 {
   "story_id": 114,
   "premise": "At 59 I cashed out my $105,000 CD to buy and renovate a derelict miniature‑golf course with my son, who gave me a notarized 50% share and promised a cottage on the property, but after it appraised at $750,000 he forged a deed, bulldozed the cottage, sold to a developer for $800,000, and sent me a $5,000 check; I found our original agreement in my late husband’s toolbox, proved the forgery, and the court vested the entire property to me, so now every hole on ‘Putt It Right Mini Golf’ features a mechanical figure of him clutching a forged deed, and he spends weekends collecting golf balls while costumed as ‘The Forgettful Felon.’",
-  "stage": "thumb",
+  "stage": "assembly",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -20,8 +20,14 @@
       "icon": "image",
       "status": "done",
       "detail": "My Son Forged A Deed, Bulldozed My Cottage, Sent Me $5K. So I Took The Mini Golf"
+    },
+    "assembly": {
+      "label": "Assembling video",
+      "icon": "film",
+      "status": "running",
+      "detail": "ffmpeg: character + drone + captions + waveform..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-29T23:29:40.565570+00:00"
+  "updated_at": "2026-07-29T23:29:41.624986+00:00"
 }
