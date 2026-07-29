@@ -1,15 +1,21 @@
 {
   "story_id": 112,
   "premise": "I used my late husband’s $95,000 life insurance to pay for my nephew’s $92,000 MBA after he signed a contract guaranteeing me a lifetime of free portfolio management, but when he landed a $250,000‑a‑year job he blew me off, calling it a gift; I sued for promissory estoppel, won a $340,000 judgment, and now garnish his salary to fund ‘Portfolio of Promises’ — a free financial clinic where every client sips from a mug that says ‘My MBA was funded by my aunt’s sacrifice’ while he is forced to volunteer quarterly in a tie embroidered ‘Fiduciary Fraudster.’",
-  "stage": "script",
+  "stage": "audio",
   "stages": {
     "script": {
       "label": "Writing script",
       "icon": "pen",
       "status": "done",
       "detail": "6,414 words"
+    },
+    "audio": {
+      "label": "Kokoro narration",
+      "icon": "mic",
+      "status": "running",
+      "detail": "Kokoro af_bella narrating..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-29T17:28:37.873656+00:00"
+  "updated_at": "2026-07-29T17:28:39.591793+00:00"
 }
