@@ -1,40 +1,8 @@
 {
-  "story_id": 109,
-  "premise": "I emptied my $75,000 401(k) to buy and convert a school bus into a pierogi food truck with my son‑in‑law, signing a 50/50 partnership built on my late mother’s recipes, but after a TV appearance he forged a sole‑ownership title, took a $450,000 buyout, and gave me a $4,000 “thank‑you”; I retrieved the original partnership from my safety‑deposit box, proved the forgery with a handwriting expert, won back the truck and recipes, and now operate ‘Pierogi Retribution’ where my son‑in‑law is forced to serve wearing a hat that says ‘Dough Me Wrong’ while the menu lists ‘Fraud Pierogi’ with a QR code to his perjury conviction.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "7,436 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Son-In-Law Forged My Truck Title, Took $450K, And Left Me $4K. So I Let The C"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "42.4 min, 1075MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=PoOn3Q4IoFg"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-29T10:36:55.116163+00:00",
-  "video_id": "PoOn3Q4IoFg"
+  "story_id": 110,
+  "premise": "I drained my $123,000 401(k) to co‑found a vintage diner‑car with my stepson, signing a notarized 50/50 partnership, but after a $1.4 million buyout offer he forged my name on a dissolution, sold the diner, and mailed me a $4,500 ‘gratitude’ check; I found our original contract hidden inside a menu, proved the forgery, voided the sale, and now run ‘Griddle of Guilt’ where he scrubs the grill in a shirt that reads ‘Flipped on Family’ and every receipt prints his fraud case number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-29T11:58:24.777862+00:00"
 }
