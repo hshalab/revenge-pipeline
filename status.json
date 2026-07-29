@@ -1,40 +1,8 @@
 {
-  "story_id": 111,
-  "premise": "When my father died, his will left me a $265,000 collection of Depression‑era glass, but my sister—the executor—forged a $1 sale note and sold it to a museum for $300,000; I forced open the museum’s provenance records, proved the forgery, recovered the entire collection, and opened ‘Shattered Trust Glass Studio’ where she is court‑ordered to polish each piece wearing white gloves printed with ‘Fraud Fragile’ while visitors receive a postcard with her perjury conviction.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,992 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Sister Faked A $1 Sale, Stole Dad's $265K Glass. So I Watched Her Polish With"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "39.1 min, 970MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=LSCGPaPBcWY"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-29T15:56:06.878095+00:00",
-  "video_id": "LSCGPaPBcWY"
+  "story_id": 112,
+  "premise": "I used my late husband’s $95,000 life insurance to pay for my nephew’s $92,000 MBA after he signed a contract guaranteeing me a lifetime of free portfolio management, but when he landed a $250,000‑a‑year job he blew me off, calling it a gift; I sued for promissory estoppel, won a $340,000 judgment, and now garnish his salary to fund ‘Portfolio of Promises’ — a free financial clinic where every client sips from a mug that says ‘My MBA was funded by my aunt’s sacrifice’ while he is forced to volunteer quarterly in a tie embroidered ‘Fiduciary Fraudster.’",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-29T17:21:03.492931+00:00"
 }
