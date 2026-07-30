@@ -1,7 +1,7 @@
 {
   "story_id": 118,
   "premise": "At 56 I poured my $95,000 widow’s inheritance into a charter‑fishing business with my brother, signing for 45% equity and naming the boat after our late mother, but he forged a bill of sale, pocketed a $400,000 deal for the boat and license, and offered me $8,000; I found the original agreement tucked in our mother’s sewing kit, voided the sale through court, and now run ‘Reel Betrayal Charters’ — my brother must bait every hook and scrub the deck in a hat reading ‘Hook, Line, and Sinker,’ while each fishing license prints the fraud docket number.",
-  "stage": "thumb",
+  "stage": "assembly",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -20,8 +20,14 @@
       "icon": "image",
       "status": "done",
       "detail": "My Brother Stole My Boat After I Gave My Widow's $95K. So I Voided His Sale And "
+    },
+    "assembly": {
+      "label": "Assembling video",
+      "icon": "film",
+      "status": "running",
+      "detail": "ffmpeg: character + drone + captions + waveform..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-30T12:17:55.033108+00:00"
+  "updated_at": "2026-07-30T12:17:56.293820+00:00"
 }
