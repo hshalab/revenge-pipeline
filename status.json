@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Niece Forged A Sale, Sold My Business. So I Watched Her Wear 'Packed With Lie"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-30T06:47:57.881542+00:00"
+  "updated_at": "2026-07-30T06:51:20.444765+00:00"
 }
