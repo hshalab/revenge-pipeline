@@ -1,40 +1,8 @@
 {
-  "story_id": 115,
-  "premise": "I used my late husband’s $92,000 life insurance to buy a 50% stake in my stepson’s historic funeral home, signing a partnership contract, but after a $780,000 corporate buyout he forged a dissolution, sent me a $4,500 cremation check, and locked me out; I proved the forgery with bank records, voided the sale, and now run ‘Eulogy of Lies Memorials’ — my stepson digs graves by hand wearing a shirt that says ‘6 Feet Under Fraud,’ and every service program prints his perjury conviction number.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,692 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Stepson Forged Dissolution, Then Locked Me Out With A $4,500 Check. So I Void"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "38.5 min, 1020MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=XYb7Yujq9gU"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-30T04:53:42.753809+00:00",
-  "video_id": "XYb7Yujq9gU"
+  "story_id": 116,
+  "premise": "I drained my $78,000 nursing pension to co‑found a self‑storage auction business with my niece after she signed a notarized 40% ownership promise, but she forged an asset transfer, sold the facility to a national chain for $620,000, and palmed me a $3,000 ‘finder’s fee’; I uncovered the forgery through the original storage‑unit logbook, won the entire property, and now run ‘Unit of Betrayal Storage’ — my niece is forced to clean foreclosed units in a vest that reads ‘Packed with Lies,’ and every auction flyer has a QR code to the fraud trial.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-30T06:26:40.694805+00:00"
 }
