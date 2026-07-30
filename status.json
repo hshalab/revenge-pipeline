@@ -1,40 +1,8 @@
 {
-  "story_id": 114,
-  "premise": "At 59 I cashed out my $105,000 CD to buy and renovate a derelict miniature‑golf course with my son, who gave me a notarized 50% share and promised a cottage on the property, but after it appraised at $750,000 he forged a deed, bulldozed the cottage, sold to a developer for $800,000, and sent me a $5,000 check; I found our original agreement in my late husband’s toolbox, proved the forgery, and the court vested the entire property to me, so now every hole on ‘Putt It Right Mini Golf’ features a mechanical figure of him clutching a forged deed, and he spends weekends collecting golf balls while costumed as ‘The Forgettful Felon.’",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,274 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Son Forged A Deed, Bulldozed My Cottage, Sent Me $5K. So I Took The Mini Golf"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "32.1 min, 829MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=rzmrRz7VFN4"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-29T23:49:48.399072+00:00",
-  "video_id": "rzmrRz7VFN4"
+  "story_id": 115,
+  "premise": "I used my late husband’s $92,000 life insurance to buy a 50% stake in my stepson’s historic funeral home, signing a partnership contract, but after a $780,000 corporate buyout he forged a dissolution, sent me a $4,500 cremation check, and locked me out; I proved the forgery with bank records, voided the sale, and now run ‘Eulogy of Lies Memorials’ — my stepson digs graves by hand wearing a shirt that says ‘6 Feet Under Fraud,’ and every service program prints his perjury conviction number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-30T03:59:05.989210+00:00"
 }
