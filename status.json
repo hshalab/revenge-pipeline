@@ -1,40 +1,8 @@
 {
-  "story_id": 121,
-  "premise": "I drained my $105,000 401(k) to co‑found a custom neon‑sign shop with my brother, notarizing a 40% stake, but after a hotel chain commissioned a $500,000 project he forged a release, sold the business name and equipment for $400,000, and palmed me a $5,000 check—I recovered our original agreement from our late mother’s Bible, voided the sale, and now run 'Glowing Betrayal Neon' where he bends glass tubes in a vest that says 'Bent the Truth' and every sign’s packaging prints the fraud docket.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,749 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Brother Stole My 401K-Funded Business And Gave Me $5K. So I Let Him Wear 'Ben"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "31.5 min, 811MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=RSlAccsEI2E"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-30T21:04:41.957903+00:00",
-  "video_id": "RSlAccsEI2E"
+  "story_id": 122,
+  "premise": "I poured my $88,000 nursing pension into a high‑end pet‑portrait photography studio with my stepdaughter, securing a 45% share and free lifetime portraits of my rescue cats, but she forged an ownership transfer, sold the viral social‑media accounts and client list to a national pet chain for $380,000, and sent me a $2,000 'gratitude' check—I proved the forgery with cloud metadata, reclaimed the studio, and now run 'Fur of Deceit Portraits' where she cleans cat hair off props in a shirt that reads 'Paws‑itively Guilty' and every receipt prints her perjury conviction number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-30T23:10:27.661120+00:00"
 }
