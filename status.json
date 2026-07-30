@@ -1,7 +1,7 @@
 {
   "story_id": 115,
   "premise": "I used my late husband’s $92,000 life insurance to buy a 50% stake in my stepson’s historic funeral home, signing a partnership contract, but after a $780,000 corporate buyout he forged a dissolution, sent me a $4,500 cremation check, and locked me out; I proved the forgery with bank records, voided the sale, and now run ‘Eulogy of Lies Memorials’ — my stepson digs graves by hand wearing a shirt that says ‘6 Feet Under Fraud,’ and every service program prints his perjury conviction number.",
-  "stage": "assembly",
+  "stage": "upload",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -26,8 +26,14 @@
       "icon": "film",
       "status": "done",
       "detail": "38.5 min, 1020MB"
+    },
+    "upload": {
+      "label": "Uploading to YouTube",
+      "icon": "upload",
+      "status": "running",
+      "detail": ""
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-30T04:53:08.420237+00:00"
+  "updated_at": "2026-07-30T04:53:09.380418+00:00"
 }
