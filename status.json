@@ -1,7 +1,7 @@
 {
   "story_id": 120,
   "premise": "I used my late husband's $92,000 life insurance to launch a custom dollhouse‑miniature business with my daughter, who swore a 50% partnership and a lifetime supply of hand‑painted furniture, but after a toy company offered $650,000 for the brand she forged a dissolution, sold everything, and mailed me a $3,000 gift card—I discovered the original partnership rolled inside a miniature rug, proved the forgery, and now run 'Tiny Lies Miniatures' where my daughter glues tiny chairs in an apron reading 'Small Fraud, Big Consequences' and every dollhouse ships with a QR code to her perjury conviction.",
-  "stage": "assembly",
+  "stage": "upload",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -26,8 +26,14 @@
       "icon": "film",
       "status": "done",
       "detail": "30.0 min, 740MB"
+    },
+    "upload": {
+      "label": "Uploading to YouTube",
+      "icon": "upload",
+      "status": "running",
+      "detail": ""
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-30T18:16:24.461326+00:00"
+  "updated_at": "2026-07-30T18:16:25.978750+00:00"
 }
