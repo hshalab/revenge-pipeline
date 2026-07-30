@@ -1,40 +1,8 @@
 {
-  "story_id": 116,
-  "premise": "I drained my $78,000 nursing pension to co‑found a self‑storage auction business with my niece after she signed a notarized 40% ownership promise, but she forged an asset transfer, sold the facility to a national chain for $620,000, and palmed me a $3,000 ‘finder’s fee’; I uncovered the forgery through the original storage‑unit logbook, won the entire property, and now run ‘Unit of Betrayal Storage’ — my niece is forced to clean foreclosed units in a vest that reads ‘Packed with Lies,’ and every auction flyer has a QR code to the fraud trial.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,731 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Niece Forged A Sale, Sold My Business. So I Watched Her Wear 'Packed With Lie"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "29.7 min, 779MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=dkXiWziik1A"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-30T07:10:16.044086+00:00",
-  "video_id": "dkXiWziik1A"
+  "story_id": 117,
+  "premise": "I liquidated my $85,000 401(k) to start an indie publishing house with my daughter, securing a 30% lifetime royalty share on every title, but she forged a rights‑reversion letter, sold a viral memoir for $1.1 million, and mailed me a $5,000 check; I retrieved our original contract from my safe‑deposit box, proved the forgery via metadata, and now run ‘Copyright of Revenge Press’ — my daughter stuffs marketing envelopes in a shirt that says ‘Plot Twist: I Stole from Mom,’ and every book’s foreword details the fraud.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-30T09:30:34.060488+00:00"
 }
