@@ -1,8 +1,15 @@
 {
   "story_id": 117,
   "premise": "I liquidated my $85,000 401(k) to start an indie publishing house with my daughter, securing a 30% lifetime royalty share on every title, but she forged a rights‑reversion letter, sold a viral memoir for $1.1 million, and mailed me a $5,000 check; I retrieved our original contract from my safe‑deposit box, proved the forgery via metadata, and now run ‘Copyright of Revenge Press’ — my daughter stuffs marketing envelopes in a shirt that says ‘Plot Twist: I Stole from Mom,’ and every book’s foreword details the fraud.",
-  "stage": null,
-  "stages": {},
+  "stage": "script",
+  "stages": {
+    "script": {
+      "label": "Writing script",
+      "icon": "pen",
+      "status": "running",
+      "detail": "Sonnet 5 writing..."
+    }
+  },
   "run_state": "running",
-  "updated_at": "2026-07-30T09:30:34.060488+00:00"
+  "updated_at": "2026-07-30T09:30:35.899633+00:00"
 }
