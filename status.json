@@ -1,40 +1,8 @@
 {
-  "story_id": 118,
-  "premise": "At 56 I poured my $95,000 widow’s inheritance into a charter‑fishing business with my brother, signing for 45% equity and naming the boat after our late mother, but he forged a bill of sale, pocketed a $400,000 deal for the boat and license, and offered me $8,000; I found the original agreement tucked in our mother’s sewing kit, voided the sale through court, and now run ‘Reel Betrayal Charters’ — my brother must bait every hook and scrub the deck in a hat reading ‘Hook, Line, and Sinker,’ while each fishing license prints the fraud docket number.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "7,027 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Brother Stole My Boat After I Gave My Widow's $95K. So I Voided His Sale And "
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "36.4 min, 935MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=S4Xr2qqm7m8"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-30T12:40:41.570011+00:00",
-  "video_id": "S4Xr2qqm7m8"
+  "story_id": 119,
+  "premise": "I emptied my $100,000 retirement fund to co‑found a tiny‑home construction company with my son‑in‑law after he signed a 40% equity share and promised me the first model home as a lifetime cottage; he forged a release, sold the company and its blueprints for $750,000, and handed me a $6,000 ‘settlement.’ I proved the forgery with a time‑stamped video of our handshake deal, won the company and the model home, and now run ‘Small Lies Tiny Homes’ — he’s court‑ordered to tighten screws on display models in a shirt that says ‘Built on Deceit,’ and every tiny‑home manual links to the fraud judgment.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-30T15:08:09.259830+00:00"
 }
