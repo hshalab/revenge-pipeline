@@ -1,40 +1,8 @@
 {
-  "story_id": 120,
-  "premise": "I used my late husband's $92,000 life insurance to launch a custom dollhouse‑miniature business with my daughter, who swore a 50% partnership and a lifetime supply of hand‑painted furniture, but after a toy company offered $650,000 for the brand she forged a dissolution, sold everything, and mailed me a $3,000 gift card—I discovered the original partnership rolled inside a miniature rug, proved the forgery, and now run 'Tiny Lies Miniatures' where my daughter glues tiny chairs in an apron reading 'Small Fraud, Big Consequences' and every dollhouse ships with a QR code to her perjury conviction.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,661 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Daughter Forged A Dissolution And Sold Our Brand. So I Shipped Her Conviction"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "30.0 min, 740MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=DAOrCJN6L9c"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-30T18:17:39.011515+00:00",
-  "video_id": "DAOrCJN6L9c"
+  "story_id": 121,
+  "premise": "I drained my $105,000 401(k) to co‑found a custom neon‑sign shop with my brother, notarizing a 40% stake, but after a hotel chain commissioned a $500,000 project he forged a release, sold the business name and equipment for $400,000, and palmed me a $5,000 check—I recovered our original agreement from our late mother’s Bible, voided the sale, and now run 'Glowing Betrayal Neon' where he bends glass tubes in a vest that says 'Bent the Truth' and every sign’s packaging prints the fraud docket.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-30T20:19:31.154666+00:00"
 }
