@@ -1,7 +1,7 @@
 {
   "story_id": 116,
   "premise": "I drained my $78,000 nursing pension to co‑found a self‑storage auction business with my niece after she signed a notarized 40% ownership promise, but she forged an asset transfer, sold the facility to a national chain for $620,000, and palmed me a $3,000 ‘finder’s fee’; I uncovered the forgery through the original storage‑unit logbook, won the entire property, and now run ‘Unit of Betrayal Storage’ — my niece is forced to clean foreclosed units in a vest that reads ‘Packed with Lies,’ and every auction flyer has a QR code to the fraud trial.",
-  "stage": "thumb",
+  "stage": "assembly",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -20,8 +20,14 @@
       "icon": "image",
       "status": "done",
       "detail": "My Niece Forged A Sale, Sold My Business. So I Watched Her Wear 'Packed With Lie"
+    },
+    "assembly": {
+      "label": "Assembling video",
+      "icon": "film",
+      "status": "running",
+      "detail": "ffmpeg: character + drone + captions + waveform..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-30T06:51:20.444765+00:00"
+  "updated_at": "2026-07-30T06:51:21.742405+00:00"
 }
