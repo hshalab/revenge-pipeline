@@ -1,40 +1,8 @@
 {
-  "story_id": 119,
-  "premise": "I emptied my $100,000 retirement fund to co‑found a tiny‑home construction company with my son‑in‑law after he signed a 40% equity share and promised me the first model home as a lifetime cottage; he forged a release, sold the company and its blueprints for $750,000, and handed me a $6,000 ‘settlement.’ I proved the forgery with a time‑stamped video of our handshake deal, won the company and the model home, and now run ‘Small Lies Tiny Homes’ — he’s court‑ordered to tighten screws on display models in a shirt that says ‘Built on Deceit,’ and every tiny‑home manual links to the fraud judgment.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,809 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Son-In-Law Forged My Signature And Sold Our Company For $750K. So I Let The C"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "32.3 min, 802MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=lYr2nJBqEFk"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-30T15:53:57.149308+00:00",
-  "video_id": "lYr2nJBqEFk"
+  "story_id": 120,
+  "premise": "I used my late husband's $92,000 life insurance to launch a custom dollhouse‑miniature business with my daughter, who swore a 50% partnership and a lifetime supply of hand‑painted furniture, but after a toy company offered $650,000 for the brand she forged a dissolution, sold everything, and mailed me a $3,000 gift card—I discovered the original partnership rolled inside a miniature rug, proved the forgery, and now run 'Tiny Lies Miniatures' where my daughter glues tiny chairs in an apron reading 'Small Fraud, Big Consequences' and every dollhouse ships with a QR code to her perjury conviction.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-30T17:42:39.566877+00:00"
 }
