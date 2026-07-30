@@ -1,7 +1,7 @@
 {
   "story_id": 121,
   "premise": "I drained my $105,000 401(k) to co‑found a custom neon‑sign shop with my brother, notarizing a 40% stake, but after a hotel chain commissioned a $500,000 project he forged a release, sold the business name and equipment for $400,000, and palmed me a $5,000 check—I recovered our original agreement from our late mother’s Bible, voided the sale, and now run 'Glowing Betrayal Neon' where he bends glass tubes in a vest that says 'Bent the Truth' and every sign’s packaging prints the fraud docket.",
-  "stage": "audio",
+  "stage": "thumb",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -14,8 +14,14 @@
       "icon": "mic",
       "status": "done",
       "detail": ""
+    },
+    "thumb": {
+      "label": "Thumbnail + metadata",
+      "icon": "image",
+      "status": "running",
+      "detail": "Writing title/tags + rendering thumbnail..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-30T20:42:01.801094+00:00"
+  "updated_at": "2026-07-30T20:42:03.361694+00:00"
 }
