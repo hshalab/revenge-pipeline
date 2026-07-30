@@ -1,8 +1,15 @@
 {
   "story_id": 122,
   "premise": "I poured my $88,000 nursing pension into a high‑end pet‑portrait photography studio with my stepdaughter, securing a 45% share and free lifetime portraits of my rescue cats, but she forged an ownership transfer, sold the viral social‑media accounts and client list to a national pet chain for $380,000, and sent me a $2,000 'gratitude' check—I proved the forgery with cloud metadata, reclaimed the studio, and now run 'Fur of Deceit Portraits' where she cleans cat hair off props in a shirt that reads 'Paws‑itively Guilty' and every receipt prints her perjury conviction number.",
-  "stage": null,
-  "stages": {},
+  "stage": "script",
+  "stages": {
+    "script": {
+      "label": "Writing script",
+      "icon": "pen",
+      "status": "running",
+      "detail": "Sonnet 5 writing..."
+    }
+  },
   "run_state": "running",
-  "updated_at": "2026-07-30T23:10:27.661120+00:00"
+  "updated_at": "2026-07-30T23:10:29.629490+00:00"
 }
