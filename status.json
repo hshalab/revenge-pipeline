@@ -1,40 +1,8 @@
 {
-  "story_id": 117,
-  "premise": "I liquidated my $85,000 401(k) to start an indie publishing house with my daughter, securing a 30% lifetime royalty share on every title, but she forged a rights‑reversion letter, sold a viral memoir for $1.1 million, and mailed me a $5,000 check; I retrieved our original contract from my safe‑deposit box, proved the forgery via metadata, and now run ‘Copyright of Revenge Press’ — my daughter stuffs marketing envelopes in a shirt that says ‘Plot Twist: I Stole from Mom,’ and every book’s foreword details the fraud.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,806 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Daughter Forged A Letter, Stole My $1.1M Deal. So I Proved Forgery And Now Sh"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "38.2 min, 968MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=M6JF3vNz0E8"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-30T10:24:34.720601+00:00",
-  "video_id": "M6JF3vNz0E8"
+  "story_id": 118,
+  "premise": "At 56 I poured my $95,000 widow’s inheritance into a charter‑fishing business with my brother, signing for 45% equity and naming the boat after our late mother, but he forged a bill of sale, pocketed a $400,000 deal for the boat and license, and offered me $8,000; I found the original agreement tucked in our mother’s sewing kit, voided the sale through court, and now run ‘Reel Betrayal Charters’ — my brother must bait every hook and scrub the deck in a hat reading ‘Hook, Line, and Sinker,’ while each fishing license prints the fraud docket number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-30T11:48:18.434594+00:00"
 }
