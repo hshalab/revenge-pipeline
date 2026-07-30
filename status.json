@@ -1,7 +1,7 @@
 {
   "story_id": 117,
   "premise": "I liquidated my $85,000 401(k) to start an indie publishing house with my daughter, securing a 30% lifetime royalty share on every title, but she forged a rights‑reversion letter, sold a viral memoir for $1.1 million, and mailed me a $5,000 check; I retrieved our original contract from my safe‑deposit box, proved the forgery via metadata, and now run ‘Copyright of Revenge Press’ — my daughter stuffs marketing envelopes in a shirt that says ‘Plot Twist: I Stole from Mom,’ and every book’s foreword details the fraud.",
-  "stage": "thumb",
+  "stage": "assembly",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -20,8 +20,14 @@
       "icon": "image",
       "status": "done",
       "detail": "My Daughter Forged A Letter, Stole My $1.1M Deal. So I Proved Forgery And Now Sh"
+    },
+    "assembly": {
+      "label": "Assembling video",
+      "icon": "film",
+      "status": "running",
+      "detail": "ffmpeg: character + drone + captions + waveform..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-30T10:00:27.630886+00:00"
+  "updated_at": "2026-07-30T10:00:29.459799+00:00"
 }
