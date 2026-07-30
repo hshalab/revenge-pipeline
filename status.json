@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Daughter Forged A Dissolution And Sold Our Brand. So I Shipped Her Conviction"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-30T18:00:48.922535+00:00"
+  "updated_at": "2026-07-30T18:01:55.087101+00:00"
 }
