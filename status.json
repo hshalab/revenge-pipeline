@@ -1,7 +1,7 @@
 {
   "story_id": 119,
   "premise": "I emptied my $100,000 retirement fund to co‑found a tiny‑home construction company with my son‑in‑law after he signed a 40% equity share and promised me the first model home as a lifetime cottage; he forged a release, sold the company and its blueprints for $750,000, and handed me a $6,000 ‘settlement.’ I proved the forgery with a time‑stamped video of our handshake deal, won the company and the model home, and now run ‘Small Lies Tiny Homes’ — he’s court‑ordered to tighten screws on display models in a shirt that says ‘Built on Deceit,’ and every tiny‑home manual links to the fraud judgment.",
-  "stage": "thumb",
+  "stage": "assembly",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -20,8 +20,14 @@
       "icon": "image",
       "status": "done",
       "detail": "My Son-In-Law Forged My Signature And Sold Our Company For $750K. So I Let The C"
+    },
+    "assembly": {
+      "label": "Assembling video",
+      "icon": "film",
+      "status": "running",
+      "detail": "ffmpeg: character + drone + captions + waveform..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-30T15:34:16.735514+00:00"
+  "updated_at": "2026-07-30T15:34:17.978971+00:00"
 }
