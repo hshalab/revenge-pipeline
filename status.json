@@ -1,27 +1,8 @@
 {
-  "story_id": 125,
-  "premise": "I emptied my $108,000 widow’s inheritance into a retro 10‑lane bowling alley with my daughter, who signed a notarized 50/50 partnership and swore I’d bowl free for life, but after a viral TV segment she forged a dissolution, sold the vintage pinsetters and brand to a national chain for $585,000, and mailed me a $4,500 “thank‑you” card—I found the original agreement folded inside my late husband’s bowling bag, voided the sale, and now run ‘Strike of Betrayal Lanes’ where she dusts rental shoes in a shirt that says ‘Split Decision’ and every scorecard prints the fraud docket number.",
-  "stage": "thumb",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,126 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "error",
-      "detail": "Expecting ',' delimiter: line 26 column 6 (char 1240)"
-    }
-  },
-  "run_state": "failed",
-  "updated_at": "2026-07-31T17:25:29.749005+00:00"
+  "story_id": 126,
+  "premise": "After caring for our dying father for a decade, I was willed his treasured $195,000 collection of signed first‑edition Southern Gothic novels, but my brother—the executor—forged a $1 sale note, transferred the books to himself, and sold them to a rare‑book dealer for $230,000; I located Dad’s dated inventory tucked inside a hollowed‑out copy of As I Lay Dying, proved the forgery in probate court, reclaimed every volume, and now run ‘Plot Twist Books’ where my brother dusts shelves in a vest reading ‘Chapter of Forged Lies’ and each sale includes a bookmark detailing the fraud.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-31T17:45:17.648333+00:00"
 }
