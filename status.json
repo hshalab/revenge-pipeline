@@ -1,7 +1,7 @@
 {
   "story_id": 125,
   "premise": "I emptied my $108,000 widow’s inheritance into a retro 10‑lane bowling alley with my daughter, who signed a notarized 50/50 partnership and swore I’d bowl free for life, but after a viral TV segment she forged a dissolution, sold the vintage pinsetters and brand to a national chain for $585,000, and mailed me a $4,500 “thank‑you” card—I found the original agreement folded inside my late husband’s bowling bag, voided the sale, and now run ‘Strike of Betrayal Lanes’ where she dusts rental shoes in a shirt that says ‘Split Decision’ and every scorecard prints the fraud docket number.",
-  "stage": "audio",
+  "stage": "thumb",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -14,8 +14,14 @@
       "icon": "mic",
       "status": "done",
       "detail": ""
+    },
+    "thumb": {
+      "label": "Thumbnail + metadata",
+      "icon": "image",
+      "status": "running",
+      "detail": "Writing title/tags + rendering thumbnail..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-31T17:23:33.537579+00:00"
+  "updated_at": "2026-07-31T17:23:35.072452+00:00"
 }
