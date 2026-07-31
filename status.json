@@ -1,40 +1,8 @@
 {
-  "story_id": 122,
-  "premise": "I poured my $88,000 nursing pension into a high‑end pet‑portrait photography studio with my stepdaughter, securing a 45% share and free lifetime portraits of my rescue cats, but she forged an ownership transfer, sold the viral social‑media accounts and client list to a national pet chain for $380,000, and sent me a $2,000 'gratitude' check—I proved the forgery with cloud metadata, reclaimed the studio, and now run 'Fur of Deceit Portraits' where she cleans cat hair off props in a shirt that reads 'Paws‑itively Guilty' and every receipt prints her perjury conviction number.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,344 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Stepdaughter Stole My $88K Studio And Sold It For $380K. So I Let Her Clean C"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "33.5 min, 864MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=r-mM8yrK7E8"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-30T23:48:56.941103+00:00",
-  "video_id": "r-mM8yrK7E8"
+  "story_id": 123,
+  "premise": "I emptied my $95,000 IRA to found a historic‑wallpaper reproduction company with my sister‑in‑law, who signed a notarized 50/50 partnership, but she forged a dissolution document, sold the original patterns and inventory to a design museum for $550,000, and offered me a $4,000 'finder’s fee'—I found the notarized original in my late husband’s desk, voided the sale, and now run 'Pattern of Lies Wallpaper Co.' where she trims samples in an apron reading 'Peeling Back the Fraud' and every roll includes a QR code to the judgment.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-31T04:23:10.570199+00:00"
 }
