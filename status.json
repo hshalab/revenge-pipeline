@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "error",
+      "detail": "Expecting ',' delimiter: line 26 column 6 (char 1240)"
     }
   },
-  "run_state": "running",
-  "updated_at": "2026-07-31T17:23:35.072452+00:00"
+  "run_state": "failed",
+  "updated_at": "2026-07-31T17:25:29.749005+00:00"
 }
