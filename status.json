@@ -1,7 +1,7 @@
 {
   "story_id": 128,
   "premise": "I drained my $91,000 nursing pension to co‑found a high‑end custom framing gallery with my son, signing for 45% ownership and a lifetime promise to frame my late husband’s Air Force medals, but after landing a corporate account he forged an asset sale, sold the client list and specialty mat cutters to a national chain for $540,000, and handed me a $2,800 framed check; I discovered the original notarized agreement behind a framed copy of his birth certificate in my hope chest, voided the sale, and now run ‘Framed by Fraud Gallery’ where he cuts mat boards in a shirt that says ‘Mitered Lies’ and every custom frame includes a QR code to the civil judgment.",
-  "stage": "thumb",
+  "stage": "assembly",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -20,8 +20,14 @@
       "icon": "image",
       "status": "done",
       "detail": "My Son Sold My Gallery, Gave Me A $2,800 Check. So I Voided The Sale And Took Ba"
+    },
+    "assembly": {
+      "label": "Assembling video",
+      "icon": "film",
+      "status": "running",
+      "detail": "ffmpeg: character + drone + captions + waveform..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-31T23:28:11.657151+00:00"
+  "updated_at": "2026-07-31T23:28:13.031253+00:00"
 }
