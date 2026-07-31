@@ -1,7 +1,7 @@
 {
   "story_id": 126,
   "premise": "After caring for our dying father for a decade, I was willed his treasured $195,000 collection of signed first‑edition Southern Gothic novels, but my brother—the executor—forged a $1 sale note, transferred the books to himself, and sold them to a rare‑book dealer for $230,000; I located Dad’s dated inventory tucked inside a hollowed‑out copy of As I Lay Dying, proved the forgery in probate court, reclaimed every volume, and now run ‘Plot Twist Books’ where my brother dusts shelves in a vest reading ‘Chapter of Forged Lies’ and each sale includes a bookmark detailing the fraud.",
-  "stage": "thumb",
+  "stage": "assembly",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -20,8 +20,14 @@
       "icon": "image",
       "status": "done",
       "detail": "My Brother Forged A $1 Note, Stole Dad's $195K Collection, And Sold It. So I Let"
+    },
+    "assembly": {
+      "label": "Assembling video",
+      "icon": "film",
+      "status": "running",
+      "detail": "ffmpeg: character + drone + captions + waveform..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-31T18:16:41.110389+00:00"
+  "updated_at": "2026-07-31T18:16:42.571908+00:00"
 }
