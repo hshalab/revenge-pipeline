@@ -1,15 +1,8 @@
 {
-  "story_id": 127,
-  "premise": "I used my late husband’s $100,000 life insurance to clear my nephew’s $94,000 medical‑school debt, relying on his notarized pledge to give me a rent‑free apartment in his future practice and 10% of profits for life; once he built his own surgical clinic he sent me a $5,000 check marked ‘final settlement’ and refused to let me through the door—I sued for promissory estoppel, won a $385,000 judgment, and now run ‘White Coat Reckoning,’ a medical‑billing watchdog where he scrubs treatment rooms in a lab coat embroidered ‘I Owe My Aunt Everything’ and his garnished wages fund free patient advocates.",
-  "stage": "script",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "error",
-      "detail": "IncompleteRead(1 bytes read)"
-    }
-  },
-  "run_state": "failed",
-  "updated_at": "2026-07-31T21:18:48.511534+00:00"
+  "story_id": 128,
+  "premise": "I drained my $91,000 nursing pension to co‑found a high‑end custom framing gallery with my son, signing for 45% ownership and a lifetime promise to frame my late husband’s Air Force medals, but after landing a corporate account he forged an asset sale, sold the client list and specialty mat cutters to a national chain for $540,000, and handed me a $2,800 framed check; I discovered the original notarized agreement behind a framed copy of his birth certificate in my hope chest, voided the sale, and now run ‘Framed by Fraud Gallery’ where he cuts mat boards in a shirt that says ‘Mitered Lies’ and every custom frame includes a QR code to the civil judgment.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-31T23:03:31.765388+00:00"
 }
