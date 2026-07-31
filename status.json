@@ -1,7 +1,7 @@
 {
   "story_id": 123,
   "premise": "I emptied my $95,000 IRA to found a historic‑wallpaper reproduction company with my sister‑in‑law, who signed a notarized 50/50 partnership, but she forged a dissolution document, sold the original patterns and inventory to a design museum for $550,000, and offered me a $4,000 'finder’s fee'—I found the notarized original in my late husband’s desk, voided the sale, and now run 'Pattern of Lies Wallpaper Co.' where she trims samples in an apron reading 'Peeling Back the Fraud' and every roll includes a QR code to the judgment.",
-  "stage": "audio",
+  "stage": "thumb",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -14,8 +14,14 @@
       "icon": "mic",
       "status": "done",
       "detail": ""
+    },
+    "thumb": {
+      "label": "Thumbnail + metadata",
+      "icon": "image",
+      "status": "running",
+      "detail": "Writing title/tags + rendering thumbnail..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-31T04:47:18.771779+00:00"
+  "updated_at": "2026-07-31T04:47:20.711324+00:00"
 }
