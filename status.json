@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My SIL Forged a Dissolution and Sold My Patterns for $550K. So I Made Her Trim S"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-31T04:47:20.711324+00:00"
+  "updated_at": "2026-07-31T04:50:29.116853+00:00"
 }
