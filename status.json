@@ -1,40 +1,8 @@
 {
-  "story_id": 123,
-  "premise": "I emptied my $95,000 IRA to found a historic‑wallpaper reproduction company with my sister‑in‑law, who signed a notarized 50/50 partnership, but she forged a dissolution document, sold the original patterns and inventory to a design museum for $550,000, and offered me a $4,000 'finder’s fee'—I found the notarized original in my late husband’s desk, voided the sale, and now run 'Pattern of Lies Wallpaper Co.' where she trims samples in an apron reading 'Peeling Back the Fraud' and every roll includes a QR code to the judgment.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,235 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My SIL Forged a Dissolution and Sold My Patterns for $550K. So I Made Her Trim S"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "37.0 min, 983MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=or7AZNpn59s"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-31T05:12:55.481709+00:00",
-  "video_id": "or7AZNpn59s"
+  "story_id": 124,
+  "premise": "I cashed out my $100,000 CD to co‑found a puzzle‑and‑escape‑room‑in‑a‑box company with my son, who promised me 45% equity and the use of my late husband’s woodworking tools, but after a game publisher bought a popular series for $900,000 he forged an IP transfer and handed me a $5,000 check—I retrieved the original share certificate from a hidden puzzle box my husband built, proved the forgery, won the business, and now run 'Puzzled by Betrayal Games' where my son cuts puzzle pieces in a shirt that says 'Piece of Fraud' and each box contains a 'missing piece' story of his deceit.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-31T06:43:37.805143+00:00"
 }
