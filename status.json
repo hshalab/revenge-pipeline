@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Son Sold My Gallery, Gave Me A $2,800 Check. So I Voided The Sale And Took Ba"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-31T23:26:05.613659+00:00"
+  "updated_at": "2026-07-31T23:28:11.657151+00:00"
 }
