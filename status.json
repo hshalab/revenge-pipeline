@@ -1,7 +1,7 @@
 {
   "story_id": 124,
   "premise": "I cashed out my $100,000 CD to co‑found a puzzle‑and‑escape‑room‑in‑a‑box company with my son, who promised me 45% equity and the use of my late husband’s woodworking tools, but after a game publisher bought a popular series for $900,000 he forged an IP transfer and handed me a $5,000 check—I retrieved the original share certificate from a hidden puzzle box my husband built, proved the forgery, won the business, and now run 'Puzzled by Betrayal Games' where my son cuts puzzle pieces in a shirt that says 'Piece of Fraud' and each box contains a 'missing piece' story of his deceit.",
-  "stage": "audio",
+  "stage": "thumb",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -14,8 +14,14 @@
       "icon": "mic",
       "status": "done",
       "detail": ""
+    },
+    "thumb": {
+      "label": "Thumbnail + metadata",
+      "icon": "image",
+      "status": "running",
+      "detail": "Writing title/tags + rendering thumbnail..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-07-31T07:05:44.088063+00:00"
+  "updated_at": "2026-07-31T07:05:46.450252+00:00"
 }
