@@ -1,40 +1,8 @@
 {
-  "story_id": 126,
-  "premise": "After caring for our dying father for a decade, I was willed his treasured $195,000 collection of signed first‑edition Southern Gothic novels, but my brother—the executor—forged a $1 sale note, transferred the books to himself, and sold them to a rare‑book dealer for $230,000; I located Dad’s dated inventory tucked inside a hollowed‑out copy of As I Lay Dying, proved the forgery in probate court, reclaimed every volume, and now run ‘Plot Twist Books’ where my brother dusts shelves in a vest reading ‘Chapter of Forged Lies’ and each sale includes a bookmark detailing the fraud.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,707 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Brother Forged A $1 Note, Stole Dad's $195K Collection, And Sold It. So I Let"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "30.3 min, 779MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=ILscdbkrOwM"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-31T18:35:22.173788+00:00",
-  "video_id": "ILscdbkrOwM"
+  "story_id": 127,
+  "premise": "I used my late husband’s $100,000 life insurance to clear my nephew’s $94,000 medical‑school debt, relying on his notarized pledge to give me a rent‑free apartment in his future practice and 10% of profits for life; once he built his own surgical clinic he sent me a $5,000 check marked ‘final settlement’ and refused to let me through the door—I sued for promissory estoppel, won a $385,000 judgment, and now run ‘White Coat Reckoning,’ a medical‑billing watchdog where he scrubs treatment rooms in a lab coat embroidered ‘I Owe My Aunt Everything’ and his garnished wages fund free patient advocates.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-07-31T21:17:45.237991+00:00"
 }
