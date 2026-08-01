@@ -1,40 +1,8 @@
 {
-  "story_id": 130,
-  "premise": "I drained my $112,000 widow’s inheritance to buy a historic quilt-fabric shop with my daughter-in-law, who notarized a 50/50 partnership and promised me a lifetime teaching role, but after a fabric company offered $650,000 for the vintage patterns she forged a dissolution, sold everything, and mailed me a $3,500 “gratitude” check; I discovered the original agreement stitched inside a quilted wall hanging I had made, proved the fraud, and now run “Stitch of Betrayal Quilts,” where she hand-labels every quilt with “I Unraveled Family Trust” and her garnished wages fund a women’s shelter sewing program.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,414 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Daughter-In-Law Sold My Inheritance Shop For $650K And Sent Me $3,500. So I S"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "34.4 min, 890MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=GKY_718ZIBU"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-01T07:17:09.336396+00:00",
-  "video_id": "GKY_718ZIBU"
+  "story_id": 131,
+  "premise": "I used my $125,000 401(k) to launch an in-home senior-care franchise with my brother-in-law, securing a signed 40% stake and a paid coordinator job, but after a national chain offered a $900,000 buyout he forged an ownership release, sold the franchise, and handed me a $5,000 “severance”; I found the original partnership notarized on a birthday card from my late husband, voided the sale, and now run “Careless Betrayal Senior Services,” where he has to change bedpans in a scrub shirt that reads “Dependable Liar” and every welcome kit prints his fraud docket number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-01T09:07:03.473872+00:00"
 }
