@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Daughter Took My $130K Widow’s Pension and Sold Our Brand, Then Handed Me $4K"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-01T20:39:57.949523+00:00"
+  "updated_at": "2026-08-01T20:40:57.123326+00:00"
 }
