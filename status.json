@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Brother Stole My $98K Wedding Venue, Gave Me $6K. So I Retrieved The Childhoo"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-01T14:53:32.206639+00:00"
+  "updated_at": "2026-08-01T14:56:09.462528+00:00"
 }
