@@ -1,7 +1,7 @@
 {
   "story_id": 133,
   "premise": "I poured my $98,000 403(b) into transforming our family’s century-old barn into a rustic wedding venue with my brother, who notarized a 50/50 partnership and a lifetime event-coordinator role, but when a hospitality group bid $840,000 for the brand he forged a buyout, sold my share, and gave me a $6,000 “gift”; I retrieved our original agreement from a childhood time capsule we buried, voided the sale, and now run “Barn of Broken Vows,” where he rakes haylofts in overalls printed with “You Reap What You Sow” and every wedding contract links to the fraud judgment QR code.",
-  "stage": "thumb",
+  "stage": "assembly",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -20,8 +20,14 @@
       "icon": "image",
       "status": "done",
       "detail": "My Brother Stole My $98K Wedding Venue, Gave Me $6K. So I Retrieved The Childhoo"
+    },
+    "assembly": {
+      "label": "Assembling video",
+      "icon": "film",
+      "status": "running",
+      "detail": "ffmpeg: character + drone + captions + waveform..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-01T14:56:09.462528+00:00"
+  "updated_at": "2026-08-01T14:56:10.842535+00:00"
 }
