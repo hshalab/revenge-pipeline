@@ -1,7 +1,7 @@
 {
   "story_id": 136,
   "premise": "When my father died, his will—written after a decade of my solo caregiving—left me his $220,000 collection of original Blue Note jazz LPs, but my brother, the executor, forged a $1 sale note and sold the entire archive to a university for $280,000; I discovered a dated audio cassette of Dad stating the records were mine, proved the forgery in probate, reclaimed every disc, and now run 'Vinyl Vendetta Records' where my brother polishes shelving in a shirt that says 'Scratched Lies' and every album sleeve prints the fraud docket.",
-  "stage": "audio",
+  "stage": "thumb",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -14,8 +14,14 @@
       "icon": "mic",
       "status": "done",
       "detail": ""
+    },
+    "thumb": {
+      "label": "Thumbnail + metadata",
+      "icon": "image",
+      "status": "running",
+      "detail": "Writing title/tags + rendering thumbnail..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-01T23:22:59.614598+00:00"
+  "updated_at": "2026-08-01T23:23:01.149201+00:00"
 }
