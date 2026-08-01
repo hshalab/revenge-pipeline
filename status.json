@@ -1,7 +1,7 @@
 {
   "story_id": 136,
   "premise": "When my father died, his will—written after a decade of my solo caregiving—left me his $220,000 collection of original Blue Note jazz LPs, but my brother, the executor, forged a $1 sale note and sold the entire archive to a university for $280,000; I discovered a dated audio cassette of Dad stating the records were mine, proved the forgery in probate, reclaimed every disc, and now run 'Vinyl Vendetta Records' where my brother polishes shelving in a shirt that says 'Scratched Lies' and every album sleeve prints the fraud docket.",
-  "stage": "thumb",
+  "stage": "assembly",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -20,8 +20,14 @@
       "icon": "image",
       "status": "done",
       "detail": "My Brother Forged A $1 Sale, Stole My $220K Inheritance. So I Let Dad's Cassette"
+    },
+    "assembly": {
+      "label": "Assembling video",
+      "icon": "film",
+      "status": "running",
+      "detail": "ffmpeg: character + drone + captions + waveform..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-01T23:24:43.948599+00:00"
+  "updated_at": "2026-08-01T23:24:44.932016+00:00"
 }
