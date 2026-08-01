@@ -1,7 +1,7 @@
 {
   "story_id": 130,
   "premise": "I drained my $112,000 widow’s inheritance to buy a historic quilt-fabric shop with my daughter-in-law, who notarized a 50/50 partnership and promised me a lifetime teaching role, but after a fabric company offered $650,000 for the vintage patterns she forged a dissolution, sold everything, and mailed me a $3,500 “gratitude” check; I discovered the original agreement stitched inside a quilted wall hanging I had made, proved the fraud, and now run “Stitch of Betrayal Quilts,” where she hand-labels every quilt with “I Unraveled Family Trust” and her garnished wages fund a women’s shelter sewing program.",
-  "stage": "thumb",
+  "stage": "assembly",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -20,8 +20,14 @@
       "icon": "image",
       "status": "done",
       "detail": "My Daughter-In-Law Sold My Inheritance Shop For $650K And Sent Me $3,500. So I S"
+    },
+    "assembly": {
+      "label": "Assembling video",
+      "icon": "film",
+      "status": "running",
+      "detail": "ffmpeg: character + drone + captions + waveform..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-01T06:56:19.464263+00:00"
+  "updated_at": "2026-08-01T06:56:20.638420+00:00"
 }
