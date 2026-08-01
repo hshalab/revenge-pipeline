@@ -1,7 +1,7 @@
 {
   "story_id": 132,
   "premise": "After 20 years as my parents’ primary caregiver, my mother’s will left me a life interest in her $280,000 Victorian home on condition my sister pay off the $65,000 mortgage, but my sister forged a deed of trust, used my equity to clear the loan, sold the house for $310,000, and pocketed the proceeds; I found a handwritten letter from Mom confirming her intent, proved the fraud in probate, reclaimed the home, and now live in “Deed of Deceit Manor” while my sister is ordered to trim hedges each weekend in a gardener’s apron reading “Planted Lies,” and every historic-district tour brochure features her perjury conviction.",
-  "stage": "audio",
+  "stage": "thumb",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -14,8 +14,14 @@
       "icon": "mic",
       "status": "done",
       "detail": ""
+    },
+    "thumb": {
+      "label": "Thumbnail + metadata",
+      "icon": "image",
+      "status": "running",
+      "detail": "Writing title/tags + rendering thumbnail..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-01T11:35:57.922796+00:00"
+  "updated_at": "2026-08-01T11:35:59.692369+00:00"
 }
