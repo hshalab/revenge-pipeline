@@ -1,40 +1,8 @@
 {
-  "story_id": 134,
-  "premise": "I spent 15 years paying $72,000 in premiums on my mother’s long-term-care policy, naming myself sole beneficiary to cover her nursing home, but when she died my sister-in-law at the insurance brokerage forged a beneficiary change and collected the $180,000 death benefit; I uncovered the original signed policy tucked in my mother’s Bible, proved the forgery, won the payout plus punitive damages, and now run “Policy of Deceit Advocacy,” where my sister-in-law answers phones in a headset that broadcasts her fraud case number and her garnished wages fund free elder-law clinics.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,800 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Sister-in-Law Forged Mom's Policy, Left Me Penniless. So I Let Her Headset Bl"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "30.1 min, 774MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=s5Iz95vkx2Y"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-01T17:53:26.184196+00:00",
-  "video_id": "s5Iz95vkx2Y"
+  "story_id": 135,
+  "premise": "I drained my $130,000 widow’s pension into a bespoke hat atelier with my daughter after she notarized a 50/50 partnership and promised me free custom hats for life; when a fashion conglomerate offered $800,000 for the brand she forged a dissolution, sold every pattern and block, and handed me a $4,000 check—I found our original contract sewn inside a vintage hatbox, voided the sale, and now run 'Millinery of Malice' where she steams felt crowns in a smock that reads 'Crowned with Deceit' and each hatbox prints her perjury case number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-01T20:13:57.775395+00:00"
 }
