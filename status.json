@@ -1,40 +1,8 @@
 {
-  "story_id": 128,
-  "premise": "I drained my $91,000 nursing pension to co‑found a high‑end custom framing gallery with my son, signing for 45% ownership and a lifetime promise to frame my late husband’s Air Force medals, but after landing a corporate account he forged an asset sale, sold the client list and specialty mat cutters to a national chain for $540,000, and handed me a $2,800 framed check; I discovered the original notarized agreement behind a framed copy of his birth certificate in my hope chest, voided the sale, and now run ‘Framed by Fraud Gallery’ where he cuts mat boards in a shirt that says ‘Mitered Lies’ and every custom frame includes a QR code to the civil judgment.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,869 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Son Sold My Gallery, Gave Me A $2,800 Check. So I Voided The Sale And Took Ba"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "31.0 min, 766MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=RIyuRQ6JY2s"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-07-31T23:47:17.735516+00:00",
-  "video_id": "RIyuRQ6JY2s"
+  "story_id": 129,
+  "premise": "When my father died, his will—written after 15 years of my solo caregiving—left me his $275,000 collection of pre‑1933 gold coins, but my sister, the executor, produced a forged codicil that cut me out and sold the entire collection to a numismatic dealer for $310,000; I uncovered a cell phone video of Dad stating the coins were mine, which voided the codicil in probate, recovered every coin, and now run ‘Heads or Fraud Coin Gallery’ where she polishes display cases in a shirt that reads ‘Counterfeit Love’ and each coin’s certificate of authenticity prints her perjury case number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-01T04:22:33.574347+00:00"
 }
