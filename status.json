@@ -1,7 +1,7 @@
 {
   "story_id": 134,
   "premise": "I spent 15 years paying $72,000 in premiums on my mother’s long-term-care policy, naming myself sole beneficiary to cover her nursing home, but when she died my sister-in-law at the insurance brokerage forged a beneficiary change and collected the $180,000 death benefit; I uncovered the original signed policy tucked in my mother’s Bible, proved the forgery, won the payout plus punitive damages, and now run “Policy of Deceit Advocacy,” where my sister-in-law answers phones in a headset that broadcasts her fraud case number and her garnished wages fund free elder-law clinics.",
-  "stage": "thumb",
+  "stage": "assembly",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -20,8 +20,14 @@
       "icon": "image",
       "status": "done",
       "detail": "My Sister-in-Law Forged Mom's Policy, Left Me Penniless. So I Let Her Headset Bl"
+    },
+    "assembly": {
+      "label": "Assembling video",
+      "icon": "film",
+      "status": "running",
+      "detail": "ffmpeg: character + drone + captions + waveform..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-01T17:34:13.662949+00:00"
+  "updated_at": "2026-08-01T17:34:14.803982+00:00"
 }
