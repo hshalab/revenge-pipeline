@@ -1,7 +1,7 @@
 {
   "story_id": 133,
   "premise": "I poured my $98,000 403(b) into transforming our family’s century-old barn into a rustic wedding venue with my brother, who notarized a 50/50 partnership and a lifetime event-coordinator role, but when a hospitality group bid $840,000 for the brand he forged a buyout, sold my share, and gave me a $6,000 “gift”; I retrieved our original agreement from a childhood time capsule we buried, voided the sale, and now run “Barn of Broken Vows,” where he rakes haylofts in overalls printed with “You Reap What You Sow” and every wedding contract links to the fraud judgment QR code.",
-  "stage": "assembly",
+  "stage": "upload",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -26,8 +26,14 @@
       "icon": "film",
       "status": "done",
       "detail": "43.0 min, 1090MB"
+    },
+    "upload": {
+      "label": "Uploading to YouTube",
+      "icon": "upload",
+      "status": "running",
+      "detail": ""
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-01T15:21:29.221814+00:00"
+  "updated_at": "2026-08-01T15:21:30.425548+00:00"
 }
