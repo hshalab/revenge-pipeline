@@ -1,7 +1,7 @@
 {
   "story_id": 135,
   "premise": "I drained my $130,000 widow’s pension into a bespoke hat atelier with my daughter after she notarized a 50/50 partnership and promised me free custom hats for life; when a fashion conglomerate offered $800,000 for the brand she forged a dissolution, sold every pattern and block, and handed me a $4,000 check—I found our original contract sewn inside a vintage hatbox, voided the sale, and now run 'Millinery of Malice' where she steams felt crowns in a smock that reads 'Crowned with Deceit' and each hatbox prints her perjury case number.",
-  "stage": "thumb",
+  "stage": "assembly",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -20,8 +20,14 @@
       "icon": "image",
       "status": "done",
       "detail": "My Daughter Took My $130K Widow’s Pension and Sold Our Brand, Then Handed Me $4K"
+    },
+    "assembly": {
+      "label": "Assembling video",
+      "icon": "film",
+      "status": "running",
+      "detail": "ffmpeg: character + drone + captions + waveform..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-01T20:40:57.123326+00:00"
+  "updated_at": "2026-08-01T20:40:58.580889+00:00"
 }
