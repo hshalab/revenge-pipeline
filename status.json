@@ -34,6 +34,7 @@
       "detail": "youtube.com/watch?v=GKY_718ZIBU"
     }
   },
-  "run_state": "running",
-  "updated_at": "2026-08-01T07:17:08.247154+00:00"
+  "run_state": "done",
+  "updated_at": "2026-08-01T07:17:09.336396+00:00",
+  "video_id": "GKY_718ZIBU"
 }
