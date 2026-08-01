@@ -1,40 +1,8 @@
 {
-  "story_id": 133,
-  "premise": "I poured my $98,000 403(b) into transforming our family’s century-old barn into a rustic wedding venue with my brother, who notarized a 50/50 partnership and a lifetime event-coordinator role, but when a hospitality group bid $840,000 for the brand he forged a buyout, sold my share, and gave me a $6,000 “gift”; I retrieved our original agreement from a childhood time capsule we buried, voided the sale, and now run “Barn of Broken Vows,” where he rakes haylofts in overalls printed with “You Reap What You Sow” and every wedding contract links to the fraud judgment QR code.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "7,461 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Brother Stole My $98K Wedding Venue, Gave Me $6K. So I Retrieved The Childhoo"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "43.0 min, 1090MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=CHmq9uu3oKo"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-01T15:22:02.283236+00:00",
-  "video_id": "CHmq9uu3oKo"
+  "story_id": 134,
+  "premise": "I spent 15 years paying $72,000 in premiums on my mother’s long-term-care policy, naming myself sole beneficiary to cover her nursing home, but when she died my sister-in-law at the insurance brokerage forged a beneficiary change and collected the $180,000 death benefit; I uncovered the original signed policy tucked in my mother’s Bible, proved the forgery, won the payout plus punitive damages, and now run “Policy of Deceit Advocacy,” where my sister-in-law answers phones in a headset that broadcasts her fraud case number and her garnished wages fund free elder-law clinics.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-01T17:06:08.865846+00:00"
 }
