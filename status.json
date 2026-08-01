@@ -1,8 +1,15 @@
 {
   "story_id": 129,
   "premise": "When my father died, his will—written after 15 years of my solo caregiving—left me his $275,000 collection of pre‑1933 gold coins, but my sister, the executor, produced a forged codicil that cut me out and sold the entire collection to a numismatic dealer for $310,000; I uncovered a cell phone video of Dad stating the coins were mine, which voided the codicil in probate, recovered every coin, and now run ‘Heads or Fraud Coin Gallery’ where she polishes display cases in a shirt that reads ‘Counterfeit Love’ and each coin’s certificate of authenticity prints her perjury case number.",
-  "stage": null,
-  "stages": {},
+  "stage": "script",
+  "stages": {
+    "script": {
+      "label": "Writing script",
+      "icon": "pen",
+      "status": "running",
+      "detail": "Sonnet 5 writing..."
+    }
+  },
   "run_state": "running",
-  "updated_at": "2026-08-01T04:22:33.574347+00:00"
+  "updated_at": "2026-08-01T04:22:35.284241+00:00"
 }
