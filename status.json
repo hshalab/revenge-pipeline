@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Sister Forged A Codicil, Sold Dad's $275K Gold Coins. So I Watched Her Wear C"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-01T04:47:58.454704+00:00"
+  "updated_at": "2026-08-01T04:51:15.294855+00:00"
 }
