@@ -1,15 +1,21 @@
 {
   "story_id": 131,
   "premise": "I used my $125,000 401(k) to launch an in-home senior-care franchise with my brother-in-law, securing a signed 40% stake and a paid coordinator job, but after a national chain offered a $900,000 buyout he forged an ownership release, sold the franchise, and handed me a $5,000 “severance”; I found the original partnership notarized on a birthday card from my late husband, voided the sale, and now run “Careless Betrayal Senior Services,” where he has to change bedpans in a scrub shirt that reads “Dependable Liar” and every welcome kit prints his fraud docket number.",
-  "stage": "script",
+  "stage": "audio",
   "stages": {
     "script": {
       "label": "Writing script",
       "icon": "pen",
       "status": "done",
       "detail": "6,684 words"
+    },
+    "audio": {
+      "label": "Kokoro narration",
+      "icon": "mic",
+      "status": "running",
+      "detail": "Kokoro af_bella narrating..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-01T09:17:56.774351+00:00"
+  "updated_at": "2026-08-01T09:17:58.706362+00:00"
 }
