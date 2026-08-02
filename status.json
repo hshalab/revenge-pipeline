@@ -1,8 +1,15 @@
 {
   "story_id": 137,
   "premise": "I poured $105,000 from my late husband’s IRA into a luxury portable sauna rental fleet with my stepson, securing a notarized 40% equity share and a lifetime wellness pod in my backyard; after a corporate retreat contract he forged a release, sold the fleet and name to a spa chain for $620,000, and mailed me a $3,500 check—I retrieved our agreement from a waterproof tube hidden beneath my hot tub, voided the sale, and now run 'Steam of Betrayal Saunas' where he scrubs cedar interiors in a towel embroidered 'Sweating the Details' while each rental contract prints his fraud case number.",
-  "stage": null,
-  "stages": {},
+  "stage": "script",
+  "stages": {
+    "script": {
+      "label": "Writing script",
+      "icon": "pen",
+      "status": "running",
+      "detail": "Sonnet 5 writing..."
+    }
+  },
   "run_state": "running",
-  "updated_at": "2026-08-02T04:24:18.716334+00:00"
+  "updated_at": "2026-08-02T04:24:20.852386+00:00"
 }
