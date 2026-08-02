@@ -1,8 +1,15 @@
 {
   "story_id": 141,
   "premise": "I drained my $110,000 nursing pension to buy a derelict vineyard with my brother‑in‑law, who signed a notarized 40% equity stake and a lifetime supply of estate wines; when a wine conglomerate bid $950,000 for the brand and grapes, he forged a dissolution, sold everything, and handed me a $6,000 “gratitude” bottle. I recovered our contract from a sealed barrel, proved the forgery, and now own “Grapes of Wrath Vineyard,” where he crushes grapes in a shirt reading “Crushed Trust” and every wine label prints his fraud case number.",
-  "stage": null,
-  "stages": {},
+  "stage": "script",
+  "stages": {
+    "script": {
+      "label": "Writing script",
+      "icon": "pen",
+      "status": "running",
+      "detail": "Sonnet 5 writing..."
+    }
+  },
   "run_state": "running",
-  "updated_at": "2026-08-02T14:26:54.132354+00:00"
+  "updated_at": "2026-08-02T14:26:56.271235+00:00"
 }
