@@ -1,7 +1,7 @@
 {
   "story_id": 143,
   "premise": "I trusted my daughter with $150,000 from my late husband’s medical‑malpractice settlement, granting her power of attorney after my stroke; she forged a gift letter, drained the funds, and bought a $350,000 beach condo. I recovered a Ring doorbell video of her admitting the scheme, won the condo back plus damages, and now operate “Stroke of Betrayal Vacation Rentals” — she scrubs toilets in a shirt that says “Flushed My Trust,” and every booking confirmation prints her fraud judgment.",
-  "stage": "assembly",
+  "stage": "upload",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -26,8 +26,14 @@
       "icon": "film",
       "status": "done",
       "detail": "37.7 min, 936MB"
+    },
+    "upload": {
+      "label": "Uploading to YouTube",
+      "icon": "upload",
+      "status": "running",
+      "detail": ""
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-02T21:04:01.447007+00:00"
+  "updated_at": "2026-08-02T21:04:02.462342+00:00"
 }
