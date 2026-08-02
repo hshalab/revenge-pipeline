@@ -1,40 +1,8 @@
 {
-  "story_id": 137,
-  "premise": "I poured $105,000 from my late husband’s IRA into a luxury portable sauna rental fleet with my stepson, securing a notarized 40% equity share and a lifetime wellness pod in my backyard; after a corporate retreat contract he forged a release, sold the fleet and name to a spa chain for $620,000, and mailed me a $3,500 check—I retrieved our agreement from a waterproof tube hidden beneath my hot tub, voided the sale, and now run 'Steam of Betrayal Saunas' where he scrubs cedar interiors in a towel embroidered 'Sweating the Details' while each rental contract prints his fraud case number.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,951 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Stepson Sold My Sauna Fleet For $620K, Sent Me A $3,500 Check. So I Voided Th"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "33.3 min, 853MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=KxnHhgZFge0"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-02T05:06:56.918444+00:00",
-  "video_id": "KxnHhgZFge0"
+  "story_id": 138,
+  "premise": "I used my $90,000 nursing pension to launch a vintage upholstery studio with my sister‑in‑law, notarizing a 50/50 partnership built on my late mother’s antique fabric stash; after a hotel group offered $490,000 for the brand and inventory she forged a dissolution, sold everything, and passed me a $2,500 ‘sentimental’ check—I found the original document tucked inside my mother’s sewing machine, won the business back, and now run 'Thread of Deceit Upholstery' where she pulls old staples from chairs in a vest reading 'Unraveled Trust' and every finished piece bears a brass plate engraved with the fraud docket.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-02T06:33:48.813895+00:00"
 }
