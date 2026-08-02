@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Half-Brother Stole My $102K Carousel And Sent Me A $4,500 Cut. So I Made Him "
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-02T11:39:11.230614+00:00"
+  "updated_at": "2026-08-02T11:40:07.959743+00:00"
 }
