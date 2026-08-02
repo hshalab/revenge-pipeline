@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Stepson Sold My Sauna Fleet For $620K, Sent Me A $3,500 Check. So I Voided Th"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-02T04:45:42.279311+00:00"
+  "updated_at": "2026-08-02T04:46:24.109662+00:00"
 }
