@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Sister-in-Law Stole My Upholstery Business. She Gave Me $2,500. So I Let Her "
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-02T06:54:56.168240+00:00"
+  "updated_at": "2026-08-02T06:56:12.418437+00:00"
 }
