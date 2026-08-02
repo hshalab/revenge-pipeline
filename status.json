@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Brother-In-Law Stole The Vineyard And Gave Me $6K Bottle. So I Watched Him Lo"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-02T14:51:30.761423+00:00"
+  "updated_at": "2026-08-02T14:55:33.898692+00:00"
 }
