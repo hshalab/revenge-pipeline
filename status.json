@@ -1,15 +1,21 @@
 {
   "story_id": 142,
   "premise": "I used my late husband’s $85,000 life insurance to launch a hand‑poured candle company with my daughter‑in‑law, notarizing a 50/50 partnership and a lifetime candle subscription; after a national home‑décor chain offered $520,000 for the scent formulas and inventory, she forged a dissolution, sold the brand, and sent me a $2,800 “thank‑you” candle. I discovered the original agreement tucked inside a wax mold, voided the sale, and now run “Wick of Deceit Candles” — she wicks jars in an apron that says “Snuffed Out Trust,” and every candle bottom prints her perjury docket.",
-  "stage": "script",
+  "stage": "audio",
   "stages": {
     "script": {
       "label": "Writing script",
       "icon": "pen",
       "status": "done",
       "detail": "5,739 words"
+    },
+    "audio": {
+      "label": "Kokoro narration",
+      "icon": "mic",
+      "status": "running",
+      "detail": "Kokoro af_bella narrating..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-02T17:14:35.239833+00:00"
+  "updated_at": "2026-08-02T17:14:36.895801+00:00"
 }
