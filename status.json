@@ -1,40 +1,8 @@
 {
-  "story_id": 136,
-  "premise": "When my father died, his will—written after a decade of my solo caregiving—left me his $220,000 collection of original Blue Note jazz LPs, but my brother, the executor, forged a $1 sale note and sold the entire archive to a university for $280,000; I discovered a dated audio cassette of Dad stating the records were mine, proved the forgery in probate, reclaimed every disc, and now run 'Vinyl Vendetta Records' where my brother polishes shelving in a shirt that says 'Scratched Lies' and every album sleeve prints the fraud docket.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "7,985 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Brother Forged A $1 Sale, Stole My $220K Inheritance. So I Let Dad's Cassette"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "42.1 min, 1042MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=2ussWvfJKFQ"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-01T23:50:06.053022+00:00",
-  "video_id": "2ussWvfJKFQ"
+  "story_id": 137,
+  "premise": "I poured $105,000 from my late husband’s IRA into a luxury portable sauna rental fleet with my stepson, securing a notarized 40% equity share and a lifetime wellness pod in my backyard; after a corporate retreat contract he forged a release, sold the fleet and name to a spa chain for $620,000, and mailed me a $3,500 check—I retrieved our agreement from a waterproof tube hidden beneath my hot tub, voided the sale, and now run 'Steam of Betrayal Saunas' where he scrubs cedar interiors in a towel embroidered 'Sweating the Details' while each rental contract prints his fraud case number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-02T04:24:18.716334+00:00"
 }
