@@ -1,40 +1,8 @@
 {
-  "story_id": 139,
-  "premise": "I cashed out my $115,000 CD to convert a classic VW bus into a mobile artisan espresso bar with my son, who signed a 50/50 partnership and swore I’d run the window on weekends; after a local‑TV feature he forged a title transfer, sold the branded bus and recipes to a regional chain for $380,000, and gave me a $4,000 ‘tip’—I discovered the original agreement stuffed in the spare‑tire well, proved the forgery, and now run 'Brewed Betrayal Coffee Co.' where he grinds beans in a shirt that says 'Grounds for Divorce' and every cup sleeve prints his fraud case number.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,530 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Son Sold My Coffee Bus For $380K, Left Me $4K. So Every Sleeve Bears His Frau"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "31.9 min, 847MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=JWcvbfabsAQ"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-02T09:44:33.716036+00:00",
-  "video_id": "JWcvbfabsAQ"
+  "story_id": 140,
+  "premise": "I poured my $102,000 widow’s inheritance into restoring a vintage 1920s carousel with my half‑brother, notarizing a 50/50 share and a promise of free rides for my grandkids; after a theme‑park chain offered $750,000 he forged a sale document, sold the carousel, and mailed me a $4,500 “fair share” check. I found our original agreement inside a hollow carved horse, voided the sale, and now run “Carousel of Lies” — he buffs brass poles in a vest that says “Rounding Up Fraud,” and every ticket prints his perjury docket.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-02T11:14:11.362617+00:00"
 }
