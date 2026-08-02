@@ -1,8 +1,15 @@
 {
   "story_id": 140,
   "premise": "I poured my $102,000 widow’s inheritance into restoring a vintage 1920s carousel with my half‑brother, notarizing a 50/50 share and a promise of free rides for my grandkids; after a theme‑park chain offered $750,000 he forged a sale document, sold the carousel, and mailed me a $4,500 “fair share” check. I found our original agreement inside a hollow carved horse, voided the sale, and now run “Carousel of Lies” — he buffs brass poles in a vest that says “Rounding Up Fraud,” and every ticket prints his perjury docket.",
-  "stage": null,
-  "stages": {},
+  "stage": "script",
+  "stages": {
+    "script": {
+      "label": "Writing script",
+      "icon": "pen",
+      "status": "running",
+      "detail": "Sonnet 5 writing..."
+    }
+  },
   "run_state": "running",
-  "updated_at": "2026-08-02T11:14:11.362617+00:00"
+  "updated_at": "2026-08-02T11:14:13.086683+00:00"
 }
