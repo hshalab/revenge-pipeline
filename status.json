@@ -1,8 +1,15 @@
 {
   "story_id": 144,
   "premise": "When my mother died, her will left me her $200,000 collection of vintage Barbie dolls, but my stepsister—the executor—forged a $1 sale note and sold the entire collection to a private collector for $240,000. I found a dated voicemail from Mom assigning me the dolls, voided the sale in probate, and now run “Dollhouse of Deceit” — my stepsister dresses and dusts the display dolls in a smock that reads “Plastic Promises,” and each doll’s packaging features a QR code to her fraud conviction.",
-  "stage": null,
-  "stages": {},
+  "stage": "script",
+  "stages": {
+    "script": {
+      "label": "Writing script",
+      "icon": "pen",
+      "status": "running",
+      "detail": "Sonnet 5 writing..."
+    }
+  },
   "run_state": "running",
-  "updated_at": "2026-08-02T22:58:51.647244+00:00"
+  "updated_at": "2026-08-02T22:58:53.301265+00:00"
 }
