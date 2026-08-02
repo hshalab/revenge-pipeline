@@ -1,7 +1,7 @@
 {
   "story_id": 139,
   "premise": "I cashed out my $115,000 CD to convert a classic VW bus into a mobile artisan espresso bar with my son, who signed a 50/50 partnership and swore I’d run the window on weekends; after a local‑TV feature he forged a title transfer, sold the branded bus and recipes to a regional chain for $380,000, and gave me a $4,000 ‘tip’—I discovered the original agreement stuffed in the spare‑tire well, proved the forgery, and now run 'Brewed Betrayal Coffee Co.' where he grinds beans in a shirt that says 'Grounds for Divorce' and every cup sleeve prints his fraud case number.",
-  "stage": "thumb",
+  "stage": "assembly",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -20,8 +20,14 @@
       "icon": "image",
       "status": "done",
       "detail": "My Son Sold My Coffee Bus For $380K, Left Me $4K. So Every Sleeve Bears His Frau"
+    },
+    "assembly": {
+      "label": "Assembling video",
+      "icon": "film",
+      "status": "running",
+      "detail": "ffmpeg: character + drone + captions + waveform..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-02T09:28:10.683580+00:00"
+  "updated_at": "2026-08-02T09:28:11.808858+00:00"
 }
