@@ -1,40 +1,8 @@
 {
-  "story_id": 138,
-  "premise": "I used my $90,000 nursing pension to launch a vintage upholstery studio with my sister‑in‑law, notarizing a 50/50 partnership built on my late mother’s antique fabric stash; after a hotel group offered $490,000 for the brand and inventory she forged a dissolution, sold everything, and passed me a $2,500 ‘sentimental’ check—I found the original document tucked inside my mother’s sewing machine, won the business back, and now run 'Thread of Deceit Upholstery' where she pulls old staples from chairs in a vest reading 'Unraveled Trust' and every finished piece bears a brass plate engraved with the fraud docket.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,658 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Sister-in-Law Stole My Upholstery Business. She Gave Me $2,500. So I Let Her "
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "30.2 min, 778MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=Kryw1Qb-F30"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-02T07:14:37.499391+00:00",
-  "video_id": "Kryw1Qb-F30"
+  "story_id": 139,
+  "premise": "I cashed out my $115,000 CD to convert a classic VW bus into a mobile artisan espresso bar with my son, who signed a 50/50 partnership and swore I’d run the window on weekends; after a local‑TV feature he forged a title transfer, sold the branded bus and recipes to a regional chain for $380,000, and gave me a $4,000 ‘tip’—I discovered the original agreement stuffed in the spare‑tire well, proved the forgery, and now run 'Brewed Betrayal Coffee Co.' where he grinds beans in a shirt that says 'Grounds for Divorce' and every cup sleeve prints his fraud case number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-02T09:09:07.190616+00:00"
 }
