@@ -1,7 +1,7 @@
 {
   "story_id": 138,
   "premise": "I used my $90,000 nursing pension to launch a vintage upholstery studio with my sister‑in‑law, notarizing a 50/50 partnership built on my late mother’s antique fabric stash; after a hotel group offered $490,000 for the brand and inventory she forged a dissolution, sold everything, and passed me a $2,500 ‘sentimental’ check—I found the original document tucked inside my mother’s sewing machine, won the business back, and now run 'Thread of Deceit Upholstery' where she pulls old staples from chairs in a vest reading 'Unraveled Trust' and every finished piece bears a brass plate engraved with the fraud docket.",
-  "stage": "thumb",
+  "stage": "assembly",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -20,8 +20,14 @@
       "icon": "image",
       "status": "done",
       "detail": "My Sister-in-Law Stole My Upholstery Business. She Gave Me $2,500. So I Let Her "
+    },
+    "assembly": {
+      "label": "Assembling video",
+      "icon": "film",
+      "status": "running",
+      "detail": "ffmpeg: character + drone + captions + waveform..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-02T06:56:12.418437+00:00"
+  "updated_at": "2026-08-02T06:56:13.427120+00:00"
 }
