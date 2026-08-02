@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Son Sold My Coffee Bus For $380K, Left Me $4K. So Every Sleeve Bears His Frau"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-02T09:23:28.901831+00:00"
+  "updated_at": "2026-08-02T09:28:10.683580+00:00"
 }
