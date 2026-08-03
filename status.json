@@ -1,7 +1,7 @@
 {
   "story_id": 145,
   "premise": "I poured my $120,000 nursing pension into a gourmet popcorn shop with my son, notarizing a 50/50 partnership and a lifetime supply of caramel corn, but after a viral TikTok order he forged a dissolution, sold the recipes and brand to a snack conglomerate for $650,000, and handed me a $5,000 “family bonus”; I found our original agreement tucked inside a holiday popcorn tin, voided the sale, and now run 'Kernel of Deceit Popcorn' where he stirs kettle drums in a shirt that says 'Pop Goes the Lies' and every bag prints his perjury docket.",
-  "stage": "assembly",
+  "stage": "upload",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -26,8 +26,14 @@
       "icon": "film",
       "status": "done",
       "detail": "30.0 min, 770MB"
+    },
+    "upload": {
+      "label": "Uploading to YouTube",
+      "icon": "upload",
+      "status": "running",
+      "detail": ""
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-03T05:15:17.025940+00:00"
+  "updated_at": "2026-08-03T05:15:18.444795+00:00"
 }
