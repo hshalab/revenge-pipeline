@@ -1,40 +1,8 @@
 {
-  "story_id": 151,
-  "premise": "I poured my $107,000 late‑husband’s benefit into a handcrafted‑signet‑ring atelier with my son, securing a notarized 45% share and a lifetime promise to cast a new family crest ring for every grandchild; after a luxury jewelry chain offered $740,000 for the designs and branding, he forged an asset sale, sold my equity, and slipped me a $3,800 “thank‑you” ring box; I recovered our original partnership agreement sealed inside a wax‑carving block, proved the forgery, and now own ‘Ring of Perjury Heirlooms,’ where he polishes finished bands in a vest that reads ‘Forged in Deceit’ and every ring box prints his criminal‑filing number.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,540 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Son Sold My $740K Business, Then Gave Me A $3,800 Ring Box. So I Claimed The "
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "37.9 min, 940MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=dGBKubInUsA"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-03T21:28:50.678091+00:00",
-  "video_id": "dGBKubInUsA"
+  "story_id": 152,
+  "premise": "I emptied my $89,000 nursing pension into a heritage seed‑saving library and gourmet tomato‑sauce kitchen with my stepdaughter, who notarized a 50/50 partnership built on my late father’s favorite heirloom seeds and promised me a lifetime pantry of sauce; when an organic conglomerate bid $580,000 for the brand and seed collection, she forged a dissolution, sold everything, and mailed me a $3,200 ‘garden‑fresh’ check; I found the original notarized contract tucked inside a sealed packet of ‘Mortgage Lifter’ tomato seeds my father had saved, voided the sale, and now run ‘Seeds of Betrayal Sauces,’ where she hand‑labels jars in an apron that says ‘Rotten to the Core’ and each label prints the probate‑fraud docket.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-03T23:03:27.595254+00:00"
 }
