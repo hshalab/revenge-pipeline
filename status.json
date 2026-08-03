@@ -1,40 +1,8 @@
 {
-  "story_id": 148,
-  "premise": "I poured my $130,000 widow’s inheritance into a craft cider orchard with my stepson, notarizing a 45% stake and a lifetime supply of farmhouse cider; when a national beverage company bid $900,000 for the orchard and brand, he forged a dissolution, sold my share, and left me a $7,000 'crate of thanks' — I retrieved our original partnership agreement from a sealed fermentation barrel, voided the sale, and now run 'Pressed Betrayal Cider' where he presses apples in overalls that say 'Juiced the Truth' and every bottle prints his fraud case number.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,857 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Stepson Stole My $130K Orchard. So I Let Him Press Apples In 'Juiced The Trut"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "30.6 min, 802MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=dJFKfFWBFvc"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-03T13:34:46.067340+00:00",
-  "video_id": "dJFKfFWBFvc"
+  "story_id": 149,
+  "premise": "I emptied my $90,000 retirement fund to restore a historic 1920s community theater with my brother‑in‑law, notarizing a 40% equity share and a lifetime balcony box for my grandkids; after a developer offered $750,000 to demolish it for condos, he forged a sale document, pocketed the cash, and tossed me a $4,000 'finale' check — I unearthed a time‑stamped video of our handshake deal, blocked the demolition, and now run 'Stage of Betrayal Theatre' where he sweeps the stage in a doublet that says 'Exit, Pursued by a Fraud' and every playbill prints his fraud docket number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-03T15:41:28.793088+00:00"
 }
