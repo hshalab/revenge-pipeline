@@ -1,7 +1,7 @@
 {
   "story_id": 146,
   "premise": "When my parents died, their will left me the family’s Victorian bed‑and‑breakfast, so I took out a $95,000 reverse mortgage to renovate with my sister‑in‑law, who signed a notarized 50/50 partnership and promised I’d host high tea forever; she forged a deed, sold the B&B and its historic tea service to a boutique hotel group for $780,000, and pressed a $6,000 check into my hand — I recovered the original partnership document hidden in the guest‑book safe, proved the fraud, and now run 'Inn of Deceit' where she scrubs toilets in an apron reading 'Checked‑Out Trust' and every receipt prints the fraud docket.",
-  "stage": "thumb",
+  "stage": "assembly",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -20,8 +20,14 @@
       "icon": "image",
       "status": "done",
       "detail": "My Sister-in-Law Forged a Deed, Sold My B&B, and Gave Me $6K. So I Served Justic"
+    },
+    "assembly": {
+      "label": "Assembling video",
+      "icon": "film",
+      "status": "running",
+      "detail": "ffmpeg: character + drone + captions + waveform..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-03T07:23:37.665262+00:00"
+  "updated_at": "2026-08-03T07:23:45.462891+00:00"
 }
