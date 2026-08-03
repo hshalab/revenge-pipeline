@@ -1,8 +1,15 @@
 {
   "story_id": 151,
   "premise": "I poured my $107,000 late‑husband’s benefit into a handcrafted‑signet‑ring atelier with my son, securing a notarized 45% share and a lifetime promise to cast a new family crest ring for every grandchild; after a luxury jewelry chain offered $740,000 for the designs and branding, he forged an asset sale, sold my equity, and slipped me a $3,800 “thank‑you” ring box; I recovered our original partnership agreement sealed inside a wax‑carving block, proved the forgery, and now own ‘Ring of Perjury Heirlooms,’ where he polishes finished bands in a vest that reads ‘Forged in Deceit’ and every ring box prints his criminal‑filing number.",
-  "stage": null,
-  "stages": {},
+  "stage": "script",
+  "stages": {
+    "script": {
+      "label": "Writing script",
+      "icon": "pen",
+      "status": "running",
+      "detail": "Sonnet 5 writing..."
+    }
+  },
   "run_state": "running",
-  "updated_at": "2026-08-03T20:37:10.166061+00:00"
+  "updated_at": "2026-08-03T20:37:12.004692+00:00"
 }
