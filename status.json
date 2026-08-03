@@ -1,7 +1,7 @@
 {
   "story_id": 152,
   "premise": "I emptied my $89,000 nursing pension into a heritage seed‑saving library and gourmet tomato‑sauce kitchen with my stepdaughter, who notarized a 50/50 partnership built on my late father’s favorite heirloom seeds and promised me a lifetime pantry of sauce; when an organic conglomerate bid $580,000 for the brand and seed collection, she forged a dissolution, sold everything, and mailed me a $3,200 ‘garden‑fresh’ check; I found the original notarized contract tucked inside a sealed packet of ‘Mortgage Lifter’ tomato seeds my father had saved, voided the sale, and now run ‘Seeds of Betrayal Sauces,’ where she hand‑labels jars in an apron that says ‘Rotten to the Core’ and each label prints the probate‑fraud docket.",
-  "stage": "audio",
+  "stage": "thumb",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -14,8 +14,14 @@
       "icon": "mic",
       "status": "done",
       "detail": ""
+    },
+    "thumb": {
+      "label": "Thumbnail + metadata",
+      "icon": "image",
+      "status": "running",
+      "detail": "Writing title/tags + rendering thumbnail..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-03T23:27:31.544655+00:00"
+  "updated_at": "2026-08-03T23:27:33.425926+00:00"
 }
