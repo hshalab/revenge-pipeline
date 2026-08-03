@@ -1,7 +1,7 @@
 {
   "story_id": 150,
   "premise": "I drained my $93,000 widow’s pension to restore a fleet of vintage 1940s typewriters with my daughter‑in‑law, who notarized a 50/50 rental‑studio partnership and a lifetime promise to type my late husband’s letters on a Royal Quiet De Luxe, but after a film studio offered $620,000 for the entire collection she forged a dissolution, sold every machine, and mailed me a $2,900 “keepsake” ribbon; I discovered the original agreement hidden on a sheet of paper tucked inside the carriage of my husband’s old Olivetti, voided the sale, and now run ‘Typeface of Deceit Typewriters,’ where she hand‑polishes keytops in a smock that says ‘Ribbon of Lies’ and every rental contract prints her fraud docket number.",
-  "stage": "thumb",
+  "stage": "assembly",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -20,8 +20,14 @@
       "icon": "image",
       "status": "done",
       "detail": "She Drained My $93K Pension, Sold My Typewriters, Mailed A $2,900 Ribbon. So I L"
+    },
+    "assembly": {
+      "label": "Assembling video",
+      "icon": "film",
+      "status": "running",
+      "detail": "ffmpeg: character + drone + captions + waveform..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-03T18:21:17.954181+00:00"
+  "updated_at": "2026-08-03T18:21:19.390750+00:00"
 }
