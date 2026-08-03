@@ -1,40 +1,8 @@
 {
-  "story_id": 144,
-  "premise": "When my mother died, her will left me her $200,000 collection of vintage Barbie dolls, but my stepsister—the executor—forged a $1 sale note and sold the entire collection to a private collector for $240,000. I found a dated voicemail from Mom assigning me the dolls, voided the sale in probate, and now run “Dollhouse of Deceit” — my stepsister dresses and dusts the display dolls in a smock that reads “Plastic Promises,” and each doll’s packaging features a QR code to her fraud conviction.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,006 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Stepsister Forged A Sale, Stole My Mom’s Dolls, And Threw Them Away. So I Let"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "32.1 min, 795MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=45F_DZpz1WM"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-02T23:41:19.438325+00:00",
-  "video_id": "45F_DZpz1WM"
+  "story_id": 145,
+  "premise": "I poured my $120,000 nursing pension into a gourmet popcorn shop with my son, notarizing a 50/50 partnership and a lifetime supply of caramel corn, but after a viral TikTok order he forged a dissolution, sold the recipes and brand to a snack conglomerate for $650,000, and handed me a $5,000 “family bonus”; I found our original agreement tucked inside a holiday popcorn tin, voided the sale, and now run 'Kernel of Deceit Popcorn' where he stirs kettle drums in a shirt that says 'Pop Goes the Lies' and every bag prints his perjury docket.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-03T04:32:14.178782+00:00"
 }
