@@ -1,40 +1,8 @@
 {
-  "story_id": 145,
-  "premise": "I poured my $120,000 nursing pension into a gourmet popcorn shop with my son, notarizing a 50/50 partnership and a lifetime supply of caramel corn, but after a viral TikTok order he forged a dissolution, sold the recipes and brand to a snack conglomerate for $650,000, and handed me a $5,000 “family bonus”; I found our original agreement tucked inside a holiday popcorn tin, voided the sale, and now run 'Kernel of Deceit Popcorn' where he stirs kettle drums in a shirt that says 'Pop Goes the Lies' and every bag prints his perjury docket.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,653 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Son Forged A $650K Sale Of My Popcorn Shop And Gave Me $5K. So I Voided The D"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "30.0 min, 770MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=6f2HFgdjUcU"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-03T05:15:52.320732+00:00",
-  "video_id": "6f2HFgdjUcU"
+  "story_id": 146,
+  "premise": "When my parents died, their will left me the family’s Victorian bed‑and‑breakfast, so I took out a $95,000 reverse mortgage to renovate with my sister‑in‑law, who signed a notarized 50/50 partnership and promised I’d host high tea forever; she forged a deed, sold the B&B and its historic tea service to a boutique hotel group for $780,000, and pressed a $6,000 check into my hand — I recovered the original partnership document hidden in the guest‑book safe, proved the fraud, and now run 'Inn of Deceit' where she scrubs toilets in an apron reading 'Checked‑Out Trust' and every receipt prints the fraud docket.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-03T06:58:46.571156+00:00"
 }
