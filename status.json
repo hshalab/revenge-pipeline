@@ -1,40 +1,8 @@
 {
-  "story_id": 150,
-  "premise": "I drained my $93,000 widow’s pension to restore a fleet of vintage 1940s typewriters with my daughter‑in‑law, who notarized a 50/50 rental‑studio partnership and a lifetime promise to type my late husband’s letters on a Royal Quiet De Luxe, but after a film studio offered $620,000 for the entire collection she forged a dissolution, sold every machine, and mailed me a $2,900 “keepsake” ribbon; I discovered the original agreement hidden on a sheet of paper tucked inside the carriage of my husband’s old Olivetti, voided the sale, and now run ‘Typeface of Deceit Typewriters,’ where she hand‑polishes keytops in a smock that says ‘Ribbon of Lies’ and every rental contract prints her fraud docket number.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,673 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "She Drained My $93K Pension, Sold My Typewriters, Mailed A $2,900 Ribbon. So I L"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "30.8 min, 791MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=9X2mjYIQknE"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-03T18:40:50.478852+00:00",
-  "video_id": "9X2mjYIQknE"
+  "story_id": 151,
+  "premise": "I poured my $107,000 late‑husband’s benefit into a handcrafted‑signet‑ring atelier with my son, securing a notarized 45% share and a lifetime promise to cast a new family crest ring for every grandchild; after a luxury jewelry chain offered $740,000 for the designs and branding, he forged an asset sale, sold my equity, and slipped me a $3,800 “thank‑you” ring box; I recovered our original partnership agreement sealed inside a wax‑carving block, proved the forgery, and now own ‘Ring of Perjury Heirlooms,’ where he polishes finished bands in a vest that reads ‘Forged in Deceit’ and every ring box prints his criminal‑filing number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-03T20:37:10.166061+00:00"
 }
