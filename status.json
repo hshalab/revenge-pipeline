@@ -1,7 +1,7 @@
 {
   "story_id": 149,
   "premise": "I emptied my $90,000 retirement fund to restore a historic 1920s community theater with my brother‑in‑law, notarizing a 40% equity share and a lifetime balcony box for my grandkids; after a developer offered $750,000 to demolish it for condos, he forged a sale document, pocketed the cash, and tossed me a $4,000 'finale' check — I unearthed a time‑stamped video of our handshake deal, blocked the demolition, and now run 'Stage of Betrayal Theatre' where he sweeps the stage in a doublet that says 'Exit, Pursued by a Fraud' and every playbill prints his fraud docket number.",
-  "stage": "thumb",
+  "stage": "assembly",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -20,8 +20,14 @@
       "icon": "image",
       "status": "done",
       "detail": "My Brother-In-Law Stole My $90K And Forged A Theater Sale. So I Let Him Sweep Th"
+    },
+    "assembly": {
+      "label": "Assembling video",
+      "icon": "film",
+      "status": "running",
+      "detail": "ffmpeg: character + drone + captions + waveform..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-03T16:09:59.524134+00:00"
+  "updated_at": "2026-08-03T16:10:00.993876+00:00"
 }
