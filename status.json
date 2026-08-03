@@ -1,40 +1,8 @@
 {
-  "story_id": 146,
-  "premise": "When my parents died, their will left me the family’s Victorian bed‑and‑breakfast, so I took out a $95,000 reverse mortgage to renovate with my sister‑in‑law, who signed a notarized 50/50 partnership and promised I’d host high tea forever; she forged a deed, sold the B&B and its historic tea service to a boutique hotel group for $780,000, and pressed a $6,000 check into my hand — I recovered the original partnership document hidden in the guest‑book safe, proved the fraud, and now run 'Inn of Deceit' where she scrubs toilets in an apron reading 'Checked‑Out Trust' and every receipt prints the fraud docket.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,041 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Sister-in-Law Forged a Deed, Sold My B&B, and Gave Me $6K. So I Served Justic"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "32.8 min, 845MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=VEXKdR02iGc"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-03T07:44:11.415768+00:00",
-  "video_id": "VEXKdR02iGc"
+  "story_id": 147,
+  "premise": "I drained my $110,000 401(k) to launch a bespoke ukulele workshop with my daughter, securing a notarized 50/50 share and a lifetime of custom instruments for my grandchildren; after a music chain offered $500,000 for the brand and luthier patterns, she forged a dissolution, sold everything, and mailed me a $3,000 'gratitude' check — I discovered the original contract sewn inside a ukulele case, voided the sale, and now run 'Four Strings of Fraud Ukuleles' where she sands fretboards in a shirt that says 'Strumming Lies' and every instrument ships with a QR code to her perjury conviction.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-03T11:38:07.776541+00:00"
 }
