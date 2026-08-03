@@ -1,40 +1,8 @@
 {
-  "story_id": 147,
-  "premise": "I drained my $110,000 401(k) to launch a bespoke ukulele workshop with my daughter, securing a notarized 50/50 share and a lifetime of custom instruments for my grandchildren; after a music chain offered $500,000 for the brand and luthier patterns, she forged a dissolution, sold everything, and mailed me a $3,000 'gratitude' check — I discovered the original contract sewn inside a ukulele case, voided the sale, and now run 'Four Strings of Fraud Ukuleles' where she sands fretboards in a shirt that says 'Strumming Lies' and every instrument ships with a QR code to her perjury conviction.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,559 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Daughter Forged My Signature And Sold My Ukulele Workshop For $500K. So I Voi"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "30.5 min, 810MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=oj_oDg0-aQg"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-03T12:21:03.078251+00:00",
-  "video_id": "oj_oDg0-aQg"
+  "story_id": 148,
+  "premise": "I poured my $130,000 widow’s inheritance into a craft cider orchard with my stepson, notarizing a 45% stake and a lifetime supply of farmhouse cider; when a national beverage company bid $900,000 for the orchard and brand, he forged a dissolution, sold my share, and left me a $7,000 'crate of thanks' — I retrieved our original partnership agreement from a sealed fermentation barrel, voided the sale, and now run 'Pressed Betrayal Cider' where he presses apples in overalls that say 'Juiced the Truth' and every bottle prints his fraud case number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-03T12:52:33.753203+00:00"
 }
