@@ -34,6 +34,7 @@
       "detail": "youtube.com/watch?v=dGBKubInUsA"
     }
   },
-  "run_state": "running",
-  "updated_at": "2026-08-03T21:28:49.617200+00:00"
+  "run_state": "done",
+  "updated_at": "2026-08-03T21:28:50.678091+00:00",
+  "video_id": "dGBKubInUsA"
 }
