@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Sister-in-Law Forged a Deed, Sold My B&B, and Gave Me $6K. So I Served Justic"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-03T07:21:10.356935+00:00"
+  "updated_at": "2026-08-03T07:23:37.665262+00:00"
 }
