@@ -34,6 +34,7 @@
       "detail": "youtube.com/watch?v=N-EGaU_o_68"
     }
   },
-  "run_state": "running",
-  "updated_at": "2026-08-03T23:54:24.422240+00:00"
+  "run_state": "done",
+  "updated_at": "2026-08-03T23:54:25.689706+00:00",
+  "video_id": "N-EGaU_o_68"
 }
