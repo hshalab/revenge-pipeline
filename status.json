@@ -1,40 +1,8 @@
 {
-  "story_id": 149,
-  "premise": "I emptied my $90,000 retirement fund to restore a historic 1920s community theater with my brother‑in‑law, notarizing a 40% equity share and a lifetime balcony box for my grandkids; after a developer offered $750,000 to demolish it for condos, he forged a sale document, pocketed the cash, and tossed me a $4,000 'finale' check — I unearthed a time‑stamped video of our handshake deal, blocked the demolition, and now run 'Stage of Betrayal Theatre' where he sweeps the stage in a doublet that says 'Exit, Pursued by a Fraud' and every playbill prints his fraud docket number.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,986 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Brother-In-Law Stole My $90K And Forged A Theater Sale. So I Let Him Sweep Th"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "38.4 min, 974MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=oLNG5XOVhZ4"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-03T16:34:01.025556+00:00",
-  "video_id": "oLNG5XOVhZ4"
+  "story_id": 150,
+  "premise": "I drained my $93,000 widow’s pension to restore a fleet of vintage 1940s typewriters with my daughter‑in‑law, who notarized a 50/50 rental‑studio partnership and a lifetime promise to type my late husband’s letters on a Royal Quiet De Luxe, but after a film studio offered $620,000 for the entire collection she forged a dissolution, sold every machine, and mailed me a $2,900 “keepsake” ribbon; I discovered the original agreement hidden on a sheet of paper tucked inside the carriage of my husband’s old Olivetti, voided the sale, and now run ‘Typeface of Deceit Typewriters,’ where she hand‑polishes keytops in a smock that says ‘Ribbon of Lies’ and every rental contract prints her fraud docket number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-03T17:57:49.437950+00:00"
 }
