@@ -1,7 +1,7 @@
 {
   "story_id": 147,
   "premise": "I drained my $110,000 401(k) to launch a bespoke ukulele workshop with my daughter, securing a notarized 50/50 share and a lifetime of custom instruments for my grandchildren; after a music chain offered $500,000 for the brand and luthier patterns, she forged a dissolution, sold everything, and mailed me a $3,000 'gratitude' check — I discovered the original contract sewn inside a ukulele case, voided the sale, and now run 'Four Strings of Fraud Ukuleles' where she sands fretboards in a shirt that says 'Strumming Lies' and every instrument ships with a QR code to her perjury conviction.",
-  "stage": "assembly",
+  "stage": "upload",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -26,8 +26,14 @@
       "icon": "film",
       "status": "done",
       "detail": "30.5 min, 810MB"
+    },
+    "upload": {
+      "label": "Uploading to YouTube",
+      "icon": "upload",
+      "status": "running",
+      "detail": ""
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-03T12:20:30.884629+00:00"
+  "updated_at": "2026-08-03T12:20:32.287252+00:00"
 }
