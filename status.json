@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Son Sold My $740K Business, Then Gave Me A $3,800 Ring Box. So I Claimed The "
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-03T21:03:23.935171+00:00"
+  "updated_at": "2026-08-03T21:06:09.224503+00:00"
 }
