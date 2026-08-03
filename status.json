@@ -1,7 +1,7 @@
 {
   "story_id": 148,
   "premise": "I poured my $130,000 widow’s inheritance into a craft cider orchard with my stepson, notarizing a 45% stake and a lifetime supply of farmhouse cider; when a national beverage company bid $900,000 for the orchard and brand, he forged a dissolution, sold my share, and left me a $7,000 'crate of thanks' — I retrieved our original partnership agreement from a sealed fermentation barrel, voided the sale, and now run 'Pressed Betrayal Cider' where he presses apples in overalls that say 'Juiced the Truth' and every bottle prints his fraud case number.",
-  "stage": "assembly",
+  "stage": "upload",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -26,8 +26,14 @@
       "icon": "film",
       "status": "done",
       "detail": "30.6 min, 802MB"
+    },
+    "upload": {
+      "label": "Uploading to YouTube",
+      "icon": "upload",
+      "status": "running",
+      "detail": ""
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-03T13:34:15.412609+00:00"
+  "updated_at": "2026-08-03T13:34:16.575588+00:00"
 }
