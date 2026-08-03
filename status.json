@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Son Forged A $650K Sale Of My Popcorn Shop And Gave Me $5K. So I Voided The D"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-03T04:54:22.836909+00:00"
+  "updated_at": "2026-08-03T04:57:29.981006+00:00"
 }
