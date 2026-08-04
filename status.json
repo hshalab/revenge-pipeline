@@ -1,40 +1,8 @@
 {
-  "story_id": 158,
-  "premise": "I poured my $108,000 nursing pension into purchasing and restoring a historic 1920s greenhouse and rare orchid conservatory with my brother, who signed a notarized 40% stake and a lifetime of weekly orchid deliveries for my church; when a botanical garden consortium offered $680,000 for the orchid collection and property he forged a dissolution, sold my share, and handed me a $5,000 “plant food” check—I found the original agreement sealed in a glass cloche under a prized cattleya, voided the sale, and now run ‘Bloom of Deceit Orchids,’ where he repots specimens in a vest that says ‘Rooted in Fraud’ and every plant tag prints the probate case number.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,662 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Brother Sold My $680K Inheritance For $5K. So I Watched Him Repot In 'Rooted "
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "35.5 min, 909MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=zEsAoOHB7pc"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-04T18:45:58.257564+00:00",
-  "video_id": "zEsAoOHB7pc"
+  "story_id": 159,
+  "premise": "I emptied my $123,000 widow’s pension into a bespoke marionette and puppet theater restoration workshop with my son, notarizing a 50/50 partnership and a promise of a lifetime front‑row seat for my puppet shows; after a children’s media company bid $540,000 for the antique marionette collection and brand, he forged a dissolution, sold everything, and mailed me a $4,200 “string” ticket—I retrieved the original contract sewn inside a marionette’s costume, voided the sale, and now run ‘Strings of Deceit Puppetry,’ where he sands puppet limbs in a shirt that says ‘Pulling the Fraud’ and every show program prints his fraud docket number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-04T20:38:41.904695+00:00"
 }
