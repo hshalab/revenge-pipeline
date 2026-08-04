@@ -1,40 +1,8 @@
 {
-  "story_id": 154,
-  "premise": "I used my $99,000 widow’s inheritance to co‑found an artisanal birdhouse‑and‑feeder company with my nephew, notarizing a 50/50 partnership and a lifetime of hand‑painted bluebird houses for my garden; after a home‑and‑garden TV feature, a catalog brand offered $510,000 for the designs and inventory, he forged a dissolution, sold everything, and left me a $3,600 ‘starter’ birdhouse; I uncovered our original signed agreement nailed to the underside of a barn‑wood feeder I had built, voided the sale, and now run ‘Wing of Deceit Birdhouses,’ where he drills entry holes in a vest that says ‘Nest of Lies’ and every birdhouse includes a QR code to his fraud conviction.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "10,527 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Nephew Stole My $99K Birdhouse Company And Left Me $3.6K. So I Voided His $51"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "55.6 min, 1434MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=BN3_v7CGC34"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-04T07:40:19.282806+00:00",
-  "video_id": "BN3_v7CGC34"
+  "story_id": 155,
+  "premise": "I drained my $97,000 widow’s inheritance to restore a collection of historic wallpaper sample books and open a rental studio for period‑film set designers with my daughter‑in‑law, who notarized a 50/50 partnership and promised me a lifetime of free Victorian wallpaper for my bedroom; after a production company offered $630,000 for the archive she forged a dissolution, sold the collection, and handed me a $3,200 “pattern” check—I found our original agreement pasted inside an 1890s floral damask sample book, voided the sale, and now run ‘Paper‑Over Lies Wallpaper,’ where she matches remnants in an apron that says ‘Stripped of Trust’ and every rental invoice prints the fraud docket number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-04T09:40:31.188906+00:00"
 }
