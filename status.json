@@ -1,40 +1,8 @@
 {
-  "story_id": 157,
-  "premise": "I cashed out my $126,000 401(k) to buy and restore a 1950s Airstream trailer fleet for a mobile vintage glamour studio with my half‑sister, who notarized a 50/50 share and promised me a lifetime of free up‑dos for my granddaughters’ weddings; after a wedding‑planning franchise bid $870,000 for the branded fleet, she forged an ownership transfer, sold the trailers, and gave me a $4,500 “retro” compact mirror—I discovered the original partnership document inside a hidden compartment of a restored trailer’s upholstery, voided the sale, and now run ‘Trailer of Betrayal Glam,’ where she sanitizes curling irons in a smock that reads ‘Curling Lies’ and every appointment card prints the fraud docket number.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "7,786 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Half-Sister Stole My Airstream Fleet, Gave Me A $4500 Mirror. So I Voided The"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "45.0 min, 1142MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=BjvTXQr848s"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-04T16:25:25.442413+00:00",
-  "video_id": "BjvTXQr848s"
+  "story_id": 158,
+  "premise": "I poured my $108,000 nursing pension into purchasing and restoring a historic 1920s greenhouse and rare orchid conservatory with my brother, who signed a notarized 40% stake and a lifetime of weekly orchid deliveries for my church; when a botanical garden consortium offered $680,000 for the orchid collection and property he forged a dissolution, sold my share, and handed me a $5,000 “plant food” check—I found the original agreement sealed in a glass cloche under a prized cattleya, voided the sale, and now run ‘Bloom of Deceit Orchids,’ where he repots specimens in a vest that says ‘Rooted in Fraud’ and every plant tag prints the probate case number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-04T17:56:18.365890+00:00"
 }
