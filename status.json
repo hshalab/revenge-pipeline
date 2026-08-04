@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My DIL Forged A Dissolution, Sold My Archive, Gave Me $3,200. So I Watched The D"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-04T10:02:51.848571+00:00"
+  "updated_at": "2026-08-04T10:07:28.211880+00:00"
 }
