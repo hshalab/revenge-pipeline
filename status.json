@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Half-Sister Stole My Airstream Fleet, Gave Me A $4500 Mirror. So I Voided The"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-04T15:50:42.742521+00:00"
+  "updated_at": "2026-08-04T15:54:56.547140+00:00"
 }
