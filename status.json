@@ -1,40 +1,8 @@
 {
-  "story_id": 156,
-  "premise": "I used my late husband’s $112,000 life insurance to launch a vintage fountain pen restoration and nib‑grinding workshop with my stepson, securing a notarized 45% stake and a lifetime supply of ink for my journals; when a luxury pen brand offered $590,000 for the restored collection and client list he forged a dissolution, sold my share, and mailed me a $3,900 “inkwell” check—I retrieved our contract hidden inside the barrel of a 1920s Parker Duofold, proved the forgery, and now run ‘Nib of Deceit Pens,’ where he polishes nibs in a vest that reads ‘Written in Fraud’ and every gift box prints his perjury case number.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,841 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Stepson Forged Our Dissolution, Stole My Business, And Sent Me $3,900. So I H"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "36.5 min, 960MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=9VVu2XHjKj8"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-04T12:48:10.126474+00:00",
-  "video_id": "9VVu2XHjKj8"
+  "story_id": 157,
+  "premise": "I cashed out my $126,000 401(k) to buy and restore a 1950s Airstream trailer fleet for a mobile vintage glamour studio with my half‑sister, who notarized a 50/50 share and promised me a lifetime of free up‑dos for my granddaughters’ weddings; after a wedding‑planning franchise bid $870,000 for the branded fleet, she forged an ownership transfer, sold the trailers, and gave me a $4,500 “retro” compact mirror—I discovered the original partnership document inside a hidden compartment of a restored trailer’s upholstery, voided the sale, and now run ‘Trailer of Betrayal Glam,’ where she sanitizes curling irons in a smock that reads ‘Curling Lies’ and every appointment card prints the fraud docket number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-04T15:22:18.601373+00:00"
 }
