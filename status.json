@@ -1,7 +1,7 @@
 {
   "story_id": 153,
   "premise": "I cashed out my $115,000 401(k) to open a bespoke leather‑journal bindery with my brother, who signed a notarized 40% equity stake and a lifetime of free journals for my book club; after a national stationery retailer offered $690,000 for the studio, he forged a buyout document, sold my share, and handed me a $4,200 ‘bookstore’ credit; I retrieved our original agreement folded into the lining of a hand‑bound journal I’d made for his wedding, proved the forgery, and now run ‘Bound by Fraud Books,’ where he bevels leather covers in a shirt that reads ‘Spilled Ink on Trust’ and every journal’s flyleaf prints his perjury case number.",
-  "stage": "audio",
+  "stage": "thumb",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -14,8 +14,14 @@
       "icon": "mic",
       "status": "done",
       "detail": ""
+    },
+    "thumb": {
+      "label": "Thumbnail + metadata",
+      "icon": "image",
+      "status": "running",
+      "detail": "Writing title/tags + rendering thumbnail..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-04T04:40:35.566113+00:00"
+  "updated_at": "2026-08-04T04:40:37.229222+00:00"
 }
