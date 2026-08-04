@@ -1,7 +1,7 @@
 {
   "story_id": 156,
   "premise": "I used my late husband’s $112,000 life insurance to launch a vintage fountain pen restoration and nib‑grinding workshop with my stepson, securing a notarized 45% stake and a lifetime supply of ink for my journals; when a luxury pen brand offered $590,000 for the restored collection and client list he forged a dissolution, sold my share, and mailed me a $3,900 “inkwell” check—I retrieved our contract hidden inside the barrel of a 1920s Parker Duofold, proved the forgery, and now run ‘Nib of Deceit Pens,’ where he polishes nibs in a vest that reads ‘Written in Fraud’ and every gift box prints his perjury case number.",
-  "stage": "assembly",
+  "stage": "upload",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -26,8 +26,14 @@
       "icon": "film",
       "status": "done",
       "detail": "36.5 min, 960MB"
+    },
+    "upload": {
+      "label": "Uploading to YouTube",
+      "icon": "upload",
+      "status": "running",
+      "detail": ""
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-04T12:47:32.411278+00:00"
+  "updated_at": "2026-08-04T12:47:33.585290+00:00"
 }
