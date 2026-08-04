@@ -1,40 +1,8 @@
 {
-  "story_id": 155,
-  "premise": "I drained my $97,000 widow’s inheritance to restore a collection of historic wallpaper sample books and open a rental studio for period‑film set designers with my daughter‑in‑law, who notarized a 50/50 partnership and promised me a lifetime of free Victorian wallpaper for my bedroom; after a production company offered $630,000 for the archive she forged a dissolution, sold the collection, and handed me a $3,200 “pattern” check—I found our original agreement pasted inside an 1890s floral damask sample book, voided the sale, and now run ‘Paper‑Over Lies Wallpaper,’ where she matches remnants in an apron that says ‘Stripped of Trust’ and every rental invoice prints the fraud docket number.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,964 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My DIL Forged A Dissolution, Sold My Archive, Gave Me $3,200. So I Watched The D"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "34.1 min, 907MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=9_0sa6WZ2EY"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-04T10:29:33.096899+00:00",
-  "video_id": "9_0sa6WZ2EY"
+  "story_id": 156,
+  "premise": "I used my late husband’s $112,000 life insurance to launch a vintage fountain pen restoration and nib‑grinding workshop with my stepson, securing a notarized 45% stake and a lifetime supply of ink for my journals; when a luxury pen brand offered $590,000 for the restored collection and client list he forged a dissolution, sold my share, and mailed me a $3,900 “inkwell” check—I retrieved our contract hidden inside the barrel of a 1920s Parker Duofold, proved the forgery, and now run ‘Nib of Deceit Pens,’ where he polishes nibs in a vest that reads ‘Written in Fraud’ and every gift box prints his perjury case number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-04T11:59:26.382336+00:00"
 }
