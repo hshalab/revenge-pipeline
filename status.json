@@ -1,40 +1,8 @@
 {
-  "story_id": 159,
-  "premise": "I emptied my $123,000 widow’s pension into a bespoke marionette and puppet theater restoration workshop with my son, notarizing a 50/50 partnership and a promise of a lifetime front‑row seat for my puppet shows; after a children’s media company bid $540,000 for the antique marionette collection and brand, he forged a dissolution, sold everything, and mailed me a $4,200 “string” ticket—I retrieved the original contract sewn inside a marionette’s costume, voided the sale, and now run ‘Strings of Deceit Puppetry,’ where he sands puppet limbs in a shirt that says ‘Pulling the Fraud’ and every show program prints his fraud docket number.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,127 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Son Sold My $540K Puppet Theater. I Got A $4,200 Ticket. So I Voided The Sale"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "35.1 min, 872MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=X-S_ukt9sgA"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-04T21:31:32.508078+00:00",
-  "video_id": "X-S_ukt9sgA"
+  "story_id": 160,
+  "premise": "I drained my $95,000 widow’s IRA to open a vintage clock‑repair and restoration workshop with my stepson, who notarized a 45% share and a lifetime of free clock‑maintenance for my church, but after a luxury hotel chain offered $710,000 for the antique clock collection he forged a dissolution, sold the collection, and handed me a $4,000 ‘timepiece’ check; I uncovered our original agreement tucked inside a grandfather‑clock pendulum case, voided the sale, and now run ‘Tock of Betrayal Clocks,’ where he dusts dials in a vest that says ‘Wound Up in Lies’ and every repair tag prints his fraud‑docket number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-04T23:06:11.025623+00:00"
 }
