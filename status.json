@@ -1,40 +1,8 @@
 {
-  "story_id": 152,
-  "premise": "I emptied my $89,000 nursing pension into a heritage seed‑saving library and gourmet tomato‑sauce kitchen with my stepdaughter, who notarized a 50/50 partnership built on my late father’s favorite heirloom seeds and promised me a lifetime pantry of sauce; when an organic conglomerate bid $580,000 for the brand and seed collection, she forged a dissolution, sold everything, and mailed me a $3,200 ‘garden‑fresh’ check; I found the original notarized contract tucked inside a sealed packet of ‘Mortgage Lifter’ tomato seeds my father had saved, voided the sale, and now run ‘Seeds of Betrayal Sauces,’ where she hand‑labels jars in an apron that says ‘Rotten to the Core’ and each label prints the probate‑fraud docket.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "7,790 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Stepdaughter Forged My Signature, Sold My Seeds. So I Voided The Sale, She La"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "40.4 min, 999MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=N-EGaU_o_68"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-03T23:54:25.689706+00:00",
-  "video_id": "N-EGaU_o_68"
+  "story_id": 153,
+  "premise": "I cashed out my $115,000 401(k) to open a bespoke leather‑journal bindery with my brother, who signed a notarized 40% equity stake and a lifetime of free journals for my book club; after a national stationery retailer offered $690,000 for the studio, he forged a buyout document, sold my share, and handed me a $4,200 ‘bookstore’ credit; I retrieved our original agreement folded into the lining of a hand‑bound journal I’d made for his wedding, proved the forgery, and now run ‘Bound by Fraud Books,’ where he bevels leather covers in a shirt that reads ‘Spilled Ink on Trust’ and every journal’s flyleaf prints his perjury case number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-04T04:15:23.364528+00:00"
 }
