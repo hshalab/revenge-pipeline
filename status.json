@@ -1,7 +1,7 @@
 {
   "story_id": 157,
   "premise": "I cashed out my $126,000 401(k) to buy and restore a 1950s Airstream trailer fleet for a mobile vintage glamour studio with my half‑sister, who notarized a 50/50 share and promised me a lifetime of free up‑dos for my granddaughters’ weddings; after a wedding‑planning franchise bid $870,000 for the branded fleet, she forged an ownership transfer, sold the trailers, and gave me a $4,500 “retro” compact mirror—I discovered the original partnership document inside a hidden compartment of a restored trailer’s upholstery, voided the sale, and now run ‘Trailer of Betrayal Glam,’ where she sanitizes curling irons in a smock that reads ‘Curling Lies’ and every appointment card prints the fraud docket number.",
-  "stage": "thumb",
+  "stage": "assembly",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -20,8 +20,14 @@
       "icon": "image",
       "status": "done",
       "detail": "My Half-Sister Stole My Airstream Fleet, Gave Me A $4500 Mirror. So I Voided The"
+    },
+    "assembly": {
+      "label": "Assembling video",
+      "icon": "film",
+      "status": "running",
+      "detail": "ffmpeg: character + drone + captions + waveform..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-04T15:54:56.547140+00:00"
+  "updated_at": "2026-08-04T15:54:59.064878+00:00"
 }
