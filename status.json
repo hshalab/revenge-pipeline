@@ -1,7 +1,7 @@
 {
   "story_id": 160,
   "premise": "I drained my $95,000 widow’s IRA to open a vintage clock‑repair and restoration workshop with my stepson, who notarized a 45% share and a lifetime of free clock‑maintenance for my church, but after a luxury hotel chain offered $710,000 for the antique clock collection he forged a dissolution, sold the collection, and handed me a $4,000 ‘timepiece’ check; I uncovered our original agreement tucked inside a grandfather‑clock pendulum case, voided the sale, and now run ‘Tock of Betrayal Clocks,’ where he dusts dials in a vest that says ‘Wound Up in Lies’ and every repair tag prints his fraud‑docket number.",
-  "stage": "audio",
+  "stage": "thumb",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -14,8 +14,14 @@
       "icon": "mic",
       "status": "done",
       "detail": ""
+    },
+    "thumb": {
+      "label": "Thumbnail + metadata",
+      "icon": "image",
+      "status": "running",
+      "detail": "Writing title/tags + rendering thumbnail..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-04T23:27:08.421460+00:00"
+  "updated_at": "2026-08-04T23:27:10.035753+00:00"
 }
