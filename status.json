@@ -1,7 +1,7 @@
 {
   "story_id": 159,
   "premise": "I emptied my $123,000 widow’s pension into a bespoke marionette and puppet theater restoration workshop with my son, notarizing a 50/50 partnership and a promise of a lifetime front‑row seat for my puppet shows; after a children’s media company bid $540,000 for the antique marionette collection and brand, he forged a dissolution, sold everything, and mailed me a $4,200 “string” ticket—I retrieved the original contract sewn inside a marionette’s costume, voided the sale, and now run ‘Strings of Deceit Puppetry,’ where he sands puppet limbs in a shirt that says ‘Pulling the Fraud’ and every show program prints his fraud docket number.",
-  "stage": "audio",
+  "stage": "thumb",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -14,8 +14,14 @@
       "icon": "mic",
       "status": "done",
       "detail": ""
+    },
+    "thumb": {
+      "label": "Thumbnail + metadata",
+      "icon": "image",
+      "status": "running",
+      "detail": "Writing title/tags + rendering thumbnail..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-04T21:07:17.904913+00:00"
+  "updated_at": "2026-08-04T21:07:20.768992+00:00"
 }
