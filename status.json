@@ -1,7 +1,7 @@
 {
   "story_id": 155,
   "premise": "I drained my $97,000 widow’s inheritance to restore a collection of historic wallpaper sample books and open a rental studio for period‑film set designers with my daughter‑in‑law, who notarized a 50/50 partnership and promised me a lifetime of free Victorian wallpaper for my bedroom; after a production company offered $630,000 for the archive she forged a dissolution, sold the collection, and handed me a $3,200 “pattern” check—I found our original agreement pasted inside an 1890s floral damask sample book, voided the sale, and now run ‘Paper‑Over Lies Wallpaper,’ where she matches remnants in an apron that says ‘Stripped of Trust’ and every rental invoice prints the fraud docket number.",
-  "stage": "assembly",
+  "stage": "upload",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -26,8 +26,14 @@
       "icon": "film",
       "status": "done",
       "detail": "34.1 min, 907MB"
+    },
+    "upload": {
+      "label": "Uploading to YouTube",
+      "icon": "upload",
+      "status": "running",
+      "detail": ""
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-04T10:27:59.302880+00:00"
+  "updated_at": "2026-08-04T10:28:00.810575+00:00"
 }
