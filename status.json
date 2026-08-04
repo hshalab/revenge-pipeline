@@ -1,15 +1,21 @@
 {
   "story_id": 154,
   "premise": "I used my $99,000 widow’s inheritance to co‑found an artisanal birdhouse‑and‑feeder company with my nephew, notarizing a 50/50 partnership and a lifetime of hand‑painted bluebird houses for my garden; after a home‑and‑garden TV feature, a catalog brand offered $510,000 for the designs and inventory, he forged a dissolution, sold everything, and left me a $3,600 ‘starter’ birdhouse; I uncovered our original signed agreement nailed to the underside of a barn‑wood feeder I had built, voided the sale, and now run ‘Wing of Deceit Birdhouses,’ where he drills entry holes in a vest that says ‘Nest of Lies’ and every birdhouse includes a QR code to his fraud conviction.",
-  "stage": "script",
+  "stage": "audio",
   "stages": {
     "script": {
       "label": "Writing script",
       "icon": "pen",
       "status": "done",
       "detail": "10,527 words"
+    },
+    "audio": {
+      "label": "Kokoro narration",
+      "icon": "mic",
+      "status": "running",
+      "detail": "Kokoro af_bella narrating..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-04T06:36:17.906147+00:00"
+  "updated_at": "2026-08-04T06:36:20.190371+00:00"
 }
