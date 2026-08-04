@@ -1,7 +1,7 @@
 {
   "story_id": 158,
   "premise": "I poured my $108,000 nursing pension into purchasing and restoring a historic 1920s greenhouse and rare orchid conservatory with my brother, who signed a notarized 40% stake and a lifetime of weekly orchid deliveries for my church; when a botanical garden consortium offered $680,000 for the orchid collection and property he forged a dissolution, sold my share, and handed me a $5,000 “plant food” check—I found the original agreement sealed in a glass cloche under a prized cattleya, voided the sale, and now run ‘Bloom of Deceit Orchids,’ where he repots specimens in a vest that says ‘Rooted in Fraud’ and every plant tag prints the probate case number.",
-  "stage": "thumb",
+  "stage": "assembly",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -20,8 +20,14 @@
       "icon": "image",
       "status": "done",
       "detail": "My Brother Sold My $680K Inheritance For $5K. So I Watched Him Repot In 'Rooted "
+    },
+    "assembly": {
+      "label": "Assembling video",
+      "icon": "film",
+      "status": "running",
+      "detail": "ffmpeg: character + drone + captions + waveform..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-04T18:23:18.957947+00:00"
+  "updated_at": "2026-08-04T18:23:20.787530+00:00"
 }
