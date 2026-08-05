@@ -34,6 +34,7 @@
       "detail": "youtube.com/watch?v=pc693-maPtI"
     }
   },
-  "run_state": "running",
-  "updated_at": "2026-08-05T07:14:53.565983+00:00"
+  "run_state": "done",
+  "updated_at": "2026-08-05T07:14:54.771768+00:00",
+  "video_id": "pc693-maPtI"
 }
