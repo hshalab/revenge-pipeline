@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Brother Forged A Dissolution And Sold Our $520K Collection. So I Dressed Him "
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-05T23:26:19.038070+00:00"
+  "updated_at": "2026-08-05T23:29:36.455172+00:00"
 }
