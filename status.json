@@ -1,7 +1,7 @@
 {
   "story_id": 161,
   "premise": "I poured my $112,000 403(b) into a handcrafted wooden rocking‑horse workshop with my daughter, notarizing a 50/50 partnership and a promise of a free horse for each grandchild, but when a toy‑museum chain bid $460,000 for the brand and patterns she forged a dissolution, sold everything, and mailed me a $3,200 ‘rocking’ check; I found our original contract hidden under the saddle of a finished horse, proved the forgery, and now run ‘Gallop of Deceit Rocking Horses,’ where she sands manes in a smock that says ‘Unbridled Lies’ and every hoof stamp prints the perjury case number.",
-  "stage": "audio",
+  "stage": "thumb",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -14,8 +14,14 @@
       "icon": "mic",
       "status": "done",
       "detail": ""
+    },
+    "thumb": {
+      "label": "Thumbnail + metadata",
+      "icon": "image",
+      "status": "running",
+      "detail": "Writing title/tags + rendering thumbnail..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-05T04:41:19.893553+00:00"
+  "updated_at": "2026-08-05T04:41:21.864144+00:00"
 }
