@@ -1,15 +1,21 @@
 {
   "story_id": 168,
   "premise": "I used my late husband’s $109,000 life insurance to open a vintage phonograph and wax‑cylinder repair workshop with my brother, who notarized a 45% stake and a lifetime of Sunday concerts of old recordings for my grandchildren, but after a museum bid $520,000 for the restored collection he forged a dissolution, sold the inventory, and gave me a $3,900 “record” check; I uncovered our original contract hidden inside a horn speaker, proved the forgery, and now run ‘Cylinder of Deceit Phonographs,’ where he polishes brass horns in a shirt that says ‘Cranked Up Lies’ and every restoration tag prints the fraud‑docket number.",
-  "stage": "script",
+  "stage": "audio",
   "stages": {
     "script": {
       "label": "Writing script",
       "icon": "pen",
       "status": "done",
       "detail": "7,038 words"
+    },
+    "audio": {
+      "label": "Kokoro narration",
+      "icon": "mic",
+      "status": "running",
+      "detail": "Kokoro af_bella narrating..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-05T23:08:01.945327+00:00"
+  "updated_at": "2026-08-05T23:08:03.380629+00:00"
 }
