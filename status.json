@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Half-Brother Stole My $620K Sale And Left Me With A $3.8K 'Ink' Voucher. So I"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-05T10:03:29.720724+00:00"
+  "updated_at": "2026-08-05T10:04:41.576164+00:00"
 }
