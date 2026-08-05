@@ -1,7 +1,7 @@
 {
   "story_id": 166,
   "premise": "I drained my $96,000 nursing pension to rescue a vintage 1950s diner car and launch a retro milkshake bar with my stepdaughter, who signed a 50/50 partnership and promised free milkshakes for my grandkids every Friday, but after a restaurant group offered $650,000 for the diner car and recipes she forged a title transfer, sold the business, and mailed me a $3,500 “tip” check; I found the original agreement stuffed inside the jukebox, proved the forgery, and now run ‘Shake of Betrayal Diner,’ where she scrubs the chrome grill in a shirt that says ‘Grilled My Trust’ and every receipt prints the perjury case number.",
-  "stage": "thumb",
+  "stage": "assembly",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -20,8 +20,14 @@
       "icon": "image",
       "status": "done",
       "detail": "My Stepdaughter Forged The Title, Sold My Diner, And Mailed Me $3,500. So I Let "
+    },
+    "assembly": {
+      "label": "Assembling video",
+      "icon": "film",
+      "status": "running",
+      "detail": "ffmpeg: character + drone + captions + waveform..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-05T18:11:49.180283+00:00"
+  "updated_at": "2026-08-05T18:11:50.378931+00:00"
 }
