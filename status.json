@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Nephew Stole My Studio, Sold Church Windows, Left Me $3,800. So I Let The Con"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-05T15:39:31.572046+00:00"
+  "updated_at": "2026-08-05T15:42:32.101481+00:00"
 }
