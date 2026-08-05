@@ -1,7 +1,7 @@
 {
   "story_id": 163,
   "premise": "I emptied my $99,000 widow’s inheritance into a letterpress‑and‑vintage‑type studio with my half‑brother, notarizing a 50/50 partnership, but after a high‑end stationery brand offered $620,000 for the presses and wood‑type collection he forged a sale document, pocketed the cash, and handed me a $3,800 ‘ink’ voucher; I discovered the original agreement inside a locked type‑drawer, voided the sale, and now run ‘Impression of Deceit Press,’ where he sets type in an apron that says ‘Pressed Lies’ and every card prints his fraud‑docket number.",
-  "stage": "assembly",
+  "stage": "upload",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -26,8 +26,14 @@
       "icon": "film",
       "status": "done",
       "detail": "36.2 min, 961MB"
+    },
+    "upload": {
+      "label": "Uploading to YouTube",
+      "icon": "upload",
+      "status": "running",
+      "detail": ""
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-05T10:26:39.167714+00:00"
+  "updated_at": "2026-08-05T10:26:40.685978+00:00"
 }
