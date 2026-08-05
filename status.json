@@ -1,7 +1,7 @@
 {
   "story_id": 162,
   "premise": "I used my $108,000 nursing pension to buy and restore a fleet of 1930s wooden speedboats for a heritage lake‑rental business with my brother‑in‑law, who signed a notarized 40% stake and a lifetime of free Sunday cruises for my family, but after a luxury resort offered $830,000 for the restored fleet he forged a dissolution, sold my share, and gave me a $5,500 ‘boating’ check; I retrieved our partnership agreement sealed inside a boat’s engine compartment, voided the sale, and now run ‘Wake of Deceit Boats,’ where he varnishes hulls in a shirt that reads ‘Sunk My Trust’ and every rental receipt prints the fraud docket.",
-  "stage": "assembly",
+  "stage": "upload",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -26,8 +26,14 @@
       "icon": "film",
       "status": "done",
       "detail": "32.7 min, 844MB"
+    },
+    "upload": {
+      "label": "Uploading to YouTube",
+      "icon": "upload",
+      "status": "running",
+      "detail": ""
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-05T07:14:30.611272+00:00"
+  "updated_at": "2026-08-05T07:14:31.881705+00:00"
 }
