@@ -1,40 +1,8 @@
 {
-  "story_id": 161,
-  "premise": "I poured my $112,000 403(b) into a handcrafted wooden rocking‑horse workshop with my daughter, notarizing a 50/50 partnership and a promise of a free horse for each grandchild, but when a toy‑museum chain bid $460,000 for the brand and patterns she forged a dissolution, sold everything, and mailed me a $3,200 ‘rocking’ check; I found our original contract hidden under the saddle of a finished horse, proved the forgery, and now run ‘Gallop of Deceit Rocking Horses,’ where she sands manes in a smock that says ‘Unbridled Lies’ and every hoof stamp prints the perjury case number.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "7,527 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Daughter Forged a Dissolution, Sold Our Workshop, and Mailed Me $3,200. So I "
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "41.4 min, 1064MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=Et28zd4gOvs"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-05T05:09:09.464168+00:00",
-  "video_id": "Et28zd4gOvs"
+  "story_id": 162,
+  "premise": "I used my $108,000 nursing pension to buy and restore a fleet of 1930s wooden speedboats for a heritage lake‑rental business with my brother‑in‑law, who signed a notarized 40% stake and a lifetime of free Sunday cruises for my family, but after a luxury resort offered $830,000 for the restored fleet he forged a dissolution, sold my share, and gave me a $5,500 ‘boating’ check; I retrieved our partnership agreement sealed inside a boat’s engine compartment, voided the sale, and now run ‘Wake of Deceit Boats,’ where he varnishes hulls in a shirt that reads ‘Sunk My Trust’ and every rental receipt prints the fraud docket.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-05T06:26:47.800900+00:00"
 }
