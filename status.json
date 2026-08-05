@@ -1,40 +1,8 @@
 {
-  "story_id": 162,
-  "premise": "I used my $108,000 nursing pension to buy and restore a fleet of 1930s wooden speedboats for a heritage lake‑rental business with my brother‑in‑law, who signed a notarized 40% stake and a lifetime of free Sunday cruises for my family, but after a luxury resort offered $830,000 for the restored fleet he forged a dissolution, sold my share, and gave me a $5,500 ‘boating’ check; I retrieved our partnership agreement sealed inside a boat’s engine compartment, voided the sale, and now run ‘Wake of Deceit Boats,’ where he varnishes hulls in a shirt that reads ‘Sunk My Trust’ and every rental receipt prints the fraud docket.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,201 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "Brother-In-Law Forged Dissolution, Sold My $830K Fleet, Gave Me $5,500. So I Got"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "32.7 min, 844MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=pc693-maPtI"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-05T07:14:54.771768+00:00",
-  "video_id": "pc693-maPtI"
+  "story_id": 163,
+  "premise": "I emptied my $99,000 widow’s inheritance into a letterpress‑and‑vintage‑type studio with my half‑brother, notarizing a 50/50 partnership, but after a high‑end stationery brand offered $620,000 for the presses and wood‑type collection he forged a sale document, pocketed the cash, and handed me a $3,800 ‘ink’ voucher; I discovered the original agreement inside a locked type‑drawer, voided the sale, and now run ‘Impression of Deceit Press,’ where he sets type in an apron that says ‘Pressed Lies’ and every card prints his fraud‑docket number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-05T09:38:52.367294+00:00"
 }
