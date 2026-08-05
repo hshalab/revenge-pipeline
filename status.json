@@ -1,7 +1,7 @@
 {
   "story_id": 165,
   "premise": "I poured my $116,000 widow’s pension into a stained‑glass restoration and custom‑window studio with my nephew, notarizing a 50/50 partnership and a lifetime of free glass panels for my church, but after a cathedral renovation bid $580,000 for the historic patterns and inventory he forged a dissolution, sold everything, and handed me a $3,800 “solder” check; I discovered the original agreement pressed inside a sheet of frosted glass, voided the sale, and now run ‘Pane of Deceit Stained Glass,’ where he grinds lead came in a smock that reads ‘Shattered Trust’ and every finished window carries a brass plate with his fraud‑docket number.",
-  "stage": "audio",
+  "stage": "thumb",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -14,8 +14,14 @@
       "icon": "mic",
       "status": "done",
       "detail": ""
+    },
+    "thumb": {
+      "label": "Thumbnail + metadata",
+      "icon": "image",
+      "status": "running",
+      "detail": "Writing title/tags + rendering thumbnail..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-05T15:39:29.463545+00:00"
+  "updated_at": "2026-08-05T15:39:31.572046+00:00"
 }
