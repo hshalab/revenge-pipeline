@@ -1,40 +1,8 @@
 {
-  "story_id": 160,
-  "premise": "I drained my $95,000 widow’s IRA to open a vintage clock‑repair and restoration workshop with my stepson, who notarized a 45% share and a lifetime of free clock‑maintenance for my church, but after a luxury hotel chain offered $710,000 for the antique clock collection he forged a dissolution, sold the collection, and handed me a $4,000 ‘timepiece’ check; I uncovered our original agreement tucked inside a grandfather‑clock pendulum case, voided the sale, and now run ‘Tock of Betrayal Clocks,’ where he dusts dials in a vest that says ‘Wound Up in Lies’ and every repair tag prints his fraud‑docket number.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,546 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Stepson Sold My Clock Collection For $710K, Left Me With $4K. So I Dressed Hi"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "29.3 min, 724MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=0kTBTg-7m3s"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-04T23:48:22.073601+00:00",
-  "video_id": "0kTBTg-7m3s"
+  "story_id": 161,
+  "premise": "I poured my $112,000 403(b) into a handcrafted wooden rocking‑horse workshop with my daughter, notarizing a 50/50 partnership and a promise of a free horse for each grandchild, but when a toy‑museum chain bid $460,000 for the brand and patterns she forged a dissolution, sold everything, and mailed me a $3,200 ‘rocking’ check; I found our original contract hidden under the saddle of a finished horse, proved the forgery, and now run ‘Gallop of Deceit Rocking Horses,’ where she sands manes in a smock that says ‘Unbridled Lies’ and every hoof stamp prints the perjury case number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-05T04:11:07.879248+00:00"
 }
