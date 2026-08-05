@@ -1,40 +1,8 @@
 {
-  "story_id": 166,
-  "premise": "I drained my $96,000 nursing pension to rescue a vintage 1950s diner car and launch a retro milkshake bar with my stepdaughter, who signed a 50/50 partnership and promised free milkshakes for my grandkids every Friday, but after a restaurant group offered $650,000 for the diner car and recipes she forged a title transfer, sold the business, and mailed me a $3,500 “tip” check; I found the original agreement stuffed inside the jukebox, proved the forgery, and now run ‘Shake of Betrayal Diner,’ where she scrubs the chrome grill in a shirt that says ‘Grilled My Trust’ and every receipt prints the perjury case number.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,394 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Stepdaughter Forged The Title, Sold My Diner, And Mailed Me $3,500. So I Let "
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "33.3 min, 854MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=yJ61d7fDQmk"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-05T18:32:46.260393+00:00",
-  "video_id": "yJ61d7fDQmk"
+  "story_id": 167,
+  "premise": "I cashed out my $115,000 widow’s inheritance to plant a choose‑and‑cut Christmas‑tree farm with my brother‑in‑law, notarizing a 40% equity share and a lifetime free tree for my porch, but when a landscaping conglomerate bid $800,000 for the land and mature stock he forged a dissolution, sold my share, and left me a $5,000 “stump” check; I retrieved our partnership document sealed inside a hollow ceramic tree ornament, voided the sale, and now run ‘Tannenbaum of Betrayal Tree Farm,’ where he trims boughs in a vest that says ‘Needled by Fraud’ and every tree tag prints his probate‑fraud docket.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-05T20:36:36.194335+00:00"
 }
