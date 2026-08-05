@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Stepdaughter Forged The Title, Sold My Diner, And Mailed Me $3,500. So I Let "
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-05T18:09:30.211326+00:00"
+  "updated_at": "2026-08-05T18:11:49.180283+00:00"
 }
