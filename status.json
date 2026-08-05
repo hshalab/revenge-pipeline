@@ -1,40 +1,8 @@
 {
-  "story_id": 167,
-  "premise": "I cashed out my $115,000 widow’s inheritance to plant a choose‑and‑cut Christmas‑tree farm with my brother‑in‑law, notarizing a 40% equity share and a lifetime free tree for my porch, but when a landscaping conglomerate bid $800,000 for the land and mature stock he forged a dissolution, sold my share, and left me a $5,000 “stump” check; I retrieved our partnership document sealed inside a hollow ceramic tree ornament, voided the sale, and now run ‘Tannenbaum of Betrayal Tree Farm,’ where he trims boughs in a vest that says ‘Needled by Fraud’ and every tree tag prints his probate‑fraud docket.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "7,055 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "Brother-In-Law Stole $115K Inheritance, Left Me $5K. So I Got My Farm Back, Now "
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "40.2 min, 997MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=SrhyGG4cFN8"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-05T21:30:24.164604+00:00",
-  "video_id": "SrhyGG4cFN8"
+  "story_id": 168,
+  "premise": "I used my late husband’s $109,000 life insurance to open a vintage phonograph and wax‑cylinder repair workshop with my brother, who notarized a 45% stake and a lifetime of Sunday concerts of old recordings for my grandchildren, but after a museum bid $520,000 for the restored collection he forged a dissolution, sold the inventory, and gave me a $3,900 “record” check; I uncovered our original contract hidden inside a horn speaker, proved the forgery, and now run ‘Cylinder of Deceit Phonographs,’ where he polishes brass horns in a shirt that says ‘Cranked Up Lies’ and every restoration tag prints the fraud‑docket number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-05T23:01:13.229045+00:00"
 }
