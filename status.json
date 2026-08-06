@@ -1,15 +1,21 @@
 {
   "story_id": 173,
   "premise": "I poured my $113,000 widow’s inheritance into acquiring a historic collection of 1920s garden gnomes and opening a pottery‑painting studio with my daughter‑in‑law, notarizing a 50/50 share and a lifetime of themed gnomes for my granddaughters’ fairy gardens; when a national garden‑centre chain bid $520,000 for the original molds and brand, she forged a dissolution, sold my stake, and slipped me a $3,600 'cherub' check. I unearthed our contract sealed inside a hollow ceramic gnome, voided the sale, and now run 'Gnome of Deceit Pottery,' where she hand‑glazes figures in a smock that says 'Chipped Trust' and every gnome’s base is stamped with her probate‑fraud docket.",
-  "stage": "script",
+  "stage": "audio",
   "stages": {
     "script": {
       "label": "Writing script",
       "icon": "pen",
       "status": "done",
       "detail": "6,276 words"
+    },
+    "audio": {
+      "label": "Kokoro narration",
+      "icon": "mic",
+      "status": "running",
+      "detail": "Kokoro af_bella narrating..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-06T15:24:12.823989+00:00"
+  "updated_at": "2026-08-06T15:24:14.853563+00:00"
 }
