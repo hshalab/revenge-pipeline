@@ -1,8 +1,15 @@
 {
   "story_id": 171,
   "premise": "I drained my $105,000 widow’s IRA to co‑found a handcrafted vintage fishing‑lure company with my son, notarizing a 40% stake and a lifetime supply of custom bass lures for my grandson’s fishing trips; after a national outdoor retailer bid $590,000 for the lure designs and inventory, he forged a dissolution, sold everything, and left me a $3,800 'tackle' box. I retrieved our partnership contract sealed inside a hollow wooden lure I’d carved, voided the sale, and now run 'Lure of Betrayal Tackle,' where he ties spinner blades in a vest that reads 'Hooked on Lies' and every lure package prints his fraud‑docket number.",
-  "stage": null,
-  "stages": {},
+  "stage": "script",
+  "stages": {
+    "script": {
+      "label": "Writing script",
+      "icon": "pen",
+      "status": "running",
+      "detail": "Sonnet 5 writing..."
+    }
+  },
   "run_state": "running",
-  "updated_at": "2026-08-06T09:40:20.286240+00:00"
+  "updated_at": "2026-08-06T09:40:22.352581+00:00"
 }
