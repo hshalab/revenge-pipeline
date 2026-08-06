@@ -1,40 +1,8 @@
 {
-  "story_id": 171,
-  "premise": "I drained my $105,000 widow’s IRA to co‑found a handcrafted vintage fishing‑lure company with my son, notarizing a 40% stake and a lifetime supply of custom bass lures for my grandson’s fishing trips; after a national outdoor retailer bid $590,000 for the lure designs and inventory, he forged a dissolution, sold everything, and left me a $3,800 'tackle' box. I retrieved our partnership contract sealed inside a hollow wooden lure I’d carved, voided the sale, and now run 'Lure of Betrayal Tackle,' where he ties spinner blades in a vest that reads 'Hooked on Lies' and every lure package prints his fraud‑docket number.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,958 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Son Forged Dissolution Of Our Lure Company, Left Me A Tackle Box. So I Voided"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "34.4 min, 913MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=nOW2NRkd2nM"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-06T10:24:29.342092+00:00",
-  "video_id": "nOW2NRkd2nM"
+  "story_id": 172,
+  "premise": "I emptied my $97,000 nursing pension into restoring a collection of 19th‑century cylinder music boxes with my half‑brother, notarizing 50/50 ownership and a lifetime of free hymn tunes for my church’s prayer garden; when a luxury hotel chain offered $680,000 for the entire collection, he forged a dissolution, sold the boxes, and handed me a $4,500 'melody' voucher. I found the original notarized agreement tucked inside a music‑box cylinder case, voided the sale, and now operate 'Melody of Deceit Music Boxes,' where he winds mechanisms in a vest that says 'Out of Tune Trust' and every music box plays a chime referencing his fraud case.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-06T12:00:33.575562+00:00"
 }
