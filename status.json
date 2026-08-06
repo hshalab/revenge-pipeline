@@ -1,40 +1,8 @@
 {
-  "story_id": 172,
-  "premise": "I emptied my $97,000 nursing pension into restoring a collection of 19th‑century cylinder music boxes with my half‑brother, notarizing 50/50 ownership and a lifetime of free hymn tunes for my church’s prayer garden; when a luxury hotel chain offered $680,000 for the entire collection, he forged a dissolution, sold the boxes, and handed me a $4,500 'melody' voucher. I found the original notarized agreement tucked inside a music‑box cylinder case, voided the sale, and now operate 'Melody of Deceit Music Boxes,' where he winds mechanisms in a vest that says 'Out of Tune Trust' and every music box plays a chime referencing his fraud case.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,819 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Half-Brother Stole My $680K, Gave Me A $4,500 Voucher. So I Watched Him Wind "
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "30.6 min, 803MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=Qd84iF9A1Mc"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-06T12:42:38.930462+00:00",
-  "video_id": "Qd84iF9A1Mc"
+  "story_id": 173,
+  "premise": "I poured my $113,000 widow’s inheritance into acquiring a historic collection of 1920s garden gnomes and opening a pottery‑painting studio with my daughter‑in‑law, notarizing a 50/50 share and a lifetime of themed gnomes for my granddaughters’ fairy gardens; when a national garden‑centre chain bid $520,000 for the original molds and brand, she forged a dissolution, sold my stake, and slipped me a $3,600 'cherub' check. I unearthed our contract sealed inside a hollow ceramic gnome, voided the sale, and now run 'Gnome of Deceit Pottery,' where she hand‑glazes figures in a smock that says 'Chipped Trust' and every gnome’s base is stamped with her probate‑fraud docket.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-06T15:10:51.650337+00:00"
 }
