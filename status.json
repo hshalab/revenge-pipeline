@@ -1,15 +1,21 @@
 {
   "story_id": 172,
   "premise": "I emptied my $97,000 nursing pension into restoring a collection of 19th‑century cylinder music boxes with my half‑brother, notarizing 50/50 ownership and a lifetime of free hymn tunes for my church’s prayer garden; when a luxury hotel chain offered $680,000 for the entire collection, he forged a dissolution, sold the boxes, and handed me a $4,500 'melody' voucher. I found the original notarized agreement tucked inside a music‑box cylinder case, voided the sale, and now operate 'Melody of Deceit Music Boxes,' where he winds mechanisms in a vest that says 'Out of Tune Trust' and every music box plays a chime referencing his fraud case.",
-  "stage": "script",
+  "stage": "audio",
   "stages": {
     "script": {
       "label": "Writing script",
       "icon": "pen",
       "status": "done",
       "detail": "5,819 words"
+    },
+    "audio": {
+      "label": "Kokoro narration",
+      "icon": "mic",
+      "status": "running",
+      "detail": "Kokoro af_bella narrating..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-06T12:06:33.595821+00:00"
+  "updated_at": "2026-08-06T12:06:35.830213+00:00"
 }
