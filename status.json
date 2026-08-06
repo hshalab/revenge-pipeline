@@ -1,8 +1,15 @@
 {
   "story_id": 170,
   "premise": "I poured my late husband's $118,000 nursing pension into buying and restoring a collection of rare antique sewing machines with my stepdaughter, notarizing a 50/50 partnership and a promise to stitch a free heirloom quilt for each of my grandkids; when a textile museum offered $720,000 for the collection, she forged a dissolution, sold the machines, and mailed me a $4,200 'spool' check. I discovered our original agreement folded inside the bobbin case of an 1890s Willcox & Gibbs, voided the sale, and now run 'Stitch of Deceit Quilts,' where she threads machines in a smock that says 'Unraveled Trust' and every quilt label prints her perjury docket number.",
-  "stage": null,
-  "stages": {},
+  "stage": "script",
+  "stages": {
+    "script": {
+      "label": "Writing script",
+      "icon": "pen",
+      "status": "running",
+      "detail": "Sonnet 5 writing..."
+    }
+  },
   "run_state": "running",
-  "updated_at": "2026-08-06T06:30:04.648106+00:00"
+  "updated_at": "2026-08-06T06:30:06.851120+00:00"
 }
