@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Half-Brother Stole My $680K, Gave Me A $4,500 Voucher. So I Watched Him Wind "
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-06T12:21:09.728278+00:00"
+  "updated_at": "2026-08-06T12:23:24.753520+00:00"
 }
