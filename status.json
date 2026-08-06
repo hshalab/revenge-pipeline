@@ -1,40 +1,8 @@
 {
-  "story_id": 170,
-  "premise": "I poured my late husband's $118,000 nursing pension into buying and restoring a collection of rare antique sewing machines with my stepdaughter, notarizing a 50/50 partnership and a promise to stitch a free heirloom quilt for each of my grandkids; when a textile museum offered $720,000 for the collection, she forged a dissolution, sold the machines, and mailed me a $4,200 'spool' check. I discovered our original agreement folded inside the bobbin case of an 1890s Willcox & Gibbs, voided the sale, and now run 'Stitch of Deceit Quilts,' where she threads machines in a smock that says 'Unraveled Trust' and every quilt label prints her perjury docket number.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,826 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Stepdaughter Sold My Machines, Sent a Spool Check. So I Let Her Stitch Her Do"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "34.8 min, 899MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=fyUSxNTbTyA"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-06T07:22:12.375992+00:00",
-  "video_id": "fyUSxNTbTyA"
+  "story_id": 171,
+  "premise": "I drained my $105,000 widow’s IRA to co‑found a handcrafted vintage fishing‑lure company with my son, notarizing a 40% stake and a lifetime supply of custom bass lures for my grandson’s fishing trips; after a national outdoor retailer bid $590,000 for the lure designs and inventory, he forged a dissolution, sold everything, and left me a $3,800 'tackle' box. I retrieved our partnership contract sealed inside a hollow wooden lure I’d carved, voided the sale, and now run 'Lure of Betrayal Tackle,' where he ties spinner blades in a vest that reads 'Hooked on Lies' and every lure package prints his fraud‑docket number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-06T09:40:20.286240+00:00"
 }
