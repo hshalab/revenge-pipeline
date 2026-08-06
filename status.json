@@ -1,8 +1,15 @@
 {
   "story_id": 169,
   "premise": "I poured my $98,000 widow’s pension into a vintage‑camera and darkroom rental studio with my daughter‑in‑law, notarizing a 50/50 partnership and a lifetime of hand‑developed family portraits, but when a film production company offered $620,000 for the antique camera collection she forged a dissolution, sold the whole archive, and sent me a $3,700 ‘snapshot’ check; I found the original agreement folded inside the bellows of a 1920s Kodak, voided the sale, and now run ‘Focus of Deceit Photography,’ where she processes prints in a darkroom apron that says ‘Exposed Lies’ and every photograph carries a watermark of her perjury case number.",
-  "stage": null,
-  "stages": {},
+  "stage": "script",
+  "stages": {
+    "script": {
+      "label": "Writing script",
+      "icon": "pen",
+      "status": "running",
+      "detail": "Sonnet 5 writing..."
+    }
+  },
   "run_state": "running",
-  "updated_at": "2026-08-06T04:14:03.303477+00:00"
+  "updated_at": "2026-08-06T04:14:05.541780+00:00"
 }
