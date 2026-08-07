@@ -1,7 +1,7 @@
 {
   "story_id": 178,
   "premise": "I invested my $115,000 widow’s inheritance into a high-end yarn dyeing studio with my stepdaughter, but she secretly siphoned every cent into a cryptocurrency wallet and disappeared, leaving me with nothing but empty dye vats; I traced the blockchain trail with a forensic accountant, got a court ruling, and now she hand-winds skeins in my ‘Purl of Perjury’ yarn shop in an apron that says ‘Tangled in Crypto Lies’ and every label prints the fraud docket.",
-  "stage": "thumb",
+  "stage": "assembly",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -20,8 +20,14 @@
       "icon": "image",
       "status": "done",
       "detail": "My Stepdaughter Stole My $115K Inheritance. So I Made Her Wind Yarn With Her Fra"
+    },
+    "assembly": {
+      "label": "Assembling video",
+      "icon": "film",
+      "status": "running",
+      "detail": "ffmpeg: character + drone + captions + waveform..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-07T11:14:28.625006+00:00"
+  "updated_at": "2026-08-07T11:14:30.229146+00:00"
 }
