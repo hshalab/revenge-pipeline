@@ -1,7 +1,7 @@
 {
   "story_id": 180,
   "premise": "I poured my $125,000 widow’s inheritance into buying and restoring a historic Victorian turreted house with my daughter, who notarized a 50% ownership and a lifetime promise that I could live in the turret room surrounded by my late husband’s book collection; after a boutique hotel chain offered $830,000 for the property, she forged a quitclaim deed, sold the house, and slipped me a $5,000 “moving” check—I discovered the original agreement folded inside a hollowed‑out book in the turret, voided the sale, and now run “Turret of Betrayal Bed & Breakfast,” where she irons linens in a housekeeping dress that says “Pressed Out My Trust” and every guest receipt prints the deed‑fraud docket number.",
-  "stage": "audio",
+  "stage": "thumb",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -14,8 +14,14 @@
       "icon": "mic",
       "status": "done",
       "detail": ""
+    },
+    "thumb": {
+      "label": "Thumbnail + metadata",
+      "icon": "image",
+      "status": "running",
+      "detail": "Writing title/tags + rendering thumbnail..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-07T17:28:22.096001+00:00"
+  "updated_at": "2026-08-07T17:28:24.541038+00:00"
 }
