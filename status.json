@@ -1,40 +1,8 @@
 {
-  "story_id": 178,
-  "premise": "I invested my $115,000 widow’s inheritance into a high-end yarn dyeing studio with my stepdaughter, but she secretly siphoned every cent into a cryptocurrency wallet and disappeared, leaving me with nothing but empty dye vats; I traced the blockchain trail with a forensic accountant, got a court ruling, and now she hand-winds skeins in my ‘Purl of Perjury’ yarn shop in an apron that says ‘Tangled in Crypto Lies’ and every label prints the fraud docket.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,540 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Stepdaughter Stole My $115K Inheritance. So I Made Her Wind Yarn With Her Fra"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "35.3 min, 911MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=UxLRfP9yv4c"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-07T11:35:58.066069+00:00",
-  "video_id": "UxLRfP9yv4c"
+  "story_id": 179,
+  "premise": "After my half-brother begged me to save his failing bakery with my $90,000 nursing pension, he promised in writing to repay with interest; instead, he fled the state, reopened under his wife’s name, and blocked my calls; I found him through a pie contest flyer, enforced the judgment, and now he scrubs mixing bowls in his old bakery, which I renamed ‘Crust of Consequences,’ wearing a shirt that says ‘Rolled Over My Trust’ while every bread bag prints his fraud case number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-07T14:09:11.953564+00:00"
 }
