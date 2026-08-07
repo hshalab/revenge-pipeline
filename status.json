@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Daughter Faked Terminal Cancer And Stole My $140K. So I Recorded Her Confessi"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-07T04:21:28.257691+00:00"
+  "updated_at": "2026-08-07T04:24:00.943453+00:00"
 }
