@@ -30,10 +30,10 @@
     "upload": {
       "label": "Uploading to YouTube",
       "icon": "upload",
-      "status": "running",
-      "detail": ""
+      "status": "error",
+      "detail": "EOF occurred in violation of protocol (_ssl.c:2427)"
     }
   },
-  "run_state": "running",
-  "updated_at": "2026-08-07T02:17:47.862139+00:00"
+  "run_state": "failed",
+  "updated_at": "2026-08-07T02:18:24.173946+00:00"
 }
