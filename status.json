@@ -1,33 +1,8 @@
 {
   "story_id": 174,
   "premise": "I cashed out my $122,000 401(k) to purchase and restore a rare collection of antique maps and terrestrial globes with my nephew, notarizing 50/50 and a promise to print free historical map reproductions for my book club; after a historical society offered $750,000 for the entire library, he forged a dissolution, sold the collection, and sent me a $4,000 'compass' check. I recovered the original partnership paperwork hidden inside a hollow globe’s interior, voided the sale, and now run 'Latitude of Deceit Maps,' where he dusts the globe collection in a shirt that reads 'Off the Map of Trust' and every reproduction map print includes a QR code to his fraud conviction.",
-  "stage": "assembly",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,685 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Nephew Forged A Dissolution, Sold The Collection For $4K. So I Let Him Dust T"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "running",
-      "detail": "ffmpeg: character + drone + captions + waveform..."
-    }
-  },
+  "stage": null,
+  "stages": {},
   "run_state": "running",
-  "updated_at": "2026-08-07T01:11:40.151676+00:00"
+  "updated_at": "2026-08-07T01:31:23.593393+00:00"
 }
