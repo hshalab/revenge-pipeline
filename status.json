@@ -1,8 +1,15 @@
 {
   "story_id": 177,
   "premise": "My brother-in-law sweet-talked me into adding him to my $190,000 home’s deed so he could ‘manage repairs,’ then he sold the house out from under me and vanished; I hired a private investigator who found him living in a beachside condo, proved the deed fraud, reclaimed my house, and now he mows lawns for my ‘Deed of Disgrace Lawn Care’ service, wearing a vest that says ‘Mowed Down My Trust’ while every invoice prints his fraud case number.",
-  "stage": null,
-  "stages": {},
+  "stage": "script",
+  "stages": {
+    "script": {
+      "label": "Writing script",
+      "icon": "pen",
+      "status": "running",
+      "detail": "Sonnet 5 writing..."
+    }
+  },
   "run_state": "running",
-  "updated_at": "2026-08-07T08:14:06.470361+00:00"
+  "updated_at": "2026-08-07T08:14:08.671347+00:00"
 }
