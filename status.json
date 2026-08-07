@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Nephew Stole My $750K Map Collection And Gave Me $4K. So I Made Him Dust The "
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-07T01:54:50.642481+00:00"
+  "updated_at": "2026-08-07T01:57:05.897165+00:00"
 }
