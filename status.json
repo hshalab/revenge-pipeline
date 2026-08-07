@@ -1,7 +1,7 @@
 {
   "story_id": 179,
   "premise": "After my half-brother begged me to save his failing bakery with my $90,000 nursing pension, he promised in writing to repay with interest; instead, he fled the state, reopened under his wife’s name, and blocked my calls; I found him through a pie contest flyer, enforced the judgment, and now he scrubs mixing bowls in his old bakery, which I renamed ‘Crust of Consequences,’ wearing a shirt that says ‘Rolled Over My Trust’ while every bread bag prints his fraud case number.",
-  "stage": "assembly",
+  "stage": "upload",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -26,8 +26,14 @@
       "icon": "film",
       "status": "done",
       "detail": "35.0 min, 930MB"
+    },
+    "upload": {
+      "label": "Uploading to YouTube",
+      "icon": "upload",
+      "status": "running",
+      "detail": ""
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-07T14:59:42.987908+00:00"
+  "updated_at": "2026-08-07T14:59:44.348338+00:00"
 }
