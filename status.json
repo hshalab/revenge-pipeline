@@ -1,7 +1,7 @@
 {
   "story_id": 175,
   "premise": "My daughter fabricated a terminal illness to con me out of my $140,000 retirement fund; I recorded her confession, got a court order, and now she changes linens at my ‘Maternal Mercy’ motel in a shirt that says ‘Faked it for a Suite’ while every room key prints the fraud docket.",
-  "stage": "assembly",
+  "stage": "upload",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -26,8 +26,14 @@
       "icon": "film",
       "status": "done",
       "detail": "31.3 min, 778MB"
+    },
+    "upload": {
+      "label": "Uploading to YouTube",
+      "icon": "upload",
+      "status": "running",
+      "detail": ""
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-07T04:42:33.547382+00:00"
+  "updated_at": "2026-08-07T04:42:35.026462+00:00"
 }
