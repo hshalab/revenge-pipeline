@@ -1,40 +1,8 @@
 {
-  "story_id": 176,
-  "premise": "I spent two decades managing our family’s antique jewelry store, expecting to inherit it when Mom passed, but my brother forged ownership papers and locked me out the day after the funeral; I unearthed a decade-old video of him admitting the forgery to a friend, overturned the transfer, and now he polishes silver in my renamed shop ‘Forged in Greed Jewelers’ wearing a tie that says ‘Heir of Deception’ and every appraisal certificate prints his perjury case.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "7,987 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Brother Forged Papers And Locked Me Out Of Mom's Store. So I Watched Him Conv"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "42.0 min, 1040MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=9Hi9K1loqAo"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-07T06:39:17.040851+00:00",
-  "video_id": "9Hi9K1loqAo"
+  "story_id": 177,
+  "premise": "My brother-in-law sweet-talked me into adding him to my $190,000 home’s deed so he could ‘manage repairs,’ then he sold the house out from under me and vanished; I hired a private investigator who found him living in a beachside condo, proved the deed fraud, reclaimed my house, and now he mows lawns for my ‘Deed of Disgrace Lawn Care’ service, wearing a vest that says ‘Mowed Down My Trust’ while every invoice prints his fraud case number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-07T08:14:06.470361+00:00"
 }
