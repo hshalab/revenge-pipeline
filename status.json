@@ -1,40 +1,8 @@
 {
-  "story_id": 177,
-  "premise": "My brother-in-law sweet-talked me into adding him to my $190,000 home’s deed so he could ‘manage repairs,’ then he sold the house out from under me and vanished; I hired a private investigator who found him living in a beachside condo, proved the deed fraud, reclaimed my house, and now he mows lawns for my ‘Deed of Disgrace Lawn Care’ service, wearing a vest that says ‘Mowed Down My Trust’ while every invoice prints his fraud case number.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,602 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Brother-In-Law Stole My $190K Deed And Sold The House. So I Hired A PI And Re"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "31.2 min, 803MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=x9r4HRYMCAc"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-07T08:58:27.501060+00:00",
-  "video_id": "x9r4HRYMCAc"
+  "story_id": 178,
+  "premise": "I invested my $115,000 widow’s inheritance into a high-end yarn dyeing studio with my stepdaughter, but she secretly siphoned every cent into a cryptocurrency wallet and disappeared, leaving me with nothing but empty dye vats; I traced the blockchain trail with a forensic accountant, got a court ruling, and now she hand-winds skeins in my ‘Purl of Perjury’ yarn shop in an apron that says ‘Tangled in Crypto Lies’ and every label prints the fraud docket.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-07T10:45:23.854246+00:00"
 }
