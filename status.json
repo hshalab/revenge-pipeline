@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Brother Forged Papers And Locked Me Out Of Mom's Store. So I Watched Him Conv"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-07T06:11:44.195659+00:00"
+  "updated_at": "2026-08-07T06:12:31.940798+00:00"
 }
