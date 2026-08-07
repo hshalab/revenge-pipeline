@@ -1,40 +1,8 @@
 {
-  "story_id": 175,
-  "premise": "My daughter fabricated a terminal illness to con me out of my $140,000 retirement fund; I recorded her confession, got a court order, and now she changes linens at my ‘Maternal Mercy’ motel in a shirt that says ‘Faked it for a Suite’ while every room key prints the fraud docket.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,572 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Daughter Faked Terminal Cancer And Stole My $140K. So I Recorded Her Confessi"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "31.3 min, 778MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=-eDR_fe0bAw"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-07T04:42:59.345603+00:00",
-  "video_id": "-eDR_fe0bAw"
+  "story_id": 176,
+  "premise": "I spent two decades managing our family’s antique jewelry store, expecting to inherit it when Mom passed, but my brother forged ownership papers and locked me out the day after the funeral; I unearthed a decade-old video of him admitting the forgery to a friend, overturned the transfer, and now he polishes silver in my renamed shop ‘Forged in Greed Jewelers’ wearing a tie that says ‘Heir of Deception’ and every appraisal certificate prints his perjury case.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-07T05:39:37.154940+00:00"
 }
