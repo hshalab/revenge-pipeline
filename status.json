@@ -1,15 +1,21 @@
 {
   "story_id": 178,
   "premise": "I invested my $115,000 widow’s inheritance into a high-end yarn dyeing studio with my stepdaughter, but she secretly siphoned every cent into a cryptocurrency wallet and disappeared, leaving me with nothing but empty dye vats; I traced the blockchain trail with a forensic accountant, got a court ruling, and now she hand-winds skeins in my ‘Purl of Perjury’ yarn shop in an apron that says ‘Tangled in Crypto Lies’ and every label prints the fraud docket.",
-  "stage": "script",
+  "stage": "audio",
   "stages": {
     "script": {
       "label": "Writing script",
       "icon": "pen",
       "status": "done",
       "detail": "6,540 words"
+    },
+    "audio": {
+      "label": "Kokoro narration",
+      "icon": "mic",
+      "status": "running",
+      "detail": "Kokoro af_bella narrating..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-07T10:56:28.712809+00:00"
+  "updated_at": "2026-08-07T10:56:31.311790+00:00"
 }
