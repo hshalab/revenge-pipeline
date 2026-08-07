@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Son Forged A Dissolution And Sold My Solar Stake. So I Let The Agreement Undo"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-07T23:03:29.031743+00:00"
+  "updated_at": "2026-08-07T23:05:20.601052+00:00"
 }
