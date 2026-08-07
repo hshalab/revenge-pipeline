@@ -1,7 +1,7 @@
 {
   "story_id": 182,
   "premise": "I cashed out my $131,000 401(k) to become a 45% partner in my son’s solar‑panel installation company, notarizing a lifetime of free electricity for my home; after a green‑energy firm offered $790,000 for the contracts, he forged a dissolution, sold my stake, and mailed me a $4,800 “utility bill” credit—I retrieved our original partnership agreement sealed inside the wiring diagram of a solar inverter, voided the sale, and now own “Watt of Deceit Solar,” where he cleans panels in a vest that says “Short‑Circuited Trust” and every installation manual prints his fraud‑docket number.",
-  "stage": "thumb",
+  "stage": "assembly",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -20,8 +20,14 @@
       "icon": "image",
       "status": "done",
       "detail": "My Son Forged A Dissolution And Sold My Solar Stake. So I Let The Agreement Undo"
+    },
+    "assembly": {
+      "label": "Assembling video",
+      "icon": "film",
+      "status": "running",
+      "detail": "ffmpeg: character + drone + captions + waveform..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-07T23:05:20.601052+00:00"
+  "updated_at": "2026-08-07T23:05:22.391266+00:00"
 }
