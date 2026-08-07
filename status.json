@@ -34,6 +34,7 @@
       "detail": "youtube.com/watch?v=W412xGD-seA"
     }
   },
-  "run_state": "running",
-  "updated_at": "2026-08-07T15:00:27.759375+00:00"
+  "run_state": "done",
+  "updated_at": "2026-08-07T15:00:28.994029+00:00",
+  "video_id": "W412xGD-seA"
 }
