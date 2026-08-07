@@ -1,40 +1,8 @@
 {
-  "story_id": 173,
-  "premise": "I poured my $113,000 widow’s inheritance into acquiring a historic collection of 1920s garden gnomes and opening a pottery‑painting studio with my daughter‑in‑law, notarizing a 50/50 share and a lifetime of themed gnomes for my granddaughters’ fairy gardens; when a national garden‑centre chain bid $520,000 for the original molds and brand, she forged a dissolution, sold my stake, and slipped me a $3,600 'cherub' check. I unearthed our contract sealed inside a hollow ceramic gnome, voided the sale, and now run 'Gnome of Deceit Pottery,' where she hand‑glazes figures in a smock that says 'Chipped Trust' and every gnome’s base is stamped with her probate‑fraud docket.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,276 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My DIL Forged Dissolution, Took $113K & Gnome Biz. So I Watched Her Glaze Under "
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "36.4 min, 922MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=meT5G9b-ezw"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-06T16:10:11.862545+00:00",
-  "video_id": "meT5G9b-ezw"
+  "story_id": 174,
+  "premise": "I cashed out my $122,000 401(k) to purchase and restore a rare collection of antique maps and terrestrial globes with my nephew, notarizing 50/50 and a promise to print free historical map reproductions for my book club; after a historical society offered $750,000 for the entire library, he forged a dissolution, sold the collection, and sent me a $4,000 'compass' check. I recovered the original partnership paperwork hidden inside a hollow globe’s interior, voided the sale, and now run 'Latitude of Deceit Maps,' where he dusts the globe collection in a shirt that reads 'Off the Map of Trust' and every reproduction map print includes a QR code to his fraud conviction.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-07T00:44:54.502657+00:00"
 }
