@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Half-Brother Stole $90K, Fled The State, And Blocked Me. So I Let The Law Han"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-07T14:35:08.920856+00:00"
+  "updated_at": "2026-08-07T14:37:52.418822+00:00"
 }
