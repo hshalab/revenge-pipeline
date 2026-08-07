@@ -1,7 +1,7 @@
 {
   "story_id": 179,
   "premise": "After my half-brother begged me to save his failing bakery with my $90,000 nursing pension, he promised in writing to repay with interest; instead, he fled the state, reopened under his wife’s name, and blocked my calls; I found him through a pie contest flyer, enforced the judgment, and now he scrubs mixing bowls in his old bakery, which I renamed ‘Crust of Consequences,’ wearing a shirt that says ‘Rolled Over My Trust’ while every bread bag prints his fraud case number.",
-  "stage": "thumb",
+  "stage": "assembly",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -20,8 +20,14 @@
       "icon": "image",
       "status": "done",
       "detail": "My Half-Brother Stole $90K, Fled The State, And Blocked Me. So I Let The Law Han"
+    },
+    "assembly": {
+      "label": "Assembling video",
+      "icon": "film",
+      "status": "running",
+      "detail": "ffmpeg: character + drone + captions + waveform..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-07T14:37:52.418822+00:00"
+  "updated_at": "2026-08-07T14:37:53.674852+00:00"
 }
