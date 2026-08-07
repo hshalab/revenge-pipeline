@@ -1,40 +1,8 @@
 {
-  "story_id": 181,
-  "premise": "I spent three decades as my father’s live‑in caregiver, forgoing my nursing career, only for my sister—the golden child who never lifted a finger—to forge a will after his death and steal my $240,000 inheritance; I found the true will taped behind his favorite portrait, contested probate, reclaimed the house, and now run “Heirloom of Deceit Estate Sales” from its parlor, where she dusts antiques in an apron that says “Wiped Away the Truth” and every item’s price tag prints her probate‑fraud docket number.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "7,953 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Sister Forged Dad's Will, Took $240K, and Left Me Homeless. So I Found the Re"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "44.4 min, 1127MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=vILxMV6Rsjc"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-07T20:52:44.717162+00:00",
-  "video_id": "vILxMV6Rsjc"
+  "story_id": 182,
+  "premise": "I cashed out my $131,000 401(k) to become a 45% partner in my son’s solar‑panel installation company, notarizing a lifetime of free electricity for my home; after a green‑energy firm offered $790,000 for the contracts, he forged a dissolution, sold my stake, and mailed me a $4,800 “utility bill” credit—I retrieved our original partnership agreement sealed inside the wiring diagram of a solar inverter, voided the sale, and now own “Watt of Deceit Solar,” where he cleans panels in a vest that says “Short‑Circuited Trust” and every installation manual prints his fraud‑docket number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-07T22:37:44.231624+00:00"
 }
