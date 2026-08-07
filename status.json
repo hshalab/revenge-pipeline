@@ -1,8 +1,15 @@
 {
   "story_id": 176,
   "premise": "I spent two decades managing our family’s antique jewelry store, expecting to inherit it when Mom passed, but my brother forged ownership papers and locked me out the day after the funeral; I unearthed a decade-old video of him admitting the forgery to a friend, overturned the transfer, and now he polishes silver in my renamed shop ‘Forged in Greed Jewelers’ wearing a tie that says ‘Heir of Deception’ and every appraisal certificate prints his perjury case.",
-  "stage": null,
-  "stages": {},
+  "stage": "script",
+  "stages": {
+    "script": {
+      "label": "Writing script",
+      "icon": "pen",
+      "status": "running",
+      "detail": "Sonnet 5 writing..."
+    }
+  },
   "run_state": "running",
-  "updated_at": "2026-08-07T05:39:37.154940+00:00"
+  "updated_at": "2026-08-07T05:39:39.141722+00:00"
 }
