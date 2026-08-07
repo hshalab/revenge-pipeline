@@ -1,39 +1,8 @@
 {
-  "story_id": 174,
-  "premise": "I cashed out my $122,000 401(k) to purchase and restore a rare collection of antique maps and terrestrial globes with my nephew, notarizing 50/50 and a promise to print free historical map reproductions for my book club; after a historical society offered $750,000 for the entire library, he forged a dissolution, sold the collection, and sent me a $4,000 'compass' check. I recovered the original partnership paperwork hidden inside a hollow globe’s interior, voided the sale, and now run 'Latitude of Deceit Maps,' where he dusts the globe collection in a shirt that reads 'Off the Map of Trust' and every reproduction map print includes a QR code to his fraud conviction.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,366 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Nephew Stole My $750K Map Collection And Gave Me $4K. So I Made Him Dust The "
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "33.8 min, 866MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "error",
-      "detail": "EOF occurred in violation of protocol (_ssl.c:2427)"
-    }
-  },
-  "run_state": "failed",
-  "updated_at": "2026-08-07T02:18:24.173946+00:00"
+  "story_id": 175,
+  "premise": "My daughter fabricated a terminal illness to con me out of my $140,000 retirement fund; I recorded her confession, got a court order, and now she changes linens at my ‘Maternal Mercy’ motel in a shirt that says ‘Faked it for a Suite’ while every room key prints the fraud docket.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-07T03:53:18.342449+00:00"
 }
