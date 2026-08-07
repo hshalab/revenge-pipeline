@@ -1,40 +1,8 @@
 {
-  "story_id": 180,
-  "premise": "I poured my $125,000 widow’s inheritance into buying and restoring a historic Victorian turreted house with my daughter, who notarized a 50% ownership and a lifetime promise that I could live in the turret room surrounded by my late husband’s book collection; after a boutique hotel chain offered $830,000 for the property, she forged a quitclaim deed, sold the house, and slipped me a $5,000 “moving” check—I discovered the original agreement folded inside a hollowed‑out book in the turret, voided the sale, and now run “Turret of Betrayal Bed & Breakfast,” where she irons linens in a housekeeping dress that says “Pressed Out My Trust” and every guest receipt prints the deed‑fraud docket number.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,706 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Daughter Forged A Quitclaim Deed, Sold My House, And Gave Me $5,000. So I Ope"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "35.9 min, 943MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=5ZkIk04LAUk"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-07T17:53:31.684130+00:00",
-  "video_id": "5ZkIk04LAUk"
+  "story_id": 181,
+  "premise": "I spent three decades as my father’s live‑in caregiver, forgoing my nursing career, only for my sister—the golden child who never lifted a finger—to forge a will after his death and steal my $240,000 inheritance; I found the true will taped behind his favorite portrait, contested probate, reclaimed the house, and now run “Heirloom of Deceit Estate Sales” from its parlor, where she dusts antiques in an apron that says “Wiped Away the Truth” and every item’s price tag prints her probate‑fraud docket number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-07T19:55:48.741098+00:00"
 }
