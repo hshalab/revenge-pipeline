@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Brother-In-Law Stole My $190K Deed And Sold The House. So I Hired A PI And Re"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-07T08:35:59.651390+00:00"
+  "updated_at": "2026-08-07T08:39:06.729356+00:00"
 }
