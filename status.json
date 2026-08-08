@@ -1,40 +1,8 @@
 {
-  "story_id": 183,
-  "premise": "I emptied my $98,000 nursing pension to co‑found a medical alert pendant company with my brother‑in‑law, notarizing 50/50 and a promise of free monitoring for my senior‑exercise group; when a telehealth conglomerate offered $550,000 for the subscriber base, he forged a dissolution, sold the assets, and sent me a $3,900 “monitoring” check—I found the original contract hidden behind the faceplate of a prototype pendant, voided the sale, and now run “Pendant of Perjury Alerts,” where he assembles wristbands in a smock that says “Fall Detection of Lies” and every device box prints his fraud docket number.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,822 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Brother-in-Law Stole My $98K Pension, Forged a Dissolution, Sent Me $3.9K. So"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "32.8 min, 813MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=BrwL8MFvnW4"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-08T03:39:04.841818+00:00",
-  "video_id": "BrwL8MFvnW4"
+  "story_id": 184,
+  "premise": "I poured my $129,000 nursing pension into launching a specialized memory‑care day center with my stepdaughter, who notarized a 50% stake and guaranteed free daily care for my mother; when a senior‑living chain bid $940,000 for the license and client list, she forged a dissolution, sold my share, and handed me a $5,200 “respite” check—I discovered the partnership documents locked inside a false‑bottomed file cabinet, voided the sale, and now operate “Memory of Deceit Care,” where she folds linens in a smock that says “Forgotten Trust” and every intake form prints the perjury‑docket number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-08T04:55:02.091333+00:00"
 }
