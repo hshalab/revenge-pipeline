@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Brother-in-Law Stole My $98K Pension, Forged a Dissolution, Sent Me $3.9K. So"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-08T03:17:06.765539+00:00"
+  "updated_at": "2026-08-08T03:19:15.997580+00:00"
 }
