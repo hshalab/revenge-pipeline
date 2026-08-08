@@ -1,40 +1,8 @@
 {
-  "story_id": 182,
-  "premise": "I cashed out my $131,000 401(k) to become a 45% partner in my son’s solar‑panel installation company, notarizing a lifetime of free electricity for my home; after a green‑energy firm offered $790,000 for the contracts, he forged a dissolution, sold my stake, and mailed me a $4,800 “utility bill” credit—I retrieved our original partnership agreement sealed inside the wiring diagram of a solar inverter, voided the sale, and now own “Watt of Deceit Solar,” where he cleans panels in a vest that says “Short‑Circuited Trust” and every installation manual prints his fraud‑docket number.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "7,070 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Son Forged A Dissolution And Sold My Solar Stake. So I Let The Agreement Undo"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "36.8 min, 947MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=yfO8W1NaCEQ"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-07T23:27:51.389510+00:00",
-  "video_id": "yfO8W1NaCEQ"
+  "story_id": 183,
+  "premise": "I emptied my $98,000 nursing pension to co‑found a medical alert pendant company with my brother‑in‑law, notarizing 50/50 and a promise of free monitoring for my senior‑exercise group; when a telehealth conglomerate offered $550,000 for the subscriber base, he forged a dissolution, sold the assets, and sent me a $3,900 “monitoring” check—I found the original contract hidden behind the faceplate of a prototype pendant, voided the sale, and now run “Pendant of Perjury Alerts,” where he assembles wristbands in a smock that says “Fall Detection of Lies” and every device box prints his fraud docket number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-08T02:55:30.930334+00:00"
 }
