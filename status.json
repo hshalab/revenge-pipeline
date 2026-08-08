@@ -1,8 +1,15 @@
 {
   "story_id": 184,
   "premise": "I poured my $129,000 nursing pension into launching a specialized memory‑care day center with my stepdaughter, who notarized a 50% stake and guaranteed free daily care for my mother; when a senior‑living chain bid $940,000 for the license and client list, she forged a dissolution, sold my share, and handed me a $5,200 “respite” check—I discovered the partnership documents locked inside a false‑bottomed file cabinet, voided the sale, and now operate “Memory of Deceit Care,” where she folds linens in a smock that says “Forgotten Trust” and every intake form prints the perjury‑docket number.",
-  "stage": null,
-  "stages": {},
+  "stage": "script",
+  "stages": {
+    "script": {
+      "label": "Writing script",
+      "icon": "pen",
+      "status": "running",
+      "detail": "Sonnet 5 writing..."
+    }
+  },
   "run_state": "running",
-  "updated_at": "2026-08-08T04:55:02.091333+00:00"
+  "updated_at": "2026-08-08T04:55:04.169358+00:00"
 }
