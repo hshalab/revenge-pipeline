@@ -1,40 +1,8 @@
 {
-  "story_id": 185,
-  "premise": "I co‑signed a $200,000 home‑equity loan so my son‑in‑law could open an auto‑repair shop, and when he defaulted the bank took my house while he vanished; I tracked him through a luxury car he’d bought with embezzled shop funds, won a judgment, and now run ‘Lien of Lies Auto Care’ where he changes oil in a jumpsuit that says ‘Dipstick of Deceit’ and every oil‑change sticker prints his fraud‑docket number.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,192 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Son-In-Law Made Me Co-Sign $200K, Vanished. So I Made Him Change Oil As Dipst"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "34.2 min, 880MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=vY_GxSyVpCw"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-09T12:12:37.180660+00:00",
-  "video_id": "vY_GxSyVpCw"
+  "story_id": 186,
+  "premise": "After my husband died, my stepson forged a deed and sold the family home for $320,000, leaving me with a moving truck and a prayer; I uncovered a video of my late husband confirming the house was marital property, overturned the sale, and now run ‘Forged Deed Dog Kennel’ where he scoops waste in a shirt that says ‘Scooped My Inheritance’ and every boarding tag prints the deed‑fraud docket number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-09T15:30:52.078486+00:00"
 }
