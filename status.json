@@ -1,7 +1,7 @@
 {
   "story_id": 186,
   "premise": "After my husband died, my stepson forged a deed and sold the family home for $320,000, leaving me with a moving truck and a prayer; I uncovered a video of my late husband confirming the house was marital property, overturned the sale, and now run ‘Forged Deed Dog Kennel’ where he scoops waste in a shirt that says ‘Scooped My Inheritance’ and every boarding tag prints the deed‑fraud docket number.",
-  "stage": "audio",
+  "stage": "thumb",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -14,8 +14,14 @@
       "icon": "mic",
       "status": "done",
       "detail": ""
+    },
+    "thumb": {
+      "label": "Thumbnail + metadata",
+      "icon": "image",
+      "status": "running",
+      "detail": "Writing title/tags + rendering thumbnail..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-09T15:51:36.941311+00:00"
+  "updated_at": "2026-08-09T15:51:38.709824+00:00"
 }
