@@ -1,7 +1,7 @@
 {
   "story_id": 185,
   "premise": "I co‑signed a $200,000 home‑equity loan so my son‑in‑law could open an auto‑repair shop, and when he defaulted the bank took my house while he vanished; I tracked him through a luxury car he’d bought with embezzled shop funds, won a judgment, and now run ‘Lien of Lies Auto Care’ where he changes oil in a jumpsuit that says ‘Dipstick of Deceit’ and every oil‑change sticker prints his fraud‑docket number.",
-  "stage": "assembly",
+  "stage": "upload",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -26,8 +26,14 @@
       "icon": "film",
       "status": "done",
       "detail": "34.2 min, 880MB"
+    },
+    "upload": {
+      "label": "Uploading to YouTube",
+      "icon": "upload",
+      "status": "running",
+      "detail": ""
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-09T12:12:11.328857+00:00"
+  "updated_at": "2026-08-09T12:12:12.660334+00:00"
 }
