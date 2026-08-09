@@ -1,30 +1,20 @@
 name: Revenge Pipeline
 
 on:
-  # Bumped to 8x/day 2026-07-17 (user decision: matched a competitor
-  # channel's real cadence, ~57 uploads/week per vidIQ, and cut script
-  # length to ~25min avg to match - see config.py SCRIPT_MIN_WORDS and
-  # upload_agent.py PUBLISH_SLOTS_ET, now evenly spaced every 3h ET).
-  #
-  # At this density, triggers are evenly spaced every 3h too (not
-  # hand-tuned per slot like the earlier 3-slot/day schedule), each ~3h
-  # before its ET slot. That's a tighter buffer than the old ~8h (typical
-  # renders run ~1.5-2.5h per prior GH Actions runs, so 3h usually holds,
-  # but the job's up-to-6h ceiling can still blow past it under a slow
-  # render). Same self-healing safety net as before: upload_agent puts a
-  # late-finishing video into the NEXT open slot rather than publishing
-  # late/incomplete, so a blown buffer degrades to a shifted slot, not a
-  # broken publish - just watch for slot drift becoming frequent, which
-  # would mean 3h isn't holding up in practice.
+  # Back down to 3x/day (2026-08-xx, user decision: "boros cost", cut from
+  # the 8x/day competitor-cadence experiment). Triggers each ~8h before
+  # their ET slot (see upload_agent.py PUBLISH_SLOTS_ET, back to the 3
+  # hand-picked market-prime times), comfortable buffer against the
+  # render job's up-to-6h ceiling. Same self-healing safety net either
+  # way: upload_agent puts a late-finishing video into the NEXT open slot
+  # rather than publishing late/incomplete.
+  #   04:00 UTC -> feeds the 08:00 ET slot (~8h buffer)
+  #   09:00 UTC -> feeds the 13:00 ET slot (~8h buffer)
+  #   15:00 UTC -> feeds the 19:30 ET slot (~8.5h buffer)
   schedule:
-    - cron: "0 1 * * *"
     - cron: "0 4 * * *"
-    - cron: "0 7 * * *"
-    - cron: "0 10 * * *"
-    - cron: "0 13 * * *"
-    - cron: "0 16 * * *"
-    - cron: "0 19 * * *"
-    - cron: "0 22 * * *"
+    - cron: "0 9 * * *"
+    - cron: "0 15 * * *"
   workflow_dispatch:
     inputs:
       dry_run:
