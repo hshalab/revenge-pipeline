@@ -1,40 +1,8 @@
 {
-  "story_id": 186,
-  "premise": "After my husband died, my stepson forged a deed and sold the family home for $320,000, leaving me with a moving truck and a prayer; I uncovered a video of my late husband confirming the house was marital property, overturned the sale, and now run ‘Forged Deed Dog Kennel’ where he scoops waste in a shirt that says ‘Scooped My Inheritance’ and every boarding tag prints the deed‑fraud docket number.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,007 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Stepson Forged The Deed And Sold My Home For $320K. So I Made Him Scoop Dog W"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "31.1 min, 801MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=D8RdpJK0K6I"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-09T16:12:01.112272+00:00",
-  "video_id": "D8RdpJK0K6I"
+  "story_id": 187,
+  "premise": "I drained my $132,000 nursing pension to pay off my nephew’s gambling debts, and he notarized a promise that I could live in his inherited house for life; he sold the house and evicted me, but I found a recording of him admitting it was a con, sued for fraud, seized the property, and now run ‘House of Cards Boarding’ where he washes windows in a vest that says ‘Washed Out Trust’ and every lease prints his promissory‑fraud docket.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-10T05:25:00.289421+00:00"
 }
