@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Nephew Took My $132K Pension, Promised Me A Home For Life, Then Evicted Me. S"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-10T05:46:42.151888+00:00"
+  "updated_at": "2026-08-10T05:49:47.330754+00:00"
 }
