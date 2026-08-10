@@ -1,40 +1,8 @@
 {
-  "story_id": 188,
-  "premise": "I poured my late husband’s $127,000 life insurance into my sister’s fertility clinic ater she vowed to care for me in my old age, but she sold the clinic for $800,000 and cut me off; I discovered a voice memo on an old phone where she mocked the promise, won a promissory estoppel judgment, and now run ‘Cycle of Deceit Egg Freezing’ where she sanitizes specimen containers in a smock that says ‘Fertile Ground for Lies’ and every consent form prints the fraud docket.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,588 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Sister Promised Care If I Gave Her My $127K, Sold Her Clinic And Cut Me Off. "
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "28.9 min, 761MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=rLIqYRri5sc"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-10T11:00:20.789268+00:00",
-  "video_id": "rLIqYRri5sc"
+  "story_id": 189,
+  "premise": "I used $145,000 of my retirement savings to buy a small pharmacy for my brother, who promised me a lifetime of free heart medication, but he sold the patient list, pocketed the cash, and stopped filling my prescriptions; I found a digital recording of him bragging to a friend about the scam, reclaimed the pharmacy license in court, and now run ‘Pill of Perjury Apothecary’ where he counts tablets in a lab coat that says ‘Overdosed on Lies’ and every prescription label prints his fraud‑docket number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-10T15:59:51.014049+00:00"
 }
