@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Sister Promised Care If I Gave Her My $127K, Sold Her Clinic And Cut Me Off. "
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-10T10:40:51.220863+00:00"
+  "updated_at": "2026-08-10T10:42:14.529439+00:00"
 }
