@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "Brother Took $145K Retirement, Promised Heart Meds, Then Cut Me Off. So I Took B"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-10T16:25:00.331740+00:00"
+  "updated_at": "2026-08-10T16:26:18.990033+00:00"
 }
