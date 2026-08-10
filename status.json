@@ -1,15 +1,21 @@
 {
   "story_id": 189,
   "premise": "I used $145,000 of my retirement savings to buy a small pharmacy for my brother, who promised me a lifetime of free heart medication, but he sold the patient list, pocketed the cash, and stopped filling my prescriptions; I found a digital recording of him bragging to a friend about the scam, reclaimed the pharmacy license in court, and now run ‘Pill of Perjury Apothecary’ where he counts tablets in a lab coat that says ‘Overdosed on Lies’ and every prescription label prints his fraud‑docket number.",
-  "stage": "script",
+  "stage": "audio",
   "stages": {
     "script": {
       "label": "Writing script",
       "icon": "pen",
       "status": "done",
       "detail": "7,414 words"
+    },
+    "audio": {
+      "label": "Kokoro narration",
+      "icon": "mic",
+      "status": "running",
+      "detail": "Kokoro af_bella narrating..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-10T16:04:20.138233+00:00"
+  "updated_at": "2026-08-10T16:04:24.444101+00:00"
 }
