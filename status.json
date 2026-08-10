@@ -1,7 +1,7 @@
 {
   "story_id": 188,
   "premise": "I poured my late husband’s $127,000 life insurance into my sister’s fertility clinic ater she vowed to care for me in my old age, but she sold the clinic for $800,000 and cut me off; I discovered a voice memo on an old phone where she mocked the promise, won a promissory estoppel judgment, and now run ‘Cycle of Deceit Egg Freezing’ where she sanitizes specimen containers in a smock that says ‘Fertile Ground for Lies’ and every consent form prints the fraud docket.",
-  "stage": "thumb",
+  "stage": "assembly",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -20,8 +20,14 @@
       "icon": "image",
       "status": "done",
       "detail": "My Sister Promised Care If I Gave Her My $127K, Sold Her Clinic And Cut Me Off. "
+    },
+    "assembly": {
+      "label": "Assembling video",
+      "icon": "film",
+      "status": "running",
+      "detail": "ffmpeg: character + drone + captions + waveform..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-10T10:42:14.529439+00:00"
+  "updated_at": "2026-08-10T10:42:16.002522+00:00"
 }
