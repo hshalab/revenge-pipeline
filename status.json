@@ -1,40 +1,8 @@
 {
-  "story_id": 187,
-  "premise": "I drained my $132,000 nursing pension to pay off my nephew’s gambling debts, and he notarized a promise that I could live in his inherited house for life; he sold the house and evicted me, but I found a recording of him admitting it was a con, sued for fraud, seized the property, and now run ‘House of Cards Boarding’ where he washes windows in a vest that says ‘Washed Out Trust’ and every lease prints his promissory‑fraud docket.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,872 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Nephew Took My $132K Pension, Promised Me A Home For Life, Then Evicted Me. S"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "32.4 min, 860MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=3IK_YaWpMck"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-10T06:09:38.171538+00:00",
-  "video_id": "3IK_YaWpMck"
+  "story_id": 188,
+  "premise": "I poured my late husband’s $127,000 life insurance into my sister’s fertility clinic ater she vowed to care for me in my old age, but she sold the clinic for $800,000 and cut me off; I discovered a voice memo on an old phone where she mocked the promise, won a promissory estoppel judgment, and now run ‘Cycle of Deceit Egg Freezing’ where she sanitizes specimen containers in a smock that says ‘Fertile Ground for Lies’ and every consent form prints the fraud docket.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-10T10:18:22.846225+00:00"
 }
