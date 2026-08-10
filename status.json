@@ -1,7 +1,7 @@
 {
   "story_id": 187,
   "premise": "I drained my $132,000 nursing pension to pay off my nephew’s gambling debts, and he notarized a promise that I could live in his inherited house for life; he sold the house and evicted me, but I found a recording of him admitting it was a con, sued for fraud, seized the property, and now run ‘House of Cards Boarding’ where he washes windows in a vest that says ‘Washed Out Trust’ and every lease prints his promissory‑fraud docket.",
-  "stage": "audio",
+  "stage": "thumb",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -14,8 +14,14 @@
       "icon": "mic",
       "status": "done",
       "detail": ""
+    },
+    "thumb": {
+      "label": "Thumbnail + metadata",
+      "icon": "image",
+      "status": "running",
+      "detail": "Writing title/tags + rendering thumbnail..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-10T05:46:40.277025+00:00"
+  "updated_at": "2026-08-10T05:46:42.151888+00:00"
 }
