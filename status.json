@@ -1,7 +1,7 @@
 {
   "story_id": 191,
   "premise": "I emptied my $98,000 nursing pension to co‑found an artisanal cheese‑aging cave with my cousin, who notarized a 50% share and a lifetime supply of cave‑aged cheddar for my grandchildren’s school fundraisers, but after a gourmet grocery chain offered $720,000 for the cheese cultures and aging room she forged a dissolution, sold my share, and handed me a $4,200 ‘rind’ check; I retrieved our partnership contract hidden inside a hollow cheese‑wheel mold, voided the sale, and now run ‘Whey of Betrayal Creamery,’ where she flips aging wheels in a hairnet that says ‘Cultured Lies’ and every cheese label prints the perjury‑docket number.",
-  "stage": "audio",
+  "stage": "thumb",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -14,8 +14,14 @@
       "icon": "mic",
       "status": "done",
       "detail": ""
+    },
+    "thumb": {
+      "label": "Thumbnail + metadata",
+      "icon": "image",
+      "status": "running",
+      "detail": "Writing title/tags + rendering thumbnail..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-11T10:23:38.186835+00:00"
+  "updated_at": "2026-08-11T10:23:40.226480+00:00"
 }
