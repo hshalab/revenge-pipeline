@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Sister-In-Law Forged A Dissolution And Sold My $110K Button Collection. So I "
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-11T16:19:59.583294+00:00"
+  "updated_at": "2026-08-11T16:22:52.579682+00:00"
 }
