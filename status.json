@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Cousin Stole My $98K Cheese Cave and Gave Me a $4,200 Rind Check. So I Voided"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-11T10:23:40.226480+00:00"
+  "updated_at": "2026-08-11T10:24:49.059596+00:00"
 }
