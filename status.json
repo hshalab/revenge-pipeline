@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Niece Stole My Widow's Pension, Sold My Pens, Gave Me $3,700. So I Voided The"
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-11T05:35:38.723954+00:00"
+  "updated_at": "2026-08-11T05:38:52.033480+00:00"
 }
