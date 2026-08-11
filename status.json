@@ -1,7 +1,7 @@
 {
   "story_id": 192,
   "premise": "I cashed out my $110,000 widow’s IRA to acquire a vast collection of antique glass buttons and silk passementerie trims for a couture supply studio with my sister‑in‑law, who notarized a 45% stake and free custom trim for my granddaughters’ wedding dresses, but after a Parisian fashion house offered $590,000 for the entire button library she forged a dissolution, sold the collection, and gave me a $3,800 ‘threadbare’ credit; I discovered the original agreement sewn inside a sample book of vintage ribbons, voided the sale, and now run ‘Button of Deceit Trims,’ where she sorts buttons by size in a smock that says ‘Unraveled Promises’ and every button card prints the fraud‑docket number.",
-  "stage": "audio",
+  "stage": "thumb",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -14,8 +14,14 @@
       "icon": "mic",
       "status": "done",
       "detail": ""
+    },
+    "thumb": {
+      "label": "Thumbnail + metadata",
+      "icon": "image",
+      "status": "running",
+      "detail": "Writing title/tags + rendering thumbnail..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-11T16:19:56.864496+00:00"
+  "updated_at": "2026-08-11T16:19:59.583294+00:00"
 }
