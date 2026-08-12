@@ -1,7 +1,7 @@
 {
   "story_id": 193,
   "premise": "I drained my $115,000 widow’s inheritance to establish an heirloom seed bank and heritage vegetable subscription with my son‑in‑law, who notarized a 50% stake and a lifetime of free organic seedlings for my community garden, but when a biotech seed company offered $830,000 for the seed vault and propagation protocols he forged a dissolution, sold the genetic stock, and left me a $4,500 ‘compost’ voucher; I found our partnership papers sealed inside a glass seed jar in the cold storage, voided the sale, and now run ‘Seed of Deceit Gardens,’ where he transplants sprouts in a vest that says ‘Planted Lies’ and every seed packet prints the probate‑fraud docket number.",
-  "stage": "thumb",
+  "stage": "assembly",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -20,8 +20,14 @@
       "icon": "image",
       "status": "done",
       "detail": "My Son-In-Law Sold My Seed Vault And Left Me A $4,500 Voucher. So I Voided The S"
+    },
+    "assembly": {
+      "label": "Assembling video",
+      "icon": "film",
+      "status": "running",
+      "detail": "ffmpeg: character + drone + captions + waveform..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-12T05:49:55.787811+00:00"
+  "updated_at": "2026-08-12T05:49:57.368385+00:00"
 }
