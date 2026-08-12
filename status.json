@@ -1,7 +1,7 @@
 {
   "story_id": 195,
   "premise": "I drained the $128,000 nursing pension I earned over thirty-two years of night shifts to open an antiquarian book-and-paper conservation studio with my son, notarizing a 50% stake and a lifetime of free Bible repairs for my church’s Sunday school, but after a university rare-book library offered $740,000 for the restored first-folio collection he forged a dissolution, sold the inventory, and handed me a $4,600 'colophon' check; I found our original agreement hidden inside the hollowed board of an 18th-century Geneva Bible, voided the sale, and now run 'Binding of Deceit Rare Books,' where he sews book signatures in a canvas apron that says 'Stitched in Lies' and every restoration certificate prints his fraud-docket number.",
-  "stage": "thumb",
+  "stage": "assembly",
   "stages": {
     "script": {
       "label": "Writing script",
@@ -20,8 +20,14 @@
       "icon": "image",
       "status": "done",
       "detail": "My Son Forged A Dissolution, Sold My $740K Rare Books, And Left Me $4,600. So I "
+    },
+    "assembly": {
+      "label": "Assembling video",
+      "icon": "film",
+      "status": "running",
+      "detail": "ffmpeg: character + drone + captions + waveform..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-12T16:34:35.674759+00:00"
+  "updated_at": "2026-08-12T16:34:36.851983+00:00"
 }
