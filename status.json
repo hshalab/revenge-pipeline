@@ -1,8 +1,15 @@
 {
   "story_id": 194,
   "premise": "I poured my $121,000 nursing pension into a boutique specializing in hand‑painted silk scarves and vintage kimono restoration with my goddaughter, who notarized a 50% stake and a lifetime silk scarf for each of my sister’s birthdays, but after a luxury resort chain offered $690,000 for the restored kimono collection she forged a dissolution, sold the silk stockpile, and mailed me a $4,100 ‘serger’ check; I unearthed the original agreement hidden inside the lining of a 1920s kimono, voided the sale, and now run ‘Silk of Deceit Studio,’ where she hand‑rolls hems in a smock that says ‘Tangled in Betrayal’ and every scarf care tag prints her fraud‑docket number.",
-  "stage": null,
-  "stages": {},
+  "stage": "script",
+  "stages": {
+    "script": {
+      "label": "Writing script",
+      "icon": "pen",
+      "status": "running",
+      "detail": "Sonnet 5 writing..."
+    }
+  },
   "run_state": "running",
-  "updated_at": "2026-08-12T10:06:14.349985+00:00"
+  "updated_at": "2026-08-12T10:06:15.919570+00:00"
 }
