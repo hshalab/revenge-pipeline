@@ -1,40 +1,8 @@
 {
-  "story_id": 194,
-  "premise": "I poured my $121,000 nursing pension into a boutique specializing in hand‑painted silk scarves and vintage kimono restoration with my goddaughter, who notarized a 50% stake and a lifetime silk scarf for each of my sister’s birthdays, but after a luxury resort chain offered $690,000 for the restored kimono collection she forged a dissolution, sold the silk stockpile, and mailed me a $4,100 ‘serger’ check; I unearthed the original agreement hidden inside the lining of a 1920s kimono, voided the sale, and now run ‘Silk of Deceit Studio,’ where she hand‑rolls hems in a smock that says ‘Tangled in Betrayal’ and every scarf care tag prints her fraud‑docket number.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,712 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "Goddaughter Forged My Stake, Sold My Kimonos, Sent Me A $4,100 Check. So I Had H"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "30.0 min, 774MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=V0H0t37_2_s"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-12T10:49:14.493236+00:00",
-  "video_id": "V0H0t37_2_s"
+  "story_id": 195,
+  "premise": "I drained the $128,000 nursing pension I earned over thirty-two years of night shifts to open an antiquarian book-and-paper conservation studio with my son, notarizing a 50% stake and a lifetime of free Bible repairs for my church’s Sunday school, but after a university rare-book library offered $740,000 for the restored first-folio collection he forged a dissolution, sold the inventory, and handed me a $4,600 'colophon' check; I found our original agreement hidden inside the hollowed board of an 18th-century Geneva Bible, voided the sale, and now run 'Binding of Deceit Rare Books,' where he sews book signatures in a canvas apron that says 'Stitched in Lies' and every restoration certificate prints his fraud-docket number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-12T16:02:44.420290+00:00"
 }
