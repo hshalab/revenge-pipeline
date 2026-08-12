@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Son Forged A Dissolution, Sold My $740K Rare Books, And Left Me $4,600. So I "
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-12T16:31:44.269609+00:00"
+  "updated_at": "2026-08-12T16:34:35.674759+00:00"
 }
