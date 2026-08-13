@@ -1,15 +1,21 @@
 {
   "story_id": 198,
   "premise": "I spent thirty years as a hospital cafeteria worker and used $119,000 of that sweat equity to revive a heritage cider-apple orchard and hard-cider press with my sister-in-law, notarizing a 45% stake and a lifetime of free cider for my daughters’ weddings, but when a national craft-beverage brand offered $680,000 for the orchard and recipes she forged a dissolution, sold my share, and handed me a $3,800 'pomace' check; I found our partnership contract inside the hollow wooden bung of an oak cider barrel, voided the sale, and now run 'Core of Deceit Cidery,' where she scrubs the press hopper in a smock that says 'Pressed Out Trust' and every bottle label prints her fraud-docket number.",
-  "stage": "script",
+  "stage": "audio",
   "stages": {
     "script": {
       "label": "Writing script",
       "icon": "pen",
       "status": "done",
       "detail": "5,597 words"
+    },
+    "audio": {
+      "label": "Kokoro narration",
+      "icon": "mic",
+      "status": "running",
+      "detail": "Kokoro af_bella narrating..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-13T16:08:01.787707+00:00"
+  "updated_at": "2026-08-13T16:08:04.178769+00:00"
 }
