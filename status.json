@@ -1,40 +1,8 @@
 {
-  "story_id": 196,
-  "premise": "I cashed out my late husband’s $112,000 life-insurance policy after twenty-seven years as a school custodian to buy and restore a fleet of vintage Airstream trailers for a family glamping business with my stepson, notarizing a 50% share and a lifetime of free summer weekends for my grandkids, but when a boutique hotel group offered $620,000 for the trailers and booking contracts he forged a title transfer, sold the fleet, and mailed me a $3,900 'propane' check; I recovered the original partnership paperwork from inside a 1958 Overlander’s propane locker, voided the sale, and now run 'Hitch of Betrayal Glamping,' where he re-seams trailer cushions in coveralls that say 'Riveted by Lies' and every booking confirmation prints his fraud-docket number.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "5,147 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Stepson Forged Title, Sold My $112K Airstream Fleet, Sent Me $3,900. So I Voi"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "25.7 min, 676MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=Nheu-FA2VII"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-13T06:21:20.150072+00:00",
-  "video_id": "Nheu-FA2VII"
+  "story_id": 197,
+  "premise": "I poured my $133,000 nursing pension into a dental-appliance lab with my daughter-in-law, notarizing a 50/50 partnership and free denture relines for my church seniors, but after a dental-service organization offered $710,000 for the lab and the patient-mold archive she forged a dissolution, sold the assets, and left me a $4,400 'core' check; I discovered the original agreement embedded inside a plaster denture mold, voided the sale, and now run 'Impression of Deceit Dental Lab,' where she pours alginate impressions in a lab coat that says 'Bite of Betrayal' and every denture case prints her fraud-docket number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-13T10:07:05.953268+00:00"
 }
