@@ -1,40 +1,8 @@
 {
-  "story_id": 197,
-  "premise": "I poured my $133,000 nursing pension into a dental-appliance lab with my daughter-in-law, notarizing a 50/50 partnership and free denture relines for my church seniors, but after a dental-service organization offered $710,000 for the lab and the patient-mold archive she forged a dissolution, sold the assets, and left me a $4,400 'core' check; I discovered the original agreement embedded inside a plaster denture mold, voided the sale, and now run 'Impression of Deceit Dental Lab,' where she pours alginate impressions in a lab coat that says 'Bite of Betrayal' and every denture case prints her fraud-docket number.",
-  "stage": "upload",
-  "stages": {
-    "script": {
-      "label": "Writing script",
-      "icon": "pen",
-      "status": "done",
-      "detail": "6,157 words"
-    },
-    "audio": {
-      "label": "Kokoro narration",
-      "icon": "mic",
-      "status": "done",
-      "detail": ""
-    },
-    "thumb": {
-      "label": "Thumbnail + metadata",
-      "icon": "image",
-      "status": "done",
-      "detail": "My Daughter-In-Law Forged A Dissolution, Sold My Lab, Left Me $4,400. So I Voide"
-    },
-    "assembly": {
-      "label": "Assembling video",
-      "icon": "film",
-      "status": "done",
-      "detail": "31.6 min, 804MB"
-    },
-    "upload": {
-      "label": "Uploading to YouTube",
-      "icon": "upload",
-      "status": "done",
-      "detail": "youtube.com/watch?v=Psvkutm7_jQ"
-    }
-  },
-  "run_state": "done",
-  "updated_at": "2026-08-13T10:51:30.852359+00:00",
-  "video_id": "Psvkutm7_jQ"
+  "story_id": 198,
+  "premise": "I spent thirty years as a hospital cafeteria worker and used $119,000 of that sweat equity to revive a heritage cider-apple orchard and hard-cider press with my sister-in-law, notarizing a 45% stake and a lifetime of free cider for my daughters’ weddings, but when a national craft-beverage brand offered $680,000 for the orchard and recipes she forged a dissolution, sold my share, and handed me a $3,800 'pomace' check; I found our partnership contract inside the hollow wooden bung of an oak cider barrel, voided the sale, and now run 'Core of Deceit Cidery,' where she scrubs the press hopper in a smock that says 'Pressed Out Trust' and every bottle label prints her fraud-docket number.",
+  "stage": null,
+  "stages": {},
+  "run_state": "running",
+  "updated_at": "2026-08-13T15:59:14.881786+00:00"
 }
