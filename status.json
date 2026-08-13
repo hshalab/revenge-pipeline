@@ -18,10 +18,10 @@
     "thumb": {
       "label": "Thumbnail + metadata",
       "icon": "image",
-      "status": "running",
-      "detail": "Writing title/tags + rendering thumbnail..."
+      "status": "done",
+      "detail": "My Sister-In-Law Forged My Signature, Sold My 45% For $680K, Left Me $3,800. So "
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-13T16:19:37.043042+00:00"
+  "updated_at": "2026-08-13T16:21:51.227438+00:00"
 }
