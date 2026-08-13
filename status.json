@@ -1,15 +1,21 @@
 {
   "story_id": 196,
   "premise": "I cashed out my late husband’s $112,000 life-insurance policy after twenty-seven years as a school custodian to buy and restore a fleet of vintage Airstream trailers for a family glamping business with my stepson, notarizing a 50% share and a lifetime of free summer weekends for my grandkids, but when a boutique hotel group offered $620,000 for the trailers and booking contracts he forged a title transfer, sold the fleet, and mailed me a $3,900 'propane' check; I recovered the original partnership paperwork from inside a 1958 Overlander’s propane locker, voided the sale, and now run 'Hitch of Betrayal Glamping,' where he re-seams trailer cushions in coveralls that say 'Riveted by Lies' and every booking confirmation prints his fraud-docket number.",
-  "stage": "script",
+  "stage": "audio",
   "stages": {
     "script": {
       "label": "Writing script",
       "icon": "pen",
       "status": "done",
       "detail": "5,147 words"
+    },
+    "audio": {
+      "label": "Kokoro narration",
+      "icon": "mic",
+      "status": "running",
+      "detail": "Kokoro af_bella narrating..."
     }
   },
   "run_state": "running",
-  "updated_at": "2026-08-13T05:53:27.002330+00:00"
+  "updated_at": "2026-08-13T05:53:29.034861+00:00"
 }
