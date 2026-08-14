@@ -1,8 +1,15 @@
 {
   "story_id": 199,
   "premise": "I emptied $104,000 of my widow's inheritance to purchase a collection of antique steamer trunks and open a luggage-restoration atelier with my half-sister, notarizing a 45% stake and a lifetime of free trunk repairs for my grandchildren's college moves, but after a luxury auction house offered $640,000 for the restored Louis Vuitton trunks she forged a dissolution, sold the collection, and mailed me a $3,700 'baggage' check; I retrieved the original agreement hidden in a false-bottomed 1920s steamer trunk, voided the sale, and now run 'Trunk of Deceit Atelier,' where she polishes brass locks in an apron that says 'Unlatched Lies' and every repair tag prints her fraud-docket number.",
-  "stage": null,
-  "stages": {},
+  "stage": "script",
+  "stages": {
+    "script": {
+      "label": "Writing script",
+      "icon": "pen",
+      "status": "running",
+      "detail": "Sonnet 5 writing..."
+    }
+  },
   "run_state": "running",
-  "updated_at": "2026-08-14T05:38:05.335839+00:00"
+  "updated_at": "2026-08-14T05:38:06.994154+00:00"
 }
